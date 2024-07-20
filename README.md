@@ -6,6 +6,32 @@ Team Members
 - Andy (@WishingWell13)
 - Lisa (@lisasiliu)
 
+## Setup 
+
+Using Python 3.10
+
+We recommend using `conda` if you need to get the Python version 
+`conda create -n empowHer python=3.10`
+
+1. Run `npm install`
+2. In the terminal run `mkdir api` then `cd api`
+3. Set up `venv`
+   1. For Unix:
+      1. `python3 -m venv venv`
+      2. `source venv/bin/activate`
+   2. For Windows:
+      1. `python -m venv venv`
+      2. `venv\Scripts\activate`
+4. Run `pip install flask python-dotenv` 
+
+## Running the Flask Backend
+
+Run `npm start-api` from the home directory to start the backend.
+
+## Tutorials:
+https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
