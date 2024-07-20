@@ -23,6 +23,7 @@ We recommend using `conda` if you need to get the Python version
       1. `python -m venv venv`
       2. `venv\Scripts\activate`
 4. Run `pip install flask python-dotenv` 
+5. Run `pip install selenium beautifulsoup4 pandas requests webdriver-manager chromedriver-autoinstaller lxml`
 
 ## Running the Flask Backend
 
