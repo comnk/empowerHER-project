@@ -12,11 +12,18 @@ function ProfessorComponent(props) {
         </span>
         {expanded ? (
           <div className="expandable">
-            <p><strong>Number of Publications:</strong> {professorInformation.number_of_publications}</p>
-            <p><strong>University:</strong> {professorInformation.university}</p>
-            <p><strong>Papers:</strong></p>
+            <p><strong>Paper Count:</strong> {professorInformation.paper_count}</p>
+            <p><strong>Theme Papers:</strong> {professorInformation.theme_papers}</p>
+            <p><strong> Most Recent Papers (Top 3):</strong></p>
             <ul>
               {professorInformation.top_papers.map((paper) => (
+                <li key={paper}>{paper}</li>
+              ))}
+            </ul>
+
+            <p><strong> Most Cited Papers (Top 3):</strong></p>
+            <ul>
+              {professorInformation.top_3_citation.map((paper) => (
                 <li key={paper}>{paper}</li>
               ))}
             </ul>
