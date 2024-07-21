@@ -6,11 +6,11 @@ Team Members
 - Andy (@WishingWell13)
 - Lisa (@lisasiliu)
 
-## Setup 
+## Setup
 
 Using Python 3.10
 
-We recommend using `conda` if you need to get the Python version 
+We recommend using `conda` if you need to get the Python version
 `conda create -n empowHer python=3.10`
 
 1. Run `npm install`
@@ -26,13 +26,14 @@ We recommend using `conda` if you need to get the Python version
 4. Run `pip install flask python-dotenv` 
 5. Run `pip install selenium beautifulsoup4 pandas requests webdriver-manager chromedriver-autoinstaller lxml`
 
+
 ## Running the Flask Backend
 
-Run `npm start-api` from the home directory to start the backend.
+Run `npm run start-api` from the home directory to start the backend.
 
 ## Tutorials:
-https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
 
+https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
 
 # Getting Started with Create React App
 
