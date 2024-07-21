@@ -1,6 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import Tabs from "./components/Tabs/Tabs";
 import ProfessorComponent from './components/ProfessorComponent/ProfessorComponent';
+import professorData from "./professor_data.json";
 import "./App.css";
 
 // hardcoded to test component, replace this later
@@ -26,9 +27,8 @@ const professors_list = [
 ];
 
 function App() {
-  const [searchItem, setSearchItem] = useState('')
-  const [currentTime, setCurrentTime] = useState(0);
-  const [professors, setFilteredUsers] = useState(professors_list)
+  const [searchItem, setSearchItem] = useState('');
+  const [professor_data, setFilteredUsers] = useState(professorData)
 
   const handleInputChange = (e) => { 
     const searchTerm = e.target.value;
@@ -41,25 +41,19 @@ function App() {
     setFilteredUsers(filteredItems);
   }
 
-  useEffect(() => {
-    fetch('time').then(res => res.json()).then(data => {
-      setCurrentTime(data.time);
-    });
-  }, []);
-
   return (
     <div className="App">
       <h1>Professor Listings & Rankings</h1>
       <Tabs>
         <div label="Gender & Computing" class="topic">
         <input type="text" value={searchItem} onChange={handleInputChange} placeholder='Type to search'/>
-          {professors.map((professor) => {
+          {professor_data.map((professor) => {
           return <ProfessorComponent key={professor.name} professorInformation={professor}></ProfessorComponent>;
         })}
         </div>
         <div label="Human-Computer Interaction" class="topic">
         <input type="text" value={searchItem} onChange={handleInputChange} placeholder='Type to search'/>
-        {professors.map((professor) => {
+        {professor_data.map((professor) => {
           return <ProfessorComponent key={professor.name} professorInformation={professor}></ProfessorComponent>;
         })}
         </div>
@@ -71,12 +65,11 @@ function App() {
         </div>
         <div label="AI" class="topic">
         <input type="text" value={searchItem} onChange={handleInputChange} placeholder='Type to search'/>
-        {professors.map((professor) => {
+        {professor_data.map((professor) => {
           return <ProfessorComponent key={professor.name} professorInformation={professor}></ProfessorComponent>;
         })}
         </div>
       </Tabs>
-      <p>The current time is {currentTime}.</p>
     </div>
   );
 }
