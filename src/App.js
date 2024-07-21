@@ -4,7 +4,7 @@ import ProfessorComponent from './components/ProfessorComponent/ProfessorCompone
 import "./App.css";
 
 // hardcoded to test component, replace this later
-const professors = [
+const professors_list = [
   {
     name: "Steven Dow",
     number_of_publications: 4,
@@ -26,8 +26,20 @@ const professors = [
 ];
 
 function App() {
-
+  const [searchItem, setSearchItem] = useState('')
   const [currentTime, setCurrentTime] = useState(0);
+  const [professors, setFilteredUsers] = useState(professors_list)
+
+  const handleInputChange = (e) => { 
+    const searchTerm = e.target.value;
+    setSearchItem(searchTerm)
+
+    const filteredItems = professors_list.filter((user) =>
+    user.name.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+
+    setFilteredUsers(filteredItems);
+  }
 
   useEffect(() => {
     fetch('time').then(res => res.json()).then(data => {
@@ -40,12 +52,15 @@ function App() {
       <h1>Professor Listings & Rankings</h1>
       <Tabs>
         <div label="Gender & Computing">
+        <input type="text" value={searchItem} onChange={handleInputChange} placeholder='Type to search'/>
           {professors.map((professor) => {
           return <ProfessorComponent key={professor.name} professorInformation={professor}></ProfessorComponent>;
         })}
         </div>
         <div label="Human-Computer Interaction">
-          After 'while, <em>Crocodile</em>!
+        {professors.map((professor) => {
+          return <ProfessorComponent key={professor.name} professorInformation={professor}></ProfessorComponent>;
+        })}
         </div>
         <div label="Computer Vision">
           Nothing to see here, this tab is <em>extinct</em>!
@@ -54,7 +69,9 @@ function App() {
           Nothing to see here, this tab is <em>extinct</em>!
         </div>
         <div label="AI">
-          See ya later, <em>Alligator</em>!
+        {professors.map((professor) => {
+          return <ProfessorComponent key={professor.name} professorInformation={professor}></ProfessorComponent>;
+        })}
         </div>
       </Tabs>
       <p>The current time is {currentTime}.</p>
