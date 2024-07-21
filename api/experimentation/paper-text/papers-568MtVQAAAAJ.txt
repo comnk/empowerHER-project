@@ -1,0 +1,39 @@
+The smt-lib standard: Version 2.0
+The SMT-LIB initiative is an international effort, supported by research groups worldwide, with the two-fold goal of producing an extensive on-line library of benchmarks and promoting the adoption of common languages and interfaces for SMT solvers. This paper introduces Version 2 of the SMT-LIB Standard. This is a major upgrade of the previous Version 1.2 which, in addition to simplifying and extending the languages of that version, includes a new command language for interfacing with SMT solvers.
+
+CVC: A cooperating validity checker
+StarExec: A cross-community infrastructure for logic solving
+Checking satisfiability of first-order formulas by incremental translation to SAT
+A decision procedure for an extensional theory of arrays
+A decision procedure for a theory of arrays is of interest for applications in formal verification, program analysis and automated theorem proving. This paper presents a decision procedure for an extensional theory of arrays and proves it correct.
+
+SMT-COMP: Satisfiability modulo theories competition
+Roadmap for enhanced languages and methods to aid verification
+This roadmap describes ways that researchers in four areas---specification languages, program generation, correctness by construction, and programming languages---might help further the goal of verified software. It also describes what advances the "verified software" grand challenge might anticipate or demand from work in these areas. That is, the roadmap is intended to help foster collaboration between the grand challenge and these research areas.A common goal for research in these areas is to establish language designs and tool architectures that would allow multiple annotations and tools to be used on a single program. In the long term, researchers could try to unify these annotations and integrate such tools.
+
+6 years of SMT-COMP
+SMT proof checking using a logical framework
+A Generalization of Shostak# x2019; s Method for Combining Decision Procedures
+Verified functional programming in Agda
+Agda is an advanced programming language based on Type Theory. Agda's type system is expressive enough to support full functional verification of programs, in two styles. In external verification, we write pure functional programs and then write proofs of properties about them. The proofs are separate external artifacts, typically using structural induction. In internal verification, we specify properties of programs through rich types for the programs themselves. This often necessitates including proofs inside code, to show the type checker that the specified properties hold. The power to prove properties of programs in these two styles is a profound addition to the practice of programming, giving programmers the power to guarantee the absence of bugs, and thus improve the quality of software more than previously possible. 
+ 
+Verified Functional Programming in Agda is the first book to provide a systematic exposition of external and internal verification in Agda, suitable for undergraduate students of Computer Science. No familiarity with functional programming or computer-checked proofs is presupposed. 
+ 
+The book begins with an introduction to functional programming through familiar examples like booleans, natural numbers, and lists, and techniques for external verification. Internal verification is considered through the examples of vectors, binary search trees, and Braun trees. More advanced material on type-level computation, explicit reasoning about termination, and normalization by evaluation is also included. The book also includes a medium-sized case study on Huffman encoding and decoding.
+
+A trustworthy proof checker
+Design and results of the first satisfiability modulo theories competition (SMT-COMP 2005)
+versat: A verified modern SAT solver
+Foundational proof checkers with small witnesses
+Proof checkers for proof-carrying code (and similar systems) can suffer from two problems: huge proof witnesses and untrustworthy proof rules. No previous design has addressed both of these problems simultaneously. We show the theory, design, and implementation of a proof-checker that permits small proof witnesses and machine-checkable proofs of the soundness of the system.
+
+Verified programming in Guru
+Operational Type Theory (OpTT) is a type theory allowing possibly diverging programs while retaining decidability of type checking and a consistent logic. This is done by distinguishing proofs and (program) terms, as well as formulas and types. The theory features propositional equality on type-free terms, which facilitates reasoning about dependently typed programs. OpTT has been implemented in the Guru verified programming language, which includes a type- and proof-checker, and a compiler to efficient C code. In addition to the core OpTT, Guru implements a number of extensions, including ones for verification of programs using mutable state and input/output. This paper gives an introduction to verified programming in Guru.
+
+Slothrop: Knuth-Bendix Completion with a Modern Termination Checker
+The SMT-LIB Initiative and the Rise of SMT: (HVC 2010 Award Talk)
+Proof checking technology for satisfiability modulo theories
+Design and results of the 3rd annual satisfiability modulo theories competition (SMT-COMP 2007)
+The Satisfiability Modulo Theories Competition (SMT-COMP) is an annual competition aimed at stimulating the advance of the state-of-the-art techniques and tools developed by the Satisfiability Modulo Theories (SMT) community. As with the first two editions, SMT-COMP 2007 was held as a satellite event of CAV 2007, held July 3-7, 2007. This paper gives an overview of the rules, competition format, benchmarks, participants and results of SMT-COMP 2007.
+
+DONE

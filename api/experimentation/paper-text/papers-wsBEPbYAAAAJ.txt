@@ -1,0 +1,25 @@
+GRASP and path relinking for the max–min diversity problem
+Tabu search and GRASP for the maximum diversity problem
+Advanced scatter search for the max-cut problem
+The max-cut problem consists of finding a partition of the nodes of a weighted graph into two subsets such that the sum of the weights on the arcs connecting the two subsets is maximized. This is an NP-hard problem that can also be formulated as an integer quadratic program. Several solution methods have been developed since the 1970s and applied to a variety of fields, particularly in engineering and layout design. We propose a heuristic method based on the scatter-search methodology for finding approximate solutions to this optimization problem. Our solution procedure incorporates some innovative features within the scatter-search framework: (1) the solution of the maximum diversity problem to increase diversity in the reference set, (2) a dynamic adjustment of a key parameter within the search, and (3) the adaptive selection of a combination method. We perform extensive computational experiments to first study the effect of changes in critical scatter-search elements and then to compare the efficiency of our proposal with previous solution procedures.
+
+Heuristics and metaheuristics for the maximum diversity problem
+GRASP with path relinking for the orienteering problem
+Multi-objective variable neighborhood search: an application to combinatorial optimization problems
+A branch and bound algorithm for the maximum diversity problem
+Variable neighborhood descent
+Variable neighborhood search strategies for the order batching problem
+Multiobjective GRASP with path relinking
+Tabu search with strategic oscillation for the maximally diverse grouping problem
+General variable neighborhood search for the order batching and sequencing problem
+Heuristics for the bi-objective path dissimilarity problem
+Metaheurísticas
+Actualmente, varios problemas de optimización del mundo real han sido modelados matemáticamente. El proceso de modelado considera la mayor cantidad de información posible para proporcionar resultados válidos, y el modelo obtenido comúnmente se resuelve computacionalmente. Sin embargo, a medida que aumenta la información, también aumenta la complejidad. En consecuencia, se necesita una mayor capacidad computacional para resolver problemas complejos y escalables. Como resultado, se han desarrollado algoritmos meta-heurísticos para resolver problemas complejos de optimización. Estos algoritmos se usan comúnmente para dos o más dimensiones en las que están involucradas operaciones vectoriales y matriciales. Por lo tanto, es útil realizar procesos paralelos que reduzcan el tiempo de ejecución para solucionar este problema. Actualmente, las unidades centrales de procesamiento (CPU, por sus siglas en inglés) multinúcleo logran resolver fácilmente pequeños problemas con cálculos paralelos. Sin embargo, la unidad de procesamiento de gráficos (GPU, por sus siglas en inglés) mejora el rendimiento porque integra una cantidad de núcleos más importante que la CPU. Es muy útil para resolver problemas utilizando varios procesos en paralelo. Las operaciones matriciales, el problema del vendedor y el problema de planificación de expansión de la transmisión (TEP) han sido seleccionados para implementarse utilizando la GPU para verificar la contribución del procesador al rendimiento de los cálculos científicos. En los resultados, la GPU ayudó a resolver el "problema del vendedor" porque se analizaron más soluciones o partículas candidatas en menos tiempo. Debido a estos resultados, se asumió que habría un mejor rendimiento resolviendo el problema TEP utilizando la GPU y analizando un número mayor de topologías candidatas en menos tiempo. Sin embargo, este no fue el caso; según los resultados, el uso de la GPU lleva más tiempo al analizar más partículas.
+
+Greedy randomized adaptive search procedure with exterior path relinking for differential dispersion minimization
+Segmentation algorithms for thermal images
+Advanced multi-start methods
+Variable formulation search for the cutwidth minimization problem
+A benchmark library and a comparison of heuristic methods for the linear ordering problem
+Hybrid heuristics for the maximum diversity problem
+DONE

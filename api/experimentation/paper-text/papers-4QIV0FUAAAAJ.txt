@@ -1,0 +1,4 @@
+Trust in e-commerce
+Counting and sampling triangles from a graph stream
+This paper presents a new space-efficient algorithm for counting and sampling triangles--and more generally, constant-sized cliques--in a massive graph whose edges arrive as a stream. Compared to prior work, our algorithm yields significant improvements in the space and time complexity for these fundamental problems. Our algorithm is simple to implement and has very good practical performance on large graphs.
+
