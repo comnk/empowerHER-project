@@ -5,7 +5,7 @@ function ProfessorComponent(props) {
     const [expanded, setExpanded] = useState(false);
     const { professorInformation } = props;
     return (
-      <div className="movie">
+      <div className="card">
         <p>{professorInformation.name}</p>
         <span className="showMore" onClick={() => setExpanded(!expanded)}>
           <b>Read More</b>
@@ -14,10 +14,10 @@ function ProfessorComponent(props) {
           <div className="expandable">
             <p><strong>Number of Publications:</strong> {professorInformation.number_of_publications}</p>
             <p><strong>University:</strong> {professorInformation.university}</p>
-            <p><strong>Actors:</strong></p>
+            <p><strong>Papers:</strong></p>
             <ul>
-              {professorInformation.top_papers.map((actor) => (
-                <li key={actor}>{actor}</li>
+              {professorInformation.top_papers.map((paper) => (
+                <li key={paper}>{paper}</li>
               ))}
             </ul>
           </div>

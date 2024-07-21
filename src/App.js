@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Tabs from "./components/Tabs";
+import Tabs from "./components/Tabs/Tabs";
 import ProfessorComponent from './components/ProfessorComponent/ProfessorComponent';
 import "./App.css";
 
@@ -51,24 +51,26 @@ function App() {
     <div className="App">
       <h1>Professor Listings & Rankings</h1>
       <Tabs>
-        <div label="Gender & Computing">
+        <div label="Gender & Computing" class="topic">
         <input type="text" value={searchItem} onChange={handleInputChange} placeholder='Type to search'/>
           {professors.map((professor) => {
           return <ProfessorComponent key={professor.name} professorInformation={professor}></ProfessorComponent>;
         })}
         </div>
-        <div label="Human-Computer Interaction">
+        <div label="Human-Computer Interaction" class="topic">
+        <input type="text" value={searchItem} onChange={handleInputChange} placeholder='Type to search'/>
         {professors.map((professor) => {
           return <ProfessorComponent key={professor.name} professorInformation={professor}></ProfessorComponent>;
         })}
         </div>
-        <div label="Computer Vision">
+        <div label="Computer Vision" class="topic">
           Nothing to see here, this tab is <em>extinct</em>!
         </div>
-        <div label="Quantum Computing">
+        <div label="Quantum Computing" class="topic">
           Nothing to see here, this tab is <em>extinct</em>!
         </div>
-        <div label="AI">
+        <div label="AI" class="topic">
+        <input type="text" value={searchItem} onChange={handleInputChange} placeholder='Type to search'/>
         {professors.map((professor) => {
           return <ProfessorComponent key={professor.name} professorInformation={professor}></ProfessorComponent>;
         })}

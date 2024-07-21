@@ -1,3 +1,15 @@
+.App {
+  background-color: #ccc;
+}
+
+input {
+  margin-bottom: 15px;
+}
+
+.topic {
+  padding-left: 15px;
+}
+
 .tab-list {
   border-bottom: 1px solid #ccc;
   padding-left: 0;
