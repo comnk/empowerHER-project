@@ -1,0 +1,57 @@
+SIAN: software for structural identifiability analysis of ODE models
+Summary
+Biological processes are often modeled by ordinary differential equations with unknown parameters. The unknown parameters are usually estimated from experimental data. In some cases, due to the structure of the model, this estimation problem does not have a unique solution even in the case of continuous noise-free data. It is therefore desirable to check the uniqueness a priori before carrying out actual experiments. We present a new software SIAN (Structural Identifiability ANalyser) that does this. Our software can tackle problems that could not be tackled by previously developed packages.
+
+
+Availability
+SIAN is open-source software written in Maple and is available at https://github.com/pogudingleb/SIAN.
+
+
+Supplementary information
+Supplementary data are available at Bioinformatics online.
+
+Global Identifiability of Differential Models
+Many real‐world processes and phenomena are modeled using systems of ordinary differential equations with parameters. Given such a system, we say that a parameter is globally identifiable if it can be uniquely recovered from input and output data. The main contribution of this paper is to provide theory, an algorithm, and software for deciding global identifiability. First, we rigorously derive an algebraic criterion for global identifiability (this is an analytic property), which yields a deterministic algorithm. Second, we improve the efficiency by randomizing the algorithm while guaranteeing the probability of correctness. With our new algorithm, we can tackle problems that could not be tackled before. A software based on the algorithm (called SIAN) is available at https://github.com/pogudingleb/SIAN. © 2020 Wiley Periodicals LLC
+
+Parameterized Picard--Vessiot extensions and Atiyah extensions
+
+A bound for orders in differential Nullstellensatz
+
+Reductive linear differential algebraic groups and the Galois groups of parameterized linear differential equations
+We develop the representation theory for reductive linear differential algebraic groups (LDAGs). In particular, we exhibit an explicit sharp upper bound for orders of derivatives in differential representations of reductive LDAGs, extending existing results, which were obtained for SL(2) in the case of just one derivation. As an application of the above bound, we develop an algorithm that tests whether the parameterized differential Galois group of a system of linear differential equations is reductive and, if it is, calculates it.
+
+σ-Galois theory of linear difference equations
+Inspired by the numerous applications of the differential algebraic independence results from [36], we develop a Galois theory with an action of an endomorphism σ for systems of linear difference equations of the form φ(y)= Ay, where A∈GLn(K) and K is a φσ field, that is, a field with two given commuting endomorphisms φ and σ , such as in Example 2.1. This provides a technique to test whether solutions of such systems satisfy σ -polynomial equations and, if yes, then characterize those. Galois groups, in this approach, are groups of invertible matrices defined by σ -polynomial equations with coefficients in the σ -field K := {a∈ K |φ(a)= a}. In more technical terms, such groups are functors from K-σ -algebras to sets represented by finitely σ -generated K-σ -Hopf
+
+Isomonodromic differential equations and differential categories
+
+Unipotent differential algebraic groups as parameterized differential Galois groups
+Abstract We deal with aspects of direct and inverse problems in parameterized Picard–Vessiot (PPV) theory. It is known that, for certain fields, a linear differential algebraic group (LDAG) $G$ is a PPV Galois group over these fields if and only if $G$ contains a Kolchin-dense finitely generated group. We show that, for a class of LDAGs $G$, including unipotent groups, $G$ is such a group if and only if it has differential type $0$. We give a procedure to determine if a parameterized linear differential equation has a PPV Galois group in this class and show how one can calculate the PPV Galois group of a parameterized linear differential equation if its Galois group has differential type $0$.
+
+Zariski closures of reductive linear differential algebraic groups
+
+Tannakian approach to linear differential algebraic groups
+
+Tannakian categories, linear differential algebraic groups, and parametrized linear differential equations
+
+Computing all identifiable functions of parameters for ODE models
+
+Differential tannakian categories
+
+New effective differential Nullstellensatz
+
+On the generalized Ritt problem as a computational problem
+
+Parameter identifiability and input-output equations
+
+Input-output equations and identifiability of linear ODE models
+Structural identifiability is a property of a differential model with parameters that allows for the parameters to be determined from the model equations in the absence of noise. The method of input–output (IO) equations is one method for verifying structural identifiability. This method stands out in its importance because the additional insights it provides can be used to analyze and improve models. However, its complete theoretical grounds and applicability are still to be established. A subtlety and key for this method to work correctly is knowing whether the coefficients of these equations are identifiable. In this article, to address this, we prove identifiability of the coefficients of IO equations for types of differential models that often appear in practice, such as linear models with one output and linear compartment models in which, from each compartment, one can reach either a leak or an input. This shows that checking identifiability via IO equations for these models is legitimate, and as we prove, that the field of identifiable functions is generated by the coefficients of the IO equations. Finally, we exploit a connection between IO equations and the transfer function matrix to show that, for a linear compartment model with an input and strongly connected graph, the field of all identifiable functions is generated by the coefficients of the transfer function matrix even if the initial conditions are generic.
+
+A bound for the Rosenfeld–Gröbner algorithm
+
+Classification and applications of monomial orderings and the properties of differential orderings
+
+Bounds for elimination of unknowns in systems of differential-algebraic equations
+Elimination of unknowns in systems of equations, starting with Gaussian elimination, is a problem of general interest. The problem of finding an a priori upper bound for the number of differentiations in elimination of unknowns in a system of differential-algebraic equations (DAEs) is an important challenge, going back to Ritt (1932). The first characterization of this via an asymptotic analysis is due to Grigoriev's result (1989) on quantifier elimination in differential fields, but the challenge still remained. 
+In this paper, we present a new bound, which is a major improvement over the previously known results. We also present a new lower bound, which shows asymptotic tightness of our upper bound in low dimensions, which are frequently occurring in applications. Finally, we discuss applications of our results to designing new algorithms for elimination of unknowns in systems of DAEs.
+

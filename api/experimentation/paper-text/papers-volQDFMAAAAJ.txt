@@ -1,0 +1,41 @@
+Narodowy Korpus Języka Polskiego
+Publikacja finansowana ze środkow na nauke 
+w latach 2007-2012 w ramach projekt rozwojowy.
+
+Universal Dependencies 2.2
+Multiword expressions (MWEs) are challenging and pervasive phenomena whose idiosyncratic properties show notably at the levels of lexicon, morphology, and syntax. Thus, they should best be annotated jointly with morphosyntax. We discuss two multilingual initiatives, Universal Dependencies and PARSEME, addressing these annotation layers in cross-lingually unified ways. We compare the annotation principles of these initiatives with respect to MWEs, and we put forward a roadmap towards their gradual unification. The expected outcomes are more consistent treebanking and higher universality in modeling idiosyncrasy.
+
+Case assignment and the complement/adjunct dichotomy: a non-configurational constraint-based approach
+The IPI PAN Corpus
+The aim of this paper is to present recent and ongoing work on adorning the IPI PAN Corpus of Polish (Przepiórkowski 2004, 2006a) with partial syntactic annotation, with the ultimate aim of building a treebank of Polish. The work described here is a part of the project Automatic extraction of linguistic knowledge from a large corpus of Polish (a Ministry of Education and Science grant number 3T11C00328), aiming at the automatic construction of a valence dictionary.
+
+Overview of the SPMRL 2013 shared task: cross-framework evaluation of parsing morphologically rich languages
+This paper reports on the first shared task on statistical parsing of morphologically rich languages (MRLs). The task features data sets from nine languages, each available both in constituency and dependency annotation. We report on the preparation of the data sets, on the proposed parsing scenarios, and on the evaluation metrics for parsing MRLs given different representation types. We present and analyze parsing results obtained by the task participants, and then provide an analysis and comparison of the parsers across languages and frameworks, reported for gold input as well as more realistic parsing scenarios.
+
+On case assignment and “adjuncts as complements”
+Korpus IPI PAN: wersja wstępna
+A flexemic tagset for Polish
+The article notes certain weaknesses of current efforts aiming at the standardization of POS tagsets for morphologically rich languages and argues that, in order to achieve clear mappings between tagsets, it is necessary to have clear and formal rules of delimiting POSs and grammatical categories within any given tagset. An attempt at constructing such a tagset for Polish is presented.
+
+Formalny opis języka polskiego: Teoria i implementacja
+Artykuł jest próbą pokazania, jakie znaczenie dla glottodydaktyki polonistycznej mają koncepcje C. Kramsch zawarte w książce Context and Culture in Language Teaching. Omawiam w nim podstawowe założenia teorii Kramsch, pokazuję również, w jaki sposób te koncepcje mogą być wykorzystane w praktyce podczas zajęć JPJO, z wykorzystaniem do tego tekstów literackich. Przywołuję także pracę D. Hymesa dotyczącą etnografii mowy, do której odnosiła się Kramsch. Teorie Hymesa omówiła szczegółowo G. Zarzycka w publikacji Dialog międzykulturowy. Teoria oraz opis komunikowania się cudzoziemców przyswajających język polski. Ponieważ celem niniejszego artykułu jest przybliżenie książki Kramsch, dla jasności wywodu przytaczam koncepcje badacza, powołując się na Zarzycką1.
+
+Powierzchniowe przetwarzanie języka polskiego
+O wartości przypadka podmiotów liczebnikowych
+Walenty: Towards a comprehensive valence dictionary of Polish
+This paper presents Walenty, a comprehensive valence dictionary of Polish, with a number of novel features, as compared to other such dictionaries. The notion of argument is based on the coordination test and takes into consideration the possibility of diverse morphosyntactic realisations. Some aspects of the internal structure of phraseological (idiomatic) arguments are handled explicitly. While the current version of the dictionary concentrates on syntax, it already contains some semantic features, including semantically defined arguments, such as locative, temporal or manner, as well as control and raising, and work on extending it with semantic roles and selectional preferences is in progress. Although Walenty is still being intensively developed, it is already by far the largest Polish valence dictionary, with around 8600 verbal lemmata and almost 39 000 valence schemata. The dictionary is publicly available on the Creative Commons BY SA licence and may be downloaded from http://zil.ipipan.waw.pl/Walenty.
+
+Towards the National Corpus of Polish
+This paper presents a new corpus project, aiming at building a national corpus of Polish. What makes it different from a typical YACP (Yet Another Corpus Project) is 1) the fact that all four partners in the project have in the past constructed corpora of Polish, sometimes in the spirit of collaboration, at other times - in the spirit of competition, 2) the partners bring into the project varying areas of expertise and experience, so the synergy effect is anticipated, 3) the corpus will be built with an eye on specific applications in various fields, including lexicography (the corpus will be the empirical basis of a new large general dictionary of Polish) and natural language processing (a number of NLP tools will be constructed within the project).
+
+Towards the automatic extraction of definitions in Slavic
+This paper presents the results of the preliminary experiments in the automatic extraction of definitions (for semi-automatic glossary construction) from usually unstructured or only weakly structured e-learning texts in Bulgarian, Czech and Polish. The extraction is performed by regular grammars over XML-encoded morphosyntactically-annotated documents. The results are less than satisfying and we claim that the reason for that is the intrinsic difficulty of the task, as measured by the low interannotator agreement, which calls for more sophisticated deeper linguistic processing, as well as for the use of machine learning classification techniques.
+
+Eventuality negation and negative concord in Polish and Italian
+National Corpus of Polish
+The research presented in this paper aims at enriching the manually morphosyntactically annotated part of National Corpus of Polish (NKJP1M) with a syntactic layer, i.e. dependency trees of sentences, and at converting both dependency trees and morphosyntactic annotations of particular tokens to Universal Dependencies. The dependency layer is built using a semi-automatic annotation procedure. The sentences from NKJP1M are first parsed with a dependency parser trained on Polish Dependency Bank, i.e. the largest bank of Polish dependency trees. The predicted dependency trees and the morphosyntactic annotations of tokens are then automatically converted into UD dependency graphs. NKJP1M sentences are an essential part of Polish Dependency Bank, we thus replace some automatically predicted dependency trees with their manually annotated equivalents. The final dependency treebank consists of 86K trees (including 15K gold-standard trees). A natural language pre-processing model trained on the enlarged set of (possibly noisy) dependency trees outperforms a model trained on a smaller set of the gold-standard trees in predicting part-of-speech tags, morphological features, lemmata, and labelled dependency trees
+
+PARSEME–PARSing and Multiword Expressions within a European multilingual network
+The aim of this paper is to present PARSEME, a COST Action devoted to the issue of Multiword Expressions in parsing and in linguistic resources (corpora, lexicons). This is a “meta-paper” intended to be the main citation point for any future work referring to PARSEME: it does not describe in detail any single result of the Action, but rather summarises its multifarious activities and provides links to such results (both completed and in progress).
+
+Czech and Polish raising/control with or without structure sharing

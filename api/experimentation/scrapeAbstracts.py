@@ -10,31 +10,77 @@
 #   </div>
 # </td>
 
+from multiprocessing.pool import ThreadPool as Pool
+from multiprocessing import TimeoutError
+import os
 import pandas as pd
 import requests, bs4
 from bs4 import BeautifulSoup
 from semanticscholar import SemanticScholar
 
 def scrape_professor(scholarid):
+    print("Scraping professor: " + scholarid)
     html_page = open("./profListings/scholar-" + scholarid + ".html", "r")
     soup = BeautifulSoup(html_page, "lxml")
     all_papers = soup.find_all('a', class_='gsc_a_at')
 
     file = open("./paper-text/papers-" + scholarid + ".txt", "w")
-    for paper in all_papers:
+    for ind, paper in enumerate(all_papers):
+        print(f"Doing paper {paper.string} of {scholarid} | {ind}/{len(all_papers)}")
         # url = "https://scholar.google.com" + paper['href']
         name = paper.get_text()
         # print(name)
 
         sch = SemanticScholar()
         results = sch.search_paper(name)
-        abstract = results[0].abstract
+        abstract = None 
+        if len(results) > 0:
+            abstract = results[0].abstract
 
-        file.write(name)
+        file.write(name + "\n")
         if abstract != None:
-           file.write(abstract)
+          file.write(abstract + "\n")
+          
+          
+        file.write("\n")
+        # file.flush() # INCLUDE ONLY FOR TESTING
+        # print(f"wrote to file {name} and {abstract}")
+          
 
+    file.write("DONE")
     file.close()
 
 if __name__=="__main__": 
-  scrape_professor("x8qCMhcAAAAJ")
+  # Number of parallel threads
+  pool_size = 100  # your "parallelness"
+  pool = Pool(pool_size)
+  processes = []
+  results = []
+  
+  directory = os.fsencode('profListings')
+  for ind, file in enumerate(os.listdir(directory)):
+    if (".html" not in os.fsdecode(file)) or ("scholar-" not in os.fsdecode(file)):
+        continue
+    filename = os.fsdecode(file)
+    profID = filename[8:-5] # remove scholar- and .html from filename
+    # print(profID)
+    processes.append((profID, pool.apply_async(scrape_professor, (profID,))))
+    print(f"Appending {ind} / {len(os.listdir(directory))} to pool")
+    
+  for ind, (profID, process) in enumerate(processes):
+    try:
+      # print(f"Waiting for {profID} process get")
+      print(f"Appending {ind} / {len(processes)} to results")
+      results.append(process.get(timeout = 600))
+    except TimeoutError:
+      print(f"Timeout with {profID}")
+      pass
+    except Exception as e:
+      print(f"Error with {profID}")
+      pass
+    
+  pool.close()
+  pool.join()
+
+
+

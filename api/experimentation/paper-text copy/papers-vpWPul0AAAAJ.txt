@@ -1,0 +1,49 @@
+Cooperative control of multi-agent systems: optimal and adaptive design approaches
+
+Optimal design for synchronization of cooperative systems: state feedback, observer and output feedback
+This technical note studies synchronization of identical general linear systems on a digraph containing a spanning tree. A leader node or command generator is considered, which generates the desired tracking trajectory. A framework for cooperative tracking control is proposed, including full state feedback control, observer design and dynamic output feedback control. The classical system theory notion of duality is extended to networked systems. It is shown that unbounded synchronization regions that achieve synchronization on arbitrary digraphs containing a spanning tree can be guaranteed by using linear quadratic regulator based optimal control and observer design methods at each node.
+
+Distributed adaptive control for synchronization of unknown nonlinear networked systems
+
+Backstepping approach for controlling a quadrotor using lagrange form dynamics
+
+Dynamic inversion with zero-dynamics stabilisation for quadrotor control
+For a quadrotor, one can identify the two well-known inherent rotorcraft characteristics: underactuation and strong coupling in pitch-yaw-roll. To confront these problems and design a station-keeping and tracking controller, dynamic inversion is used. Typical applications of dynamic inversion require the selection of the output control variables to render the internal dynamics stable. This means that in many cases, perfect tracking cannot be guaranteed for the actual desired outputs. Instead, the internal dynamics of the feedback linearised system is stabilised using a robust control term. Unlike standard dynamic inversion, the linear controller gains are chosen uniquely to satisfy the tracking performance. Stability and tracking performance are guaranteed using a Lyapunov-type proof. Simulation with a typical nonlinear quadrotor dynamic model is performed to show the effectiveness of the designed control law in the presence of input disturbances.
+
+Cooperative Globally Optimal Control for Multi-Agent Systems on Directed Graph Topologies
+
+Cooperative adaptive control for synchronization of second‐order systems with unknown nonlinearities
+This paper studies synchronization to a desired trajectory for multi‐agent systems with second‐order integrator dynamics and unknown nonlinearities and disturbances. The agents can have different dynamics and the treatment is for directed graphs with fixed communication topologies. The command generator or leader node dynamics is also nonlinear and unknown. Cooperative tracking adaptive controllers are designed based on each node maintaining a neural network parametric approximator and suitably tuning it to guarantee stability and performance. A Lyapunov‐based proof shows the ultimate boundedness of the tracking error. A simulation example with nodes having second‐order Lagrangian dynamics verifies the performance of the cooperative tracking adaptive controller. Copyright © 2010 John Wiley & Sons, Ltd.
+
+Transcription antitermination by bacteriophage lambda N gene product
+
+Female sex pheromone of brinjal fruit and shoot borer, Leucinodes orbonalis blend optimization
+
+Dynamic inversion of quadrotor with zero-dynamics stabilization
+For a typical quadrotor model, one can identify the two well known inherent rotorcraft characteristics; under-actuation and strong coupling in pitch-yaw-roll. To confront these problems and design a station-keeping tracking controller, dynamic inversion is used here. Typical applications of dynamic inversion require the selection of the output control variables to render the internal dynamics stable. This means that in many cases tracking can not be guaranteed for the actual desired outputs. Instead, here, the internal dynamics of the feedback linearized system is stabilized with a robust control term. Stability and tracking performance are guaranteed using a Lyapunov-type proof. The approach could be called ldquoforward steppingrdquo in contrast with the well known backstepping design. Simulation with a typical nonlinear quadrotor dynamic model is performed to show the effectiveness of the designed control law in the presence of noise and disturbances.
+
+Cooperative Control of Multi-Agent Systems, ser. Communications and Control Engineering
+Cooperative Control of Multi-agent
+
+Aloe vera: A contemporary overview on scope and prospects in food preservation and packaging
+
+In-situ polymerization into the basal spacing of LDH for selective and enhanced uranium adsorption: a case study with real life uranium alkaline leach liquor
+
+Development of multinutrient-rich biofortified sweet corn hybrids through genomics-assisted selection of shrunken2, opaque2, lcyE and crtRB1 genes
+
+A comparative study on effectiveness of online and offline learning in higher education
+The objective of the study is to assess the effectiveness of online and offline learning through higher education. The sudden outbreak of Covid-19 in various part of the world in 2020 has severely affected the educational institutions in various countries. Students were affected in the way to accept the hybrid form of learning and also grasp the interest towards the classes that were conducted online. The study aims to investigate the effectiveness of online and offline education in higher education. The study was carried out in India, Indonesia, Malaysia and other countries with 100 respondents among which major responses were from the youth population studying in Bachelor’s program, Diploma and Master’s mostly. The findings indicated that the effectiveness of online education is dismal, as students find it difficult to adjust to the online mode of education and the offline mode of education remains the most preferred mode of education.
+
+Advances in chia seed research
+Chia ( Salvia
+
+FarmFox: A quad-sensor-based IoT box for precision agriculture
+The amalgamation of traditional farming methodology with IoT can lead to sustainable agriculture. With this rationale, we have designed and developed an IoT-enhanced device—FarmFox, which can analyze the sensed information and transmitting it to the user via the internet. FarmFox thrives in real-time data collection, soil health monitoring via in-situ analysis, and controlling the whole architecture from a remote location. Compared to existing devices, FarmFox is an economic alternative as it utilizes Arduino-based hardware. Turbidity and pH, these two parameters are first incorpporated in FarmFox. The results confirm the success of soil health in terms of the four parameters. It is expected that the real-life implementation of FarmFox will lead toward a cost-effective smart solution for sustainable agriculture.
+
+New Insights into the H ii Region G18. 88–0.49: Hub–Filament System and Accreting Filaments
+We present an analysis of multiwavelength observations of an area of 0.°27 × 0.°27 around the Galactic H ii region G18.88−0.49, which is powered by an O-type star (age ∼ 105 yr). The Herschel column density map reveals a shell-like feature of extension ∼12 pc × 7 pc and mass ∼2.9 × 104 M⊙ around the H ii region; its existence is further confirmed by the distribution of molecular (12CO, 13CO, C18O, and NH3) gas at [60, 70] km s−1. Four subregions are studied toward this shell-like feature and show a mass range of ∼0.8–10.5 × 103 M⊙. These subregions associated with dense gas are dominated by nonthermal pressure and supersonic nonthermal motions. The shell-like feature is associated with the H ii region, Class I protostars, and a massive protostar candidate, illustrating the ongoing early phases of star formation (including massive stars). The massive protostar is found toward the position of the 6.7 GHz methanol maser, and is associated with outflow activity. Five parsec-scale filaments are identified in the column density and molecular maps and appear to be radially directed to the dense parts of the shell-like feature. This configuration is referred to as a “hub–filament” system. Significant velocity gradients (0.8–1.8 km s−1 pc−1) are observed along each filament, suggesting that the molecular gas flows toward the central hub along the filaments. Overall, our observational findings favor a global nonisotropic collapse scenario as discussed in Motte et al., which can explain the observed morphology and star formation in and around G18.88−0.49.
+
+Appendicitis risk prediction models in children presenting with right iliac fossa pain (RIFT study): a prospective, multicentre validation study
+
+Dynamic neural network-based robust backstepping control approach for quadrotors
+

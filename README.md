@@ -19,6 +19,7 @@ We recommend using `conda` if you need to get the Python version
    1. For Unix:
       1. `python3 -m venv venv`
       2. `source venv/bin/activate`
+         1. Must be run from `/api` directory
    2. For Windows:
       1. `python -m venv venv`
       2. `venv\Scripts\activate`
