@@ -1,4 +1,5 @@
 from semanticscholar import SemanticScholar
+import json
 
 authors = {}
 sch = SemanticScholar()
@@ -7,19 +8,25 @@ results = sch.search_paper('gender inequality computer science', fields=['title'
 # searching first 100 papers
 for paper in results.items: 
     for author in paper.authors:
-        authors[author.authorId] = {'name': author.name}
+        if author.authorId in authors:
+            authors[author.authorId]['theme paper(s)'].append(paper.title)
+        else:
+            authors[author.authorId] = {
+                'name': author.name,
+                'theme paper(s)': [paper.title],
+            }
 
 # get information per author
 count = 0
 for authorid in authors.keys():
     author = sch.get_author(int(authorid))
-    authors[authorid]['name'] = author.name
     authors[authorid]['paper count'] = author.paperCount
     authors[authorid]['citation count'] = author.citationCount
     authors[authorid]['h-index'] = author.hIndex
 
     papers = {}
     for paper in author.papers:
+        # print(paper.s2FieldsOfStudy)
         papers[paper.paperId] = {
             "title": paper.title,
             "publication date": paper.publicationDate,
@@ -29,7 +36,7 @@ for authorid in authors.keys():
             # "abstract": paper.abstract,
             # "fieldsOfStudy": paper.fieldsOfStudy # list
         }
-    authors[authorid]['papers'] = papers
+    # authors[authorid]['papers'] = papers
 
     top_3_recent = []
     recent_papers = {k: v for k, v in papers.items() if v['publication date'] is not None}
@@ -50,8 +57,10 @@ for authorid in authors.keys():
     if count >= 20:
         break
 
-# sort by h-index
-# sorted_authors = dict(sorted(authors.items(), key=lambda x, y: y['h-index'], reverse=True))
-# # print(sorted_authors)
-# for authorid, author in authors.items():
-#     print(author['name'], author['h-index'])
+hindex_authors = {k: v for k, v in authors.items() if 'h-index' in v}
+sorted_authors = dict(sorted(hindex_authors.items(), key=lambda x: x[1]['h-index'], reverse=True))
+# print(sorted_authors)
+
+json_object = json.dumps(sorted_authors, indent = 4) 
+with open("./semantic-scholar-details-20.json", "w") as outfile: 
+    outfile.write(json_object)
