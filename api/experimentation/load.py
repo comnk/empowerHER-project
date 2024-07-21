@@ -22,22 +22,24 @@ chromedriver_autoinstaller.install()
 
 # Initialize the WebDriver for Chrome
 driver = webdriver.Chrome()
+website = "https://csrankings.org/#/index?all&us"
+fileName = "./profListings/home.html"
 
 # Open Google search page
-driver.get("https://csrankings.org/#/index?all&us")
-driver.implicitly_wait(10) # Wait implicitly for elements to be ready
+driver.get(website)
+driver.implicitly_wait(30) # Wait implicitly for elements to be ready
 
 # Locate the search box, enter the search query, and submit
 # Wait for the results to load
 searchBox = driver.find_element(By.CLASS_NAME, "csr-chart")
-driver.implicitly_wait(10)  
+driver.implicitly_wait(30)  
 print(searchBox)
-driver.implicitly_wait(10)  
+driver.implicitly_wait(30)  
 
 
 try:
     pageSource = driver.page_source
-    fileToWrite = open("./profListings/home.html", "w")
+    fileToWrite = open(fileName, "w")
     fileToWrite.write(pageSource)
     fileToWrite.close()
 except ConnectionResetError:
