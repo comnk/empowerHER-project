@@ -13,26 +13,28 @@
 import pandas as pd
 import requests, bs4
 from bs4 import BeautifulSoup
+from semanticscholar import SemanticScholar
 
 def scrape_professor(scholarid):
     html_page = open("./profListings/scholar-" + scholarid + ".html", "r")
     soup = BeautifulSoup(html_page, "lxml")
     all_papers = soup.find_all('a', class_='gsc_a_at')
 
+    file = open("./paper-text/papers-" + scholarid + ".txt", "w")
     for paper in all_papers:
-        url = "https://scholar.google.com" + paper['href']
-        # http_proxy  = "http://10.10.1.10:3128"
-        # https_proxy = "https://10.10.1.11:1080"
-        # ftp_proxy   = "ftp://10.10.1.10:3128"
+        # url = "https://scholar.google.com" + paper['href']
+        name = paper.get_text()
+        # print(name)
 
-        # proxies = { 
-        #             "http"  : http_proxy, 
-        #             "https" : https_proxy, 
-        #             "ftp"   : ftp_proxy
-        #             }
-        # r = requests.get(url, allow_redirects=True, proxies=proxies)
-        # open('./abstracts-' + scholarid, 'wb').write(r.content)
-        print(url)
+        sch = SemanticScholar()
+        results = sch.search_paper(name)
+        abstract = results[0].abstract
+
+        file.write(name)
+        if abstract != None:
+           file.write(abstract)
+
+    file.close()
 
 if __name__=="__main__": 
   scrape_professor("x8qCMhcAAAAJ")
