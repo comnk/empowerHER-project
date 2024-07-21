@@ -1,6 +1,29 @@
 import React, { useState, useEffect } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Tabs from "./components/Tabs";
+import ProfessorComponent from './components/ProfessorComponent/ProfessorComponent';
+import "./App.css";
+
+// hardcoded to test component, replace this later
+const professors = [
+  {
+    name: "Steven Dow",
+    number_of_publications: 4,
+    university: 'University of California, San Diego',
+    top_papers: ["Jennifer Coolidge", "Michael Imperioli", "Aubrey Plaza"]
+  },
+  {
+    name: "Nadir Weibel",
+    number_of_publications: 5,
+    university: 'University of California, San Diego',
+    top_papers: ["Brian Cox", "Sarah Snook", "Jeremy Strong"]
+  },
+  {
+    name: "Edward Wang",
+    number_of_publications: 3,
+    university: 'University of California, San Diego',
+    top_papers: ["Pedro Pascal", "Bella Ramsey", "Nick Offerman"]
+  }
+];
 
 function App() {
 
@@ -14,21 +37,27 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-        <p>The current time is {currentTime}.</p>
-      </header>
+      <h1>Professor Listings & Rankings</h1>
+      <Tabs>
+        <div label="Gender & Computing">
+          {professors.map((professor) => {
+          return <ProfessorComponent key={professor.name} professorInformation={professor}></ProfessorComponent>;
+        })}
+        </div>
+        <div label="Human-Computer Interaction">
+          After 'while, <em>Crocodile</em>!
+        </div>
+        <div label="Computer Vision">
+          Nothing to see here, this tab is <em>extinct</em>!
+        </div>
+        <div label="Quantum Computing">
+          Nothing to see here, this tab is <em>extinct</em>!
+        </div>
+        <div label="AI">
+          See ya later, <em>Alligator</em>!
+        </div>
+      </Tabs>
+      <p>The current time is {currentTime}.</p>
     </div>
   );
 }
