@@ -1,9 +1,12 @@
 .App {
   background-color: #ccc;
+  padding-top: 2%;
+  padding-bottom: 18%;
 }
 
 input {
   margin-bottom: 15px;
+  margin-left: 50px;
 }
 
 .topic {
@@ -24,6 +27,6 @@ input {
 
 .tab-list-active {
   background-color: white;
-  border: solid #ccc;
+  border: solid black;
   border-width: 1px 1px 0 1px;
 }

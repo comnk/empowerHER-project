@@ -1,8 +1,10 @@
 .card {
-    background-color: blue;
-    padding-block: 5px;
+    padding: 0;
+    background-color: white;
     border: 2px solid black;
     margin-bottom: 10px;
+    width: 25%;
+    margin-left: 50px;
 }
 
 .showMore {
