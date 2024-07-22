@@ -1,43 +1,42 @@
-A service computing manifesto: the next 10 years
-SOAF: An architectural framework for service definition and realization
-Service oriented architecture (SOA) is an approach for building distributed systems that deliver application functionality as a set of self-contained business-aligned services with well-defined and discoverable interfaces. This paper presents a systematic and architecture-centric framework, named service oriented architecture framework (SOAF), to ease the definition, the design and the realization of SOA in order to achieve a better business and IT alignment. The proposed framework is business-process centric and comprises a set of structured activities grouped in five phases. It incorporates a range of techniques and guidelines for systematically identifying services, deciding service granularity and modeling services while integrating existing operational/legacy systems. The results from a pilot validation of SOAF for SOA enablement of a realistic securities trading application are presented. Best practices and lessons learned are also discussed
+Paper Name, Citations, Publication Date
+SOAF: An architectural framework for service definition and realization, 150, 2006-09-18 00:00:00
 
-Policy-driven middleware for self-adaptation of web services compositions
-Unsupervised learning approach for web application auto-decomposition into microservices
-Spatiotemporal data mining: a survey on challenges and open problems
-Recovery policies for enhancing web services reliability
-Web services are gaining acceptance as a standards-based approach for integrating loosely coupled services often distributed over a network. Hence, achieving high levels of reliability and availability in spite of service or infrastructure failures poses unique set of challenges. However, Web services middleware provide limited constructs for specifying faults detection and recovery actions. Additionally, faults-handling logic often gets scattered and tangled with the service logic. Consequently, this negatively impacts maintainability and adaptability. To address these requirements for reliable and fault tolerant Web services execution, we propose set extensible recovery policies to declaratively specify how to handle and recover from typical faults in Web services composition. The identified constructs were incorporated into a lightweight service management middleware named MASC (manageable and adaptive service composition) to transparently enact the fault management policies and facilitate the monitoring, configuration and control of managed services. Several experimental results with a service based supply chain management system illustrate the effectiveness of our approach to providing reliable and uninterrupted services
+Policy-driven middleware for self-adaptation of web services compositions, 99, 2006-11-01 00:00:00
 
-A risk mitigation approach for autonomous cloud intrusion response system
-wsBus: QoS-aware middleware for reliable web services interactions
-Service-oriented architecture (SOA) using Web services is considered as the state-of-the-art for distributed systems integration. As Web services start to be deployed across enterprise boundaries and for collaborative e-business scenarios, higher quality of service (QoS) and reliable inter-application messaging becomes a critical issue to ensure guaranteed and ordered delivery even in the case of system or network failures or temporary service outage. To address these requirements, we propose wsBus, a lightweight service-oriented middleware for dependable Web services interactions using broker pattern. We discuss the system architecture and features then report our experiences in building wsBus as well as some initial performance results.
+Recovery policies for enhancing web services reliability, 76, 2006-09-18 00:00:00
 
-A broker-based approach for improving Web services reliability
-As Web services start to be deployed for mission-critical applications and for e-business scenarios, higher quality of service (QoS) and continuous service delivery become a critical issue to ensure high availability and reliability in spite of the failure or unavailability of the participating services or networks. These challenges call for vast improvements in the Web services containers and the mediation infrastructure. To address these requirements, we propose Web services message bus (wsBus), a lightweight service-oriented middleware for reliable and fault tolerant Web services interactions. This paper first discusses wsBus architecture and features and then it reports some experimental results to illustrate the effectiveness of wsBus in adding reliable and uninterrupted services to a supply chain management system.
+Unsupervised learning approach for web application auto-decomposition into microservices, 60, 2019-05-01 00:00:00
 
-Model-based risk assessment for cyber physical systems security
-Adaptive prediction models for data center resources utilization estimation
-Accurate estimation of data center resource utilization is a challenging task due to multi-tenant co-hosted applications having dynamic and time-varying workloads. Accurate estimation of future resources utilization helps in better job scheduling, workload placement, capacity planning, proactive auto-scaling, and load balancing. The inaccurate estimation leads to either under or over-provisioning of data center resources. Most existing estimation methods are based on a single model that often does not appropriately estimate different workload scenarios. To address these problems, we propose a novel method to adaptively and automatically identify the most appropriate model to accurately estimate data center resources utilization. The proposed approach trains a classifier based on statistical features of historical resources usage to decide the appropriate prediction model to use for given resource utilization observations collected during a specific time interval. We evaluated our approach on real datasets and compared the results with multiple baseline methods. The experimental evaluation shows that the proposed approach outperforms the state-of-the-art approaches and delivers 6% to 27% improved resource utilization estimation accuracy compared to baseline methods.
+Spatiotemporal data mining: a survey on challenges and open problems, 56, 2021-03-31 00:00:00
 
-A finite state hidden markov model for predicting multistage attacks in cloud systems
-Cloud computing significantly increased the security threats because intruders can exploit the large amount of cloud resources for their attacks. However, most of the current security technologies do not provide early warnings about such attacks. This paper presents a Finite State Hidden Markov prediction model that uses an adaptive risk approach to predict multi-staged cloud attacks. The risk model measures the potential impact of a threat on assets given its occurrence probability. The attacks prediction model was integrated with our autonomous cloud intrusion detection framework (ACIDF) to raise early warnings about attacks to the controller so it can take proactive corrective actions before the attacks pose a serious security risk to the system. According to our experiments on DARPA 2000 dataset, the proposed prediction model has successfully fired the early warning alerts 39.6 minutes before the launching of the LLDDoS1.0 attack. This gives the auto response controller ample time to take preventive measures.
+WS-Policy based monitoring of composite web services, 54, 2007-11-26 00:00:00
 
-WS-Policy based monitoring of composite web services
-MASC (Manageable and Adaptive Service Compositions)1* is a policy-based middleware for monitoring and control of composite Web services execution. The monitorable requirements are specified in the WS-Policy4MASC language that extends WS-Policy by defining new types of monitoring and control policy assertions. This paper focuses on MASC monitoring capabilities to detect business exceptions and runtime faults. Our solutions are complementary to the existing approaches and provide: synchronous and asynchronous monitoring both at the SOAP messaging layer and the process orchestration layer, greater diversity of monitoring and control constructs, as well as the externalization of monitoring and adaptation actions from definitions of business processes. We implemented a MASC proof-of-concept prototype and evaluated it on monitoring and adaptation scenarios from a stock trading case study. Our performance studies indicate that MASC overhead and scalability are acceptable.
+wsBus: QoS-aware middleware for reliable web services interactions, 52, 2005-03-29 00:00:00
 
-A model-based approach to self-protection in computing system
-This paper introduces a model-based autonomic security management (ASM) approach to estimate, detect and identify security attacks along with planning a sequence of actions to effectively protect the networked computing system. In the proposed approach, sensors collect system and network parameters and send the data to the forecasters and the intrusion detection systems (IDSes). A multi-objective controller selects the optimal protection method to recover the system based on the signature of attacks. The proposed approach is demonstrated on several case studies including Denial of Service (DoS) attacks, SQL Injection attacks and memory exhaustion attacks. Experiments show that the ASM approach can successfully defend and recover the victim host from known and unknown attacks while maintaining QoS with low overheads.
+A broker-based approach for improving Web services reliability, 51, 2005-07-11 00:00:00
 
-Sentiment analysis as a service: a social media based sentiment analysis framework
-We propose a 'Sentiment Analysis as a Service' (SAaaS) framework that abstracts sentiments from social information services, analyses and transforms into useful information. We propose a dynamic service composition mechanism for sentiment analysis based on the social information service classification. We also propose a new quality model to assess the quality of social information services. We use social media based public health surveillance as a motivating scenario. In particular, we focus on the spatio-temporal properties of social media users' sentiments to identify the locations of disease outbreaks. Experiments are conducted on the real-world datasets. Analytical results preliminarily show the performance of our proposed approach.
+A finite state hidden markov model for predicting multistage attacks in cloud systems, 51, 2014-08-24 00:00:00
 
-Dynamic workload patterns prediction for proactive auto-scaling of web applications
-Ws-policy4masc-a ws-policy extension used in the masc middleware
-WS-Policy4MASC is a new XML language that we developed for specification of monitoring and control (particularly, adaptation) policies in the Manageable and Adaptable Services Compositions (MASC) middleware. It extends the Web Services Policy Framework (WS-Policy) by defining new types of policy assertions. Goal policy assertions specify requirements and guarantees to be met in desired normal operation. Action policy assertions specify actions to be taken if certain conditions are met or not met. Utility policy assertions specify monetary values assigned to particular situations. Meta-policy assertions are used to specify which action policy assertions are alternatives and which business value-driven conflict resolution strategy should be used. WS- Policy4MASC also enables detailed specification of additional information necessary for run-time policy-driven management. We evaluated feasibility of the WS- Policy4MASC solutions by implementing a policy repository and other modules in MASC. We examined their usefulness on a set of realistic scenarios.
+Adaptive prediction models for data center resources utilization estimation, 48, 2019-08-02 00:00:00
 
-Canny edge detection and Hough transform for high resolution video streams using Hadoop and Spark
-A Model-based Validated Autonomic Approach to Self-Protect Computing Systems
-This paper introduces an autonomic model-based cyber security management approach for the Internet of Things (IoT) ecosystems. The approach aims at realizing a self-protecting system, which has the ability to autonomously estimate, detect, and react to cyber attacks at an early stage. Our approach integrates various model-based techniques including: 1) real-time estimation and baseline security controls to predict and eliminate potential cyber attacks; 2) data analysis to identify and classify attacks; and 3) a multicriteria optimization method to select the optimal active response for deploying countermeasures while maintaining system functions. The prototype framework has been developed with a master controller virtual machine, which can be configured for various platforms. Experimental results demonstrated the effectiveness of this proposed approach in protecting a Web-based application against known and unknown attacks with little or no human intervention.
+A risk mitigation approach for autonomous cloud intrusion response system, 43, 2016-11-01 00:00:00
 
-Service design process for reusable services: Financial services case study
+Ws-policy4masc-a ws-policy extension used in the masc middleware, 40, 2007-07-09 00:00:00
+
+Dynamic workload patterns prediction for proactive auto-scaling of web applications, 39, 2018-12-01 00:00:00
+
+Service design process for reusable services: Financial services case study, 39, 2007-09-17 00:00:00
+
+A model-based approach to self-protection in computing system, 38, 2013-08-09 00:00:00
+
+A Model-based Validated Autonomic Approach to Self-Protect Computing Systems, 37, 2014-08-20 00:00:00
+
+Sentiment analysis as a service: a social media based sentiment analysis framework, 36, 2017-06-01 00:00:00
+
+Canny edge detection and Hough transform for high resolution video streams using Hadoop and Spark, 36, 2019-04-04 00:00:00
+
+Model-based risk assessment for cyber physical systems security, 28, 2020-05-28 00:00:00
+
+A service computing manifesto: the next 10 years, -1, 
+
 DONE

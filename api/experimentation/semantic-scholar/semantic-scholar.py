@@ -34,7 +34,7 @@ for authorid in authors.keys():
             "influential citation count": paper.influentialCitationCount,
             # "venue": paper.venue,
             # "abstract": paper.abstract,
-            # "fieldsOfStudy": paper.fieldsOfStudy # list
+            "fieldsOfStudy": paper.s2FieldsOfStudy # list
         }
     # authors[authorid]['papers'] = papers
 

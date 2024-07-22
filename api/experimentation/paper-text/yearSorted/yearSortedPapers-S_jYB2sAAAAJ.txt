@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+A general approach to network configuration verification, 227, 2017-08-07 00:00:00
+
+Probabilistic temporal logic falsification of cyber-physical systems, 173, 2013-05-01 00:00:00
+
+Coverage guided systematic concurrency testing, 91, 2011-05-21 00:00:00
+
+Monte-carlo techniques for falsification of temporal properties of non-linear hybrid systems, 142, 2010-04-12 00:00:00
+
+Symbolic predictive analysis for concurrent programs, 111, 2009-11-04 00:00:00
+
+Monotonic partial order reduction: An optimal symbolic partial order reduction technique, 110, 2009-06-23 00:00:00
+
+Efficient SAT-based bounded model checking for software verification, 97, 2008-09-01 00:00:00
+
+Peephole partial order reduction, 86, 2008-03-29 00:00:00
+
+Fast and accurate static data-race detection for concurrent programs, 119, 2007-07-03 00:00:00
+
+SAT-based scalable formal verification solutions, 65, 2007-05-01 00:00:00
+
+Accelerating high-level bounded model checking, 79, 2006-11-05 00:00:00
+
+Static analysis in disjunctive numerical domains, 96, 2006-08-29 00:00:00
+
+Model checking C programs using F-Soft, 100, 2005-10-02 00:00:00
+
+F-Soft: Software verification platform, 124, 2005-07-06 00:00:00
+
+Reasoning about threads communicating via locks, 125, 2005-07-06 00:00:00
+
+A survey of recent advances in SAT-based formal verification, 302, 2005-04-01 00:00:00
+
+Iterative abstraction using SAT-based BMC with proof analysis, 88, 2003-11-09 00:00:00
+
+Combining strengths of circuit-based and CNF-based algorithms for a high-performance SAT solver, 126, 2002-06-10 00:00:00
+
+SAT-based image computation with application in reachability analysis, 101, 2000-11-01 00:00:00
+
+Formal hardware verification methods: A survey, 227, 1992-10-01 00:00:00
+

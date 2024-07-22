@@ -1,0 +1,42 @@
+Paper Name, Citations, Publication Date
+Trustworthy {Whole-System} provenance for the linux kernel, 227, 2015-08-12 00:00:00
+
+Nodoze: Combatting threat alert fatigue with automated provenance triage, 208, None
+
+UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats, 182, 2020-01-06 00:00:00
+
+Fear and logging in the internet of things, 163, None
+
+Skill squatting attacks on Amazon Alexa, 162, None
+
+Tactical provenance analysis for endpoint detection and response systems, 133, 2020-05-01 00:00:00
+
+Charting the attack surface of trigger-action IoT platforms, 122, 2019-11-06 00:00:00
+
+Towards scalable cluster auditing through grammatical inference over provenance graphs, 108, None
+
+Detecting co-residency with active traffic analysis techniques, 107, 2012-10-19 00:00:00
+
+Mo (bile) money, mo (bile) problems: Analysis of branchless banking applications, 91, 2015-08-12 00:00:00
+
+Runtime analysis of whole-system provenance, 83, 2018-01-15 00:00:00
+
+OmegaLog: High-fidelity attack investigation via transparent multi-layer log analysis, 78, None
+
+Let SDN be your eyes: Secure forensics in data center networks, 78, None
+
+Defending against malicious USB firmware with GoodUSB, 73, 2015-12-07 00:00:00
+
+Towards secure provenance-based access control in cloud environments, 71, 2013-02-18 00:00:00
+
+On detecting co-resident cloud instances using network flow watermarking techniques, 59, 2014-04-01 00:00:00
+
+Custos: Practical tamper-evident auditing of operating systems using trusted execution, 57, None
+
+Cross-app poisoning in software-defined networking, 50, 2018-10-08 00:00:00
+
+Securing SSL certificate verification through dynamic linking, 49, 2014-11-03 00:00:00
+
+Valve: Securing function workflows on serverless computing platforms, 47, 2020-04-19 00:00:00
+
+DONE

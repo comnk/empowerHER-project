@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Developing a predictive approach to knowledge, 68, None
+
+Report on the 2008 reinforcement learning competition, 6, None
+
+Surprise and curiosity for big data robotics, 26, None
+
+Reinforcement learning benchmarks and bake-offs II, 22, None
+
+Loss of plasticity in continual deep reinforcement learning, 39, 2023-03-13 00:00:00
+
+Adapting behavior via intrinsic reward: A survey and empirical study, 22, 2020-12-14 00:00:00
+
+Gradient temporal-difference learning with regularized corrections, 40, 2020-07-01 00:00:00
+
+Improving performance in reinforcement learning by breaking generalization in neural networks, 27, 2020-03-16 00:00:00
+
+Online off-policy prediction, 23, 2018-11-06 00:00:00
+
+General value function networks, 30, 2018-07-18 00:00:00
+
+Organizing experience: a deeper look at replay mechanisms for sample-based planning in continuous state domains, 47, 2018-06-12 00:00:00
+
+Accelerated gradient temporal difference learning, 26, 2016-11-01 00:00:00
+
+A greedy approach to adapting the trace parameter for temporal difference learning, 44, 2016-05-09 00:00:00
+
+Investigating practical linear temporal difference learning, 38, 2016-02-28 00:00:00
+
+Scaling life-long off-policy learning, 26, 2012-06-27 00:00:00
+
+Multi-timescale nexting in a reinforcement learning robot, 124, 2011-12-05 00:00:00
+
+Horde: A scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction, 498, 2011-05-02 00:00:00
+
+Interval Estimation for Reinforcement-Learning Algorithms in Continuous-State Domains, 28, 2010-12-06 00:00:00
+
+RL-Glue: Language-independent software for reinforcement-learning experiments, 127, 2009-12-01 00:00:00
+
+Feature construction for reinforcement learning in hearts, 59, 2006-05-29 00:00:00
+

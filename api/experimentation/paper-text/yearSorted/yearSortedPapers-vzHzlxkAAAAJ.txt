@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Segmentation of mammography by applying growcut for mass detection, 27, None
+
+An esl approach for energy consumption analysis of cache memories in soc platforms, 15, None
+
+Covid-19 dynamic monitoring and real-time spatio-temporal forecasting, 23, 2021-04-08 00:00:00
+
+COVID-SGIS: a smart tool for dynamic monitoring and temporal forecasting of Covid-19, 15, 2020-06-03 00:00:00
+
+Deep convolutional extreme learning machines: Filters combination and error model validation, 31, 2019-02-15 00:00:00
+
+Autonomous power management in mobile devices using dynamic frequency scaling and reinforcement learning for energy minimization, 11, 2019-02-01 00:00:00
+
+Electromyography-controlled car: A proof of concept based on surface electromyography, Extreme Learning Machines and low-cost open hardware, 18, 2019-01-01 00:00:00
+
+Objective evaluation of multiple sclerosis lesion segmentation using a data management and processing infrastructure, 211, 2018-07-13 00:00:00
+
+Analysis of supervised and semi-supervised GrowCut applied to segmentation of masses in mammography images, 23, 2017-03-29 00:00:00
+
+A semi-supervised fuzzy GrowCut algorithm to segment and classify regions of interest of mammographic images, 43, 2016-12-15 00:00:00
+
+Detection and classification of masses in mammographic images in a multi-kernel approach, 76, 2016-10-01 00:00:00
+
+An adaptive semi-supervised Fuzzy GrowCut algorithm to segment masses of regions of interest of mammographic images, 30, 2016-09-01 00:00:00
+
+Fuzzy morphological extreme learning machines to detect and classify masses in mammograms, 28, 2015-11-30 00:00:00
+
+Feature extraction employing fuzzy-morphological decomposition for detection and classification of mass on mammograms, 9, 2015-08-01 00:00:00
+
+A methodology for classification of lesions in mammographies using zernike moments, elm and svm neural networks in a multi-kernel approach, 20, 2014-12-04 00:00:00
+
+Dynamic frequency scaling on android platforms for energy consumption reduction, 13, 2013-11-03 00:00:00
+
+Energy-aware technology-based DVFS mechanism for the android operating system, 5, 2012-11-05 00:00:00
+
+Segmentation of mammography by applying extreme learning machine in tumor detection, 21, 2012-08-29 00:00:00
+
+An optimization mechanism intended for two-level cache hierarchy to improve energy and performance using the nsgaii algorithm, 11, 2008-10-29 00:00:00
+
+Heuristic for two-level cache hierarchy exploration considering energy consumption and performance, 25, 2006-09-13 00:00:00
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Keystroke/mouse usage based emotion detection and user identification, 19, None
+
+Network-level performance enhancement in wireless nanosensor networks through multi-layer modifications, 10, None
+
+An intelligent IoT approach for analyzing and managing crowds, 10, None
+
+Strategizing secured image storing and efficient image retrieval through a new cloud framework, 10, 2021-10-15 00:00:00
+
+Towards achieving a delicate blending between rule-based translator and neural machine translator, 17, 2021-03-29 00:00:00
+
+Man-in-the-middle attack on contactless payment over NFC communications: design, implementation, experiments and detection, 15, 2020-10-12 00:00:00
+
+Learning from tweets: opportunities and challenges to inform policy making during dengue epidemic, 19, 2020-05-28 00:00:00
+
+A hybrid IoT-based approach for emergency evacuation, 25, 2019-05-22 00:00:00
+
+A tale of a deep learning approach to image forgery detection, 6, 2018-12-01 00:00:00
+
+Can you get into the middle of near field communication?, 8, 2017-10-01 00:00:00
+
+Channel assignment techniques for multi-radio wireless mesh networks: A survey, 67, 2016-01-22 00:00:00
+
+Backpacking: Energy-efficient deployment of heterogeneous radios in multi-radio high-data-rate wireless sensor networks, 14, 2014-10-22 00:00:00
+
+iTCP: an intelligent TCP with neural network based end-to-end congestion control for ad-hoc multi-hop wireless mesh networks, 27, 2014-09-09 00:00:00
+
+Multi-armed bandit congestion control in multi-hop infrastructure wireless mesh networks, 15, 2012-08-07 00:00:00
+
+μsetl: A set based programming abstraction for wireless sensor networks, 20, 2011-04-12 00:00:00
+
+End-to-end congestion control in wireless mesh networks using a neural network, 18, 2011-03-28 00:00:00
+
+Stable sensor network (SSN): A dynamic clustering technique for maximizing stability in wireless sensor networks, 21, 2010-07-08 00:00:00
+
+Finding the optimal percentage of cluster heads from a new and complete mathematical model on leach, 27, 2010-03-01 00:00:00
+
+Detection of various denial of service and Distributed Denial of Service attacks using RNN ensemble, 16, 2009-12-01 00:00:00
+
+Two tell-tale perspectives of PTSD: neurobiological abnormalities and Bayesian regulatory network of the underlying disorder in a refugee Context, -1, 
+

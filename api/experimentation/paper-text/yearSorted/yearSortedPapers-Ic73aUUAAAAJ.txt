@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Optimizing LZSS compression on GPGPUs, 16, None
+
+A Conceptual Model for Blockchain-Based Software Project Information Sharing, 2, None
+
+Personal data protection in blockchain with zero-knowledge proof, 3, None
+
+Mobil Cihazlar Üzerinde Enerji Verimli Sanal Sabit Numara Sistemi, 1, None
+
+Towards Tera-scale Performance for Longest Common Subsequence using Graphics Processors, 2, None
+
+A role-based access control management model on blockchain for restricted facilities: An airport example, 2, 2023-06-07 00:00:00
+
+A taxonomy for Blockchain based distributed storage technologies, 22, 2021-09-01 00:00:00
+
+Efficient heterogeneous parallel programming for compressed sensing based direction of arrival estimation, 4, 2021-07-20 00:00:00
+
+An optimized GPU-accelerated route planning of multi-UAV systems using simulated annealing, 2, 2020-05-01 00:00:00
+
+Creating consensus group using online learning based reputation in blockchain networks, 23, 2019-10-01 00:00:00
+
+Data cleaning for process mining with smart contract, 4, 2019-09-01 00:00:00
+
+Securing blockchain shards by using learning based reputation and verifiable random functions, 6, 2019-06-01 00:00:00
+
+GPU-Based Parallel Genetic Algorithm for Increasing the Coverage of WSNs, 2, 2017-12-01 00:00:00
+
+Grafik processor accelerated real time software defined radio applications, 2, 2017-05-01 00:00:00
+
+Culzss-bit: A bit-vector algorithm for lossless data compression on gpgpus, 8, 2014-11-16 00:00:00
+
+Fast longest common subsequence with general integer scoring support on gpus, 6, 2014-02-07 00:00:00
+
+Achieving TeraCUPS on Longest Common Subsequence Problem using GPGPUs, 11, 2013-12-15 00:00:00
+
+Pipelined parallel LZSS for streaming data compression on GPGPUs, 34, 2012-12-17 00:00:00
+
+CULZSS: LZSS lossless data compression on CUDA, 62, 2011-09-26 00:00:00
+
+Towards large-scale molecular dynamics simulations on graphics processors, 20, 2009-04-22 00:00:00
+

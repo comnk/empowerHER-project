@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+A Deep Neural-Network Based Stock Trading System Based on Evolutionary Optimized Technical Analysis Parameters, 77, None
+
+Estimation of the burned area in forest fires using computational intelligence techniques, 50, None
+
+Anomaly detection in vehicle traffic with image processing and machine learning, 29, None
+
+A novel chatter detection method for milling using deep convolution neural networks, 39, 2021-06-06 00:00:00
+
+Review of tool condition monitoring in machining and opportunities for deep learning, 185, 2020-07-01 00:00:00
+
+Deep learning for financial applications: A survey, 288, 2020-02-09 00:00:00
+
+Financial time series forecasting with deep learning: A systematic literature review: 2005–2019, 690, 2019-11-29 00:00:00
+
+Financial trading model with stock bar chart image time series with deep convolutional neural networks, 39, 2019-03-11 00:00:00
+
+Algorithmic financial trading with deep convolutional neural networks: Time series to image conversion approach, 286, 2018-09-01 00:00:00
+
+Automated generation of attack graphs using NVD, 41, 2018-03-13 00:00:00
+
+Deep Convolutional Autoencoder for Radar-Based Classification of Similar Aided and Unaided Human Activities, 250, 2018-02-06 00:00:00
+
+Context-aware computing, learning, and big data in internet of things: a survey, 329, 2018-02-01 00:00:00
+
+Weather Data Analysis and Sensor Fault Detection Using An Extended IoT Framework with Semantics, Big Data, and Machine Learning, 47, 2017-12-01 00:00:00
+
+A deep learning based stock trading model with 2-D CNN trend detection, 96, 2017-11-01 00:00:00
+
+Automated vehicle classification with image processing and computational intelligence, 38, 2017-11-01 00:00:00
+
+Deep learning of micro-Doppler features for aided and unaided gait recognition, 52, 2017-05-08 00:00:00
+
+An artificial neural network-based stock trading system using technical analysis and big data framework, 62, 2017-04-13 00:00:00
+
+A real-time autonomous highway accident detection model based on big data processing and computational intelligence, 62, 2016-12-01 00:00:00
+
+An extended iot framework with semantics, big data, and analytics, 36, 2016-12-01 00:00:00
+
+Estimation of Hardgrove grindability index of Turkish coals by neural networks, 50, 2008-01-31 00:00:00
+

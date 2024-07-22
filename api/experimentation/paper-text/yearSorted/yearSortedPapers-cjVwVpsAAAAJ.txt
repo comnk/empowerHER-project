@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+On the Fréchet distance of a set of curves., 39, None
+
+The traveling salesman problem for lines, balls, and planes, 28, 2013-01-06 00:00:00
+
+Watchman tours for polygons with holes, 30, 2012-08-01 00:00:00
+
+Compatible geometric matchings, 30, 2011-06-13 00:00:00
+
+Bounds on the maximum multiplicity of some common geometric graphs, 53, 2010-12-27 00:00:00
+
+On the largest empty axis-parallel box amidst n points, 57, 2009-09-16 00:00:00
+
+Minimum clique partition in unit disk graphs, 25, 2009-09-08 00:00:00
+
+Reconfigurations in graphs and grids, 60, 2006-03-20 00:00:00
+
+Separating points by axis-parallel lines, 30, 2005-12-01 00:00:00
+
+On the chromatic number of some geometric type Kneser graphs, 35, 2005-09-01 00:00:00
+
+On the geometric dilation of closed curves, graphs, and point sets, 35, 2004-07-08 00:00:00
+
+Pushing squares around, 58, 2004-06-08 00:00:00
+
+Motion planning for metamorphic systems: feasibility, decidability, and distributed reconfiguration, 38, 2004-06-07 00:00:00
+
+Formations for fast locomotion of metamorphic robotic systems, 28, 2004-06-01 00:00:00
+
+Binary space partitions for axis-parallel segments, rectangles, and hyperrectangles, 34, 2004-02-01 00:00:00
+
+Generating small combinatorial test suites to cover input-output relationships, 51, 2003-11-06 00:00:00
+
+Matching colored points in the plane: some new results, 26, 2001-06-01 00:00:00
+
+Approximation algorithms for TSP with neighborhoods in the plane, 267, 2001-01-09 00:00:00
+
+Planar sets with few empty convex polygons, 29, 2000-06-01 00:00:00
+
+On a matching problem in the plane, 17, 2000-01-28 00:00:00
+

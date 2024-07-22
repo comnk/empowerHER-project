@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Pupil dynamics for iris liveness detection, 0, None
+
+Presentation attack detection for iris recognition: An assessment of the state-of-the-art, 0, None
+
+Image complexity guided network compression for biomedical image segmentation, 5, 2021-07-06 00:00:00
+
+This face does not exist... but it might be yours! identity leakage in generative models, 28, 2020-12-10 00:00:00
+
+Iris liveness detection competition (livdet-iris)-the 2020 edition, 34, 2020-09-01 00:00:00
+
+Iris presentation attack detection: Where are we now?, 19, 2020-06-23 00:00:00
+
+Robust iris presentation attack detection fusing 2d and 3d information, 27, 2020-02-21 00:00:00
+
+Deep learning-based feature extraction in iris recognition: Use existing models, fine-tune or train from scratch?, 37, 2019-09-01 00:00:00
+
+Post-mortem iris recognition with deep-learning-based image segmentation, 58, 2019-01-07 00:00:00
+
+Iris recognition with image segmentation employing retrained off-the-shelf deep neural networks, 25, 2019-01-04 00:00:00
+
+Ensemble of multi-view learning classifiers for cross-domain iris presentation attack detection, 56, 2018-11-25 00:00:00
+
+Domain-specific human-inspired binarized statistical image features for iris recognition, 34, 2018-07-13 00:00:00
+
+Iris recognition after death, 36, 2018-04-05 00:00:00
+
+LivDet iris 2017—Iris liveness detection competition 2017, 91, 2017-10-01 00:00:00
+
+Recognition of image-orientation-based iris spoofing, 37, 2017-05-04 00:00:00
+
+Human iris recognition in post-mortem subjects: Study and database, 29, 2016-09-01 00:00:00
+
+Post-mortem human iris recognition, 37, 2016-06-13 00:00:00
+
+Database of iris printouts and its application: Development of liveness detection method for iris recognition, 71, 2013-11-25 00:00:00
+
+Aliveness detection for iris biometrics, 102, 2006-10-01 00:00:00
+
+Recognition of human signatures, 34, 2001-07-15 00:00:00
+

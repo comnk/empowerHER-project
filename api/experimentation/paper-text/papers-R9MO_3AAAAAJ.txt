@@ -1,37 +1,42 @@
-Completeness results for basic narrowing
-In this paper we analyze completeness results for basic narrowing. We show that basic narrowing is not complete with respect to normalizable solutions for equational theories defined by confluent term rewriting systems, contrary to what has been conjectured. By imposing syntactic restrictions on the rewrite rules we recover completeness. We refute a result of Hölldobler which states the completeness of basic conditional narrowing for complete (i.e. confluent and terminating) conditional term rewriting systems without extra variables in the conditions of the rewrite rules. In the last part of the paper we extend the completeness result of Giovannetti and Moiso for level-confluent and terminating conditional systems with extra variables in the conditions to systems that may also have extra variables in the right-hand sides of the rules. 1985 Mathematics Subject Classification: 68Q5
+Paper Name, Citations, Publication Date
+SAT solving for termination analysis with polynomial interpretations, 171, 2007-05-28 00:00:00
 
-Tyrolean termination tool 2
-SAT solving for termination analysis with polynomial interpretations
-Tyrolean termination tool: Techniques and features
-Modular properties of term rewriting systems
-In this paper we prove several new modularity results for unconditional and conditional term rewriting systems. Most of the known modularity results for the former systems hold for disjoint or constructor-sharing combinations. Here we focus on a more general kind of combination: so-called composable systems. As far as conditional term rewriting systems are concerned, all known modularity result but one apply only to disjoint systems. Here we investigate conditional systems which may share constructors. Furthermore, we refute a conjecture of Middeldorp (1990, 1993).
+Automating the dependency pair method, 142, 2005-05-25 00:00:00
 
-Automating the dependency pair method
-Sequentiality in orthogonal term rewriting systems
-Dependency pairs revisited
-Rewriting modulo AC, i.e., associativity and/or commutativity of certain symbols, is among the most frequently used extensions of term rewriting by equational theories. In this paper we present a generalization of the dependency pair framework for termination analysis to rewriting modulo AC. It subsumes existing variants of AC dependency pairs, admits standard dependency graph analyses, and in particular enjoys the minimality property in the standard sense. As a direct benefit, important termination techniques are easily extended; we describe usable rules and the subterm criterion for AC termination, which properly generalize the non-AC versions. 
- 
-We also perform these extensions within IsaFoR - the Isabelle formalization of rewriting - and thereby provide the first formalization of AC dependency pairs. Consequently, our certifier CeTA now supports checking proofs of AC termination.
+Tyrolean termination tool: Techniques and features, 120, 2007-04-01 00:00:00
 
-A sufficient condition for the termination of the direct sum of term rewriting systems
-The author proves a conjecture by Rusinowitch (1987) stating that the direct sum of two terminating term-rewriting systems is terminating if one of the systems contains neither collapsing nor duplicating rules.<<ETX>>
+Tyrolean termination tool 2, 117, None
 
-Lazy narrowing: Strong completeness and eager variable elimination
-Call by need computations to root-stable form
-The following theorem of Huet and Lévy forms the basis of all results on optimal reduction strategies for orthogonal term rewriting systems: every term not in normal form contains a needed redex, and repeated contraction of needed redexes results in the normal form, if the term under consideration has one. We generalize this theorem to computations to root-stable form and we argue that the resulting notion of root-neededness is more fundamental than (other variants of) neededness when it comes to infinitary normalization.
+Sequentiality in orthogonal term rewriting systems, 100, 1991-08-01 00:00:00
 
-Completeness of combinations of constructor systems
-Transformation techniques for context-sensitive rewrite systems
-Context-sensitive rewriting is a computational restriction of term rewriting used to model non-strict (lazy) evaluation in functional programming. The goal of this paper is the study and development of techniques to analyze the termination behavior of context-sensitive rewrite systems. For that purpose, several methods have been proposed in the literature which transform context-sensitive rewrite systems into ordinary rewrite systems such that termination of the transformed ordinary system implies termination of the original context-sensitive system. In this way, the huge variety of existing techniques for termination analysis of ordinary rewriting can be used for context-sensitive rewriting, too. We analyze the existing transformation techniques for proving termination of context-sensitive rewriting and we suggest two new transformations. Our first method is simple, sound, and more powerful than the previously proposed transformations. However, it is not complete, i.e., there are terminating context-sensitive rewrite systems that are transformed into non-terminating term rewrite systems. The second method that we present in this paper is both sound and complete. All these observations also hold for rewriting modulo associativity and commutativity.
+Transformation techniques for context-sensitive rewrite systems, 96, None
 
-Satisfiability of non-linear (ir) rational arithmetic
-Simple termination of rewrite systems
-CSI–A confluence tool
-Level-confluence of conditional rewrite systems with extra variables in right-hand sides
-Modular aspects of properties of term rewriting systems related to normal forms
-A deterministic lazy narrowing calculus
-In this paper we study the non-determinism between the inference rules of the lazy narrowing calculusLNC(Middeldorpet al., 1996,Theoret. Comput. Sci.,167, 95?130. We show that all non-determinism can be removed without losing the important completeness property by restricting the underlying term rewriting systems to left-linear confluent constructor systems and interpreting equality as strict equality. For the subclass of orthogonal constructor systems the resulting narrowing calculus is shown to have the nice property that solutions computed by different derivations starting from the same goal are incomparable.
+Modular properties of term rewriting systems, 80, 1995-07-01 00:00:00
 
-Counterexamples to completeness results for basic narrowing
+Lazy narrowing: Strong completeness and eager variable elimination, 80, 1995-05-22 00:00:00
+
+Call by need computations to root-stable form, 76, None
+
+Completeness of combinations of constructor systems, 73, 1991-04-10 00:00:00
+
+A sufficient condition for the termination of the direct sum of term rewriting systems, 60, 1989-06-05 00:00:00
+
+Satisfiability of non-linear (ir) rational arithmetic, 60, 2010-04-25 00:00:00
+
+Simple termination of rewrite systems, 53, 1997-03-30 00:00:00
+
+Modular aspects of properties of term rewriting systems related to normal forms, 52, None
+
+Completeness results for basic narrowing, 45, None
+
+CSI–A confluence tool, 45, 2011-07-31 00:00:00
+
+Level-confluence of conditional rewrite systems with extra variables in right-hand sides, 43, 1995-04-05 00:00:00
+
+A deterministic lazy narrowing calculus, 38, 1998-06-01 00:00:00
+
+Counterexamples to completeness results for basic narrowing, 38, None
+
+Dependency pairs revisited, 5, None
+
 DONE

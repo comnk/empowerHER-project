@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Laws of programming, 4, None
+
+Star covering properties, 0, None
+
+Concepts of digital topology, 2, 2023-09-04 00:00:00
+
+Reguard: finding reentrancy bugs in smart contracts, 258, 2018-05-27 00:00:00
+
+FDR3—A Modern Refinement Checker for CSP, 230, 2014-04-05 00:00:00
+
+Understanding concurrent systems, 370, 2010-10-10 00:00:00
+
+Security and usability: Analysis and evaluation, 139, 2010-03-25 00:00:00
+
+Usability and security of out-of-band channels in secure device pairing protocols, 129, 2009-07-15 00:00:00
+
+Model− checking CSP, 158, 2008-10-13 00:00:00
+
+Modelling and Analysis of Security Protocols: the CSP approach, 307, 2000-12-21 00:00:00
+
+Using CSP to detect errors in the TMN protocol, 204, 1997-10-01 00:00:00
+
+Hierarchical compression for model-checking CSP or how to check 10^20 dining philosophers for deadlock, 122, 1995-05-19 00:00:00
+
+CSP and determinism in security modelling, 253, 1995-05-08 00:00:00
+
+Modelling and verifying key-exchange protocols using CSP and FDR, 239, 1995-03-13 00:00:00
+
+Non-interference through determinism, 177, 1994-11-07 00:00:00
+
+The laws of occam programming, 237, 1988-09-02 00:00:00
+
+A timed model for communicating sequential processes, 578, 1986-07-15 00:00:00
+
+An improved failures model for communicating processes, 225, 1984-07-09 00:00:00
+
+A theory of communicating sequential processes, 1396, 1984-06-26 00:00:00
+
+The Theory and Practice of Concurrency. international series in computer science, -1, 
+

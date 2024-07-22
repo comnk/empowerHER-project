@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Guide to the carnegie mellon university multimodal activity (cmu-mmac) database, 267, None
+
+A semi-Lagrangian contouring method for fluid simulation, 156, None
+
+Introducing vision-realistic rendering, 31, None
+
+An introduction to physics-based animation, 23, 2019-07-28 00:00:00
+
+A Peridynamic Perspective on Spring-Mass Fracture., 42, 2014-07-21 00:00:00
+
+Animation of deformable bodies with quadratic Bézier finite elements, 46, 2014-05-01 00:00:00
+
+Deformation embedding for point-based elastoplastic simulation, 35, 2014-03-01 00:00:00
+
+Fast simulation of mass-spring systems, 267, 2013-11-01 00:00:00
+
+Physics-based animation of large-scale splashing liquids., 53, 2013-11-01 00:00:00
+
+Multiphase flow of immiscible fluids on unstructured moving meshes, 83, 2012-07-29 00:00:00
+
+A level-set method for skinning animated particle data, 68, 2011-08-05 00:00:00
+
+Physics-inspired upsampling for cloth simulation in games, 122, 2011-07-01 00:00:00
+
+A point-based method for animating elastoplastic solids, 76, 2009-08-01 00:00:00
+
+A point-based method for animating incompressible flow, 79, 2009-08-01 00:00:00
+
+A finite element method for animating large viscoplastic flow, 175, 2007-07-29 00:00:00
+
+A method for cartoon-style rendering of liquid animations, 22, 2007-05-28 00:00:00
+
+A texture synthesis method for liquid animations, 23, 2006-07-30 00:00:00
+
+A method for animating viscoelastic fluids, 256, 2004-08-01 00:00:00
+
+Graphical modeling and animation of ductile fracture, 533, 2002-07-01 00:00:00
+
+Quantifying network denial of service: A location service case study, 24, 2001-11-13 00:00:00
+

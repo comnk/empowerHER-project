@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Decoupling Quantile Representations from Loss Functions, 0, 2023-08-01 00:00:00
+
+(POSTER) Insights from Executing TinyML Models on Smartphones and Microcontrollers, 1, 2023-06-01 00:00:00
+
+A Robust Morphological Approach for Semantic Segmentation of Very High Resolution Images, 0, 2022-08-02 00:00:00
+
+ESW Edge Weights: Ensemble Stochastic Watershed Edge Weights for Hyperspectral Image Classification, 1, 2022-02-28 00:00:00
+
+Higher-Order Relations Skew Link Prediction in Graphs, 2, 2021-10-30 00:00:00
+
+A Theoretical Analysis of Granulometry-Based Roughness Measures on Cartosat DEMs, 0, 2021-07-16 00:00:00
+
+A tutorial on applications of power watershed optimization to image processing, 1, 2021-05-01 00:00:00
+
+Iterated watersheds, a connected variation of k-means for clustering GIS data, 7, 2021-04-01 00:00:00
+
+Band Selection Using Dilation Distances, 3, 2021-02-17 00:00:00
+
+Power spectral clustering, 14, 2020-07-11 00:00:00
+
+Revisiting the Isoperimetric Graph Partitioning Problem, 3, 2019-04-19 00:00:00
+
+Watersheds for Semi-Supervised Classification, 9, 2019-03-15 00:00:00
+
+Some theoretical links between shortest path filters and minimum spanning tree filters, 4, 2019-01-02 00:00:00
+
+Extending k-means to preserve spatial connectivity, 8, 2018-07-01 00:00:00
+
+Some Properties of Interpolations Using Mathematical Morphology, 4, 2018-01-10 00:00:00
+
+An introduction to Gamma-convergence for spectral clustering, 7, 2017-09-19 00:00:00
+
+Power spectral clustering on hyperspectral data, 3, 2017-07-23 00:00:00
+
+Power Tree Filter: A Theoretical Framework Linking Shortest Path Filters and Minimum Spanning Tree Filters, 5, 2017-05-15 00:00:00
+
+Morphological interpolation for temporal changes, 3, 2016-07-10 00:00:00
+
+A morphology-based approach for cloud detection, 3, 2016-07-10 00:00:00
+

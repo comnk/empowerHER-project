@@ -1,0 +1,39 @@
+Paper Name, Citations, Publication Date
+The pyrolysis chemistry of a β-O-4 type oligomeric lignin model compound, 253, None
+
+Production of renewable petroleum refinery diesel and jet fuel feedstocks from hemicellulose sugar streams, 163, None
+
+Inkjet-printed bifunctional carbon nanotubes for pH sensing, 54, 2016-08-01 00:00:00
+
+Selective dispersion of single-walled carbon nanotubes with electron-rich fluorene-based copolymers, 12, 2016-03-08 00:00:00
+
+The effect of molecular weight on the separation of semiconducting single‐walled carbon nanotubes using poly (2, 7‐carbazole) s, 27, 2015-11-01 00:00:00
+
+Effect of induction on the dispersion of semiconducting and metallic single-walled carbon nanotubes using conjugated polymers, 31, 2015-07-23 00:00:00
+
+Protein-triggered supramolecular disassembly: insights based on variations in ligand location in amphiphilic dendrons, 53, 2014-03-18 00:00:00
+
+Small molecule BODIPY dyes as non-fullerene acceptors in bulk heterojunction organic photovoltaics, 72, 2014-02-18 00:00:00
+
+Zwitterionic moieties from the huisgen reaction: A case study with amphiphilic dendritic assemblies, 13, 2013-11-25 00:00:00
+
+Temperature-sensitive transitions below LCST in amphiphilic dendritic assemblies: host–guest implications, 47, 2013-06-07 00:00:00
+
+A radical cyclization approach to the formal total syntheses of platencin, 20, 2011-10-26 00:00:00
+
+Production of jet and diesel fuel range alkanes from waste hemicellulose-derived aqueous solutions, 309, 2010-11-03 00:00:00
+
+C C Bond Formation Reactions for Biomass‐Derived Molecules, 83, 2010-10-25 00:00:00
+
+Application of an Enyne Metathesis/Diels–Alder Cycloaddition Sequence: A New Versatile Approach to the Syntheses of C‐Aryl Glycosides and Spiro‐C‐Aryl …, 53, 2010-07-26 00:00:00
+
+Synthesis of a Novel Taxa‐Oxa‐Sugar Hybrid Core Structure by Tandem Cross‐Enyne Metathesis/IMDA, 20, 2010-05-01 00:00:00
+
+A new versatile strategy for C-aryl glycosides, 54, 2007-02-22 00:00:00
+
+and Alex Adronov, 69, 1999-09-11 00:00:00
+
+GP vanWalsum, H. Pendse, GW Huber, -1, 
+
+Synthetic Studies on C-Aryl Glycosides, Platencin and Taxa-Sugar Hybrids, -1, 
+

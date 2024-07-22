@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+MAKING SENSE OF THE OXYGEN PARADOX AND FLAVOUR MANAGEMENT IN BEER FERMENTATIONS, 0, None
+
+Estimating the costs of genomic sequencing in cancer control, 21, 2020-06-03 00:00:00
+
+Comparative performance of the BGI and Illumina sequencing technology for single-cell RNA-sequencing, 37, 2019-02-17 00:00:00
+
+FANTOM5 CAGE profiles of human and mouse samples, 116, 2017-08-29 00:00:00
+
+Transcribed enhancers lead waves of coordinated transcription in transitioning mammalian cells, 531, 2015-02-27 00:00:00
+
+A promoter-level mammalian expression atlas, 1741, 2014-03-26 00:00:00
+
+Mincle polarizes human monocyte and neutrophil responses to Candida albicans, 64, 2012-10-01 00:00:00
+
+Colony-stimulating factor-1 promotes kidney growth and repair via alteration of macrophage responses, 144, 2011-09-01 00:00:00
+
+Disease-specific, neurosphere-derived cells as models for brain disorders, 182, 2010-11-01 00:00:00
+
+Zinc starvation induces a stress response in Saccharomyces cerevisiae that is mediated by the Msn2p and Msn4p transcriptional activators, 11, 2009-12-01 00:00:00
+
+Diversification of TOLLIP isoforms in mouse and man, 24, 2009-05-15 00:00:00
+
+The transcriptional network that controls growth arrest and differentiation in a human myeloid leukemia cell line, 440, 2009-05-01 00:00:00
+
+Essential role of one-carbon metabolism and Gcn4p and Bas1p transcriptional regulators during adaptation to anaerobic growth of Saccharomyces cerevisiae, 6, 2009-04-24 00:00:00
+
+The adaptive response of anaerobically grown Saccharomyces cerevisiae to hydrogen peroxide is mediated by the Yap1 and Skn7 transcription factors, 16, 2008-12-01 00:00:00
+
+Human and mouse macrophage-inducible C-type lectin (Mincle) bind Candida albicans, 103, 2008-09-01 00:00:00
+
+The macrophage-inducible C-type lectin, mincle, is an essential component of the innate immune response to Candida albicans, 404, 2008-06-01 00:00:00
+
+Yeast genome-wide expression analysis identifies a strong ergosterol and oxidative stress response during the initial stages of an industrial lager fermentation, 105, 2003-08-01 00:00:00
+
+Resistance to hydrogen peroxide in Helicobacter pylori: role of catalase (KatA) and Fur, and functional analysis of a novel gene product designated ‘KatA …, 88, 2002-12-01 00:00:00
+
+Differential regulation of glutaredoxin gene expression in response to stress conditions in the yeast Saccharomyces cerevisiae, 59, 2000-01-31 00:00:00
+
+The transcriptional and physiological alterations in brewers yeast when shifted from anaerobic to aerobic growth conditions, -1, 
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Interior-Point Polynomial Methods in Convex Programming,, 3947, None
+
+LMI Control Toolbox for Use with MATLAB,(1995), 629, None
+
+Prox-method with rate of convergence O (1/t) for variational inequalities with Lipschitz continuous monotone operators and smooth convex-concave saddle point problems, 926, None
+
+Topics in Non-Parametric Statistics, 273, None
+
+On complexity of stochastic programming problems, 372, None
+
+Problem Complexity and Method Efficiency in Optimization (Сложность задач и эффективность методов оптимизации), 0, 2024-05-16 00:00:00
+
+Robust optimization, 2362, 2015-12-01 00:00:00
+
+Stochastic approximation approach to stochastic programming, 1922, 2013-08-24 00:00:00
+
+Solving variational inequalities with stochastic mirror-prox algorithm, 408, 2008-09-04 00:00:00
+
+Selected topics in robust convex optimization, 355, 2007-07-19 00:00:00
+
+Convex approximations of chance constrained programs, 1150, 2006-12-01 00:00:00
+
+Retailer-supplier flexible commitments contracts: A robust optimization approach, 338, 2005-07-01 00:00:00
+
+Adjustable robust solutions of uncertain linear programs, 1595, 2004-03-01 00:00:00
+
+Robust optimization–methodology and applications, 1379, 2002-05-01 00:00:00
+
+Lectures on modern convex optimization: Analysis, 2639, 2001-06-01 00:00:00
+
+Robust solutions of linear programming problems contaminated with uncertain data, 1764, 2000-09-01 00:00:00
+
+Robust solutions of uncertain linear programs, 1901, 1999-08-01 00:00:00
+
+Robust convex optimization, 2653, 1998-11-01 00:00:00
+
+Robust truss topology design via semidefinite programming, 416, 1997-04-01 00:00:00
+
+New variants of bundle methods, 446, 1995-07-25 00:00:00
+

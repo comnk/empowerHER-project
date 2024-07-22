@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+OWL: Web Ontology Language Reference. W3C Recommendartion, 1217, None
+
+KADS: A principled approach to knowledge-based system development, 480, None
+
+Semantic annotation of image collections, 225, None
+
+RDF 1.1 Primer, 218, None
+
+Design and use of the Simple Event Model (SEM), 341, 2011-07-01 00:00:00
+
+Semantic annotation and search of cultural-heritage collections: The MultimediaN E-Culture demonstrator, 137, 2008-11-01 00:00:00
+
+Adding semantics to detectors for video retrieval, 223, 2007-08-01 00:00:00
+
+A method to convert thesauri to SKOS, 167, 2006-06-11 00:00:00
+
+Classification of user image descriptions, 161, 2004-11-01 00:00:00
+
+The unified problem-solving method development language UPML, 167, 2003-03-01 00:00:00
+
+From thesaurus to ontology, 143, 2001-10-22 00:00:00
+
+Ontology-based photo annotation, 349, 2001-05-01 00:00:00
+
+Knowledge Engineering and Management. The CommonKADS methodology, 1847, 1999-12-09 00:00:00
+
+Domain ontologies in software engineering: use of Protege with the EON architecture, 180, 1998-10-01 00:00:00
+
+Using explicit ontologies in KBS development, 916, 1997-03-01 00:00:00
+
+Configuration-design problem solving, 175, 1997-03-01 00:00:00
+
+CommonKADS: A comprehensive methodology for KBS development, 562, 1994-12-01 00:00:00
+
+CML: The CommonKADS conceptual modelling language, 162, 1994-09-26 00:00:00
+
+KADS: A Modelling Approach to Knowledge Engineering, 810, 1992-03-01 00:00:00
+
+The KACTUS view on the ‘O’word, -1, 
+

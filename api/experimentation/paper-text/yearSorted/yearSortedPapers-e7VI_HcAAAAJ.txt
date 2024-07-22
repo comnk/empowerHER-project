@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Scale-free networks are rare, 793, 2018-01-09 00:00:00
+
+A communal catalogue reveals Earth’s multiscale microbial diversity, 4279, 2017-10-18 00:00:00
+
+Data-driven predictions in the science of science, 166, 2017-02-03 00:00:00
+
+The ground truth about metadata and community detection in networks, 407, 2016-08-21 00:00:00
+
+Structure and inference in annotated networks, 332, 2015-07-14 00:00:00
+
+Eigenvector-based centrality measures for temporal networks, 160, 2015-07-05 00:00:00
+
+Systematic inequality and hierarchy in faculty hiring networks, 454, 2015-02-01 00:00:00
+
+Learning latent block structure in weighted networks, 289, 2014-04-02 00:00:00
+
+Efficiently inferring community structure in bipartite networks, 180, 2014-03-12 00:00:00
+
+Detecting change points in the large-scale structure of evolving networks, 231, 2014-03-04 00:00:00
+
+Transformation of social networks in the late pre-Hispanic US Southwest, 205, 2013-03-25 00:00:00
+
+Power-law distributions and binned empirical data, 248, 2012-08-17 00:00:00
+
+Society for Industrial and Applied Mathematics, 464, 2010-08-12 00:00:00
+
+Performance of modularity maximization in practical contexts, 900, 2009-10-01 00:00:00
+
+Hierarchical structure and the prediction of missing links in networks, 2019, 2008-05-01 00:00:00
+
+Power-law distributions in empirical data, 8876, 2007-06-07 00:00:00
+
+On the frequency of severe terrorist events, 374, 2006-06-01 00:00:00
+
+Finding local community structure in networks, 785, 2005-03-04 00:00:00
+
+On the bias of traceroute sampling: or, power-law degree distributions in regular graphs, 204, 2005-03-03 00:00:00
+
+Finding community structure in very large networks, 6647, 2004-08-09 00:00:00
+

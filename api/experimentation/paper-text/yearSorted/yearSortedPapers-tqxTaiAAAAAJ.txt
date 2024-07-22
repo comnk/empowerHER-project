@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Detecting high log-densities: an O(n¼) approximation for densest k-subgraph, 338, None
+
+Greedy sampling for approximate clustering in the presence of outliers, 22, None
+
+Linear relaxations for finding diverse elements in metric spaces, 28, None
+
+Going beyond classification accuracy metrics in model compression, 15, 2020-12-03 00:00:00
+
+Fair clustering via equitable group representations, 73, 2020-06-19 00:00:00
+
+Online learning with imperfect hints, 49, 2020-02-11 00:00:00
+
+Distributed clustering via lsh based data partitioning, 19, 2018-07-03 00:00:00
+
+Greedy column subset selection: New bounds and distributed algorithms, 66, 2016-05-27 00:00:00
+
+On binary embedding using circulant matrices, 23, 2015-11-20 00:00:00
+
+Optimizing display advertising in online social networks, 25, 2015-05-18 00:00:00
+
+Distributed balanced clustering via mapping coresets, 71, 2014-12-08 00:00:00
+
+Centrality of trees for capacitated -center, 62, 2014-06-22 00:00:00
+
+More algorithms for provable dictionary learning, 55, 2014-01-03 00:00:00
+
+Smoothed analysis of tensor decompositions, 149, 2013-11-14 00:00:00
+
+Provable bounds for learning some deep representations, 327, 2013-10-23 00:00:00
+
+Uniqueness of tensor decompositions with applications to polynomial identifiability, 65, 2013-04-30 00:00:00
+
+Minimum makespan scheduling with low rank processing times, 13, 2013-01-06 00:00:00
+
+Unconditional differentially private mechanisms for linear queries, 50, 2012-05-19 00:00:00
+
+Polynomial integrality gaps for strong SDP relaxations of Densest k-subgraph, 111, 2011-10-06 00:00:00
+
+Approximating Matrix p-norms, 48, 2010-01-14 00:00:00
+

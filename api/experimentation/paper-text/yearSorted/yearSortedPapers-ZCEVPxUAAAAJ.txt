@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Rep-net: Efficient on-device learning via feature reprogramming, 18, 2022-06-01 00:00:00
+
+Ressfl: A resistance transfer framework for defending model inversion attack in split federated learning, 33, 2022-05-09 00:00:00
+
+Deepsteal: Advanced model extractions leveraging efficient weight stealing in memories, 62, 2021-11-08 00:00:00
+
+Neurobfuscator: A full-stack obfuscation tool to mitigate neural architecture stealing, 17, 2021-07-20 00:00:00
+
+RA-BNN: Constructing Robust & Accurate Binary Neural Network to Simultaneously Defend Adversarial Bit-Flip Attack and Improve Accuracy, 16, 2021-03-22 00:00:00
+
+Radar: Run-time adversarial weight attack detection and accuracy recovery, 27, 2021-01-20 00:00:00
+
+{Deep-Dup}: An adversarial weight duplication attack framework to crush deep neural network in {Multi-Tenant}{FPGA}, 33, 2020-11-05 00:00:00
+
+Robust sparse regularization: Defending adversarial attacks via regularized sparse network, 2, 2020-09-07 00:00:00
+
+T-BFA: Targeted Bit-Flip Adversarial Weight Attack, 15, 2020-07-24 00:00:00
+
+Defending bit-flip attack through dnn weight reconstruction, 38, 2020-07-01 00:00:00
+
+Defending and harnessing the bit-flip based adversarial weight attack, 60, 2020-06-01 00:00:00
+
+{DeepHammer}: Depleting the intelligence of deep neural networks through targeted chain of bit flips, 104, 2020-03-01 00:00:00
+
+Tbt: Targeted neural network attack with bit trojan, 164, 2019-09-10 00:00:00
+
+Bit-flip attack: Crushing neural network with progressive bit search, 168, 2019-03-28 00:00:00
+
+Parametric noise injection: Trainable randomness to improve deep neural network robustness against adversarial attack, 248, 2018-11-22 00:00:00
+
+Pim-tgan: A processing-in-memory accelerator for ternary generative adversarial networks, 18, 2018-10-01 00:00:00
+
+Defend deep neural networks against adversarial examples via fixed and dynamic quantized activation functions, 49, 2018-07-18 00:00:00
+
+Cmp-pim: an energy-efficient comparator-based processing-in-memory neural network accelerator, 79, 2018-06-01 00:00:00
+
+Low loss and flat dispersion Kagome photonic crystal fiber in the terahertz regime, 46, 2018-03-01 00:00:00
+
+Low loss and low dispersion fiber for transmission applications in the terahertz regime, 30, 2017-05-15 00:00:00
+

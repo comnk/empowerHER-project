@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Security testing: A survey, 115, None
+
+HOL-Z 2.0: A proof environment for Z-specifications, 39, None
+
+Metamodel-based UML notations for domain-specific languages, 45, None
+
+HOL-TestGen: An Interactive Test-case Generation Framework., 17, None
+
+A screening test for disclosed vulnerabilities in foss components, 31, 2019-10-01 00:00:00
+
+On the static analysis of hybrid mobile apps, 32, 2016-04-06 00:00:00
+
+SecureBPMN: Modeling and enforcing access control requirements in business processes, 103, 2012-06-20 00:00:00
+
+On Theorem Prover-based Testing, 68, 2012-03-07 00:00:00
+
+An approach to modular and testable security models of real-world health-care applications, 37, 2011-06-15 00:00:00
+
+A specification-based test case generation method for UML/OCL, 54, 2010-10-03 00:00:00
+
+Attribute-based encryption with break-glass, 43, 2010-04-12 00:00:00
+
+Verified firewall policy transformations for test case generation, 30, 2010-04-06 00:00:00
+
+Extending access control models with break-glass, 141, 2009-06-03 00:00:00
+
+An extensible encoding of object-oriented data models in HOL, 25, 2008-11-01 00:00:00
+
+HOL-OCL: a formal proof environment for UML/OCL, 98, 2008-03-29 00:00:00
+
+Test-sequence generation with HOL-TestGen with an application to firewall testing, 35, 2007-02-12 00:00:00
+
+A model transformation semantics and analysis methodology for SecureUML, 39, 2006-10-01 00:00:00
+
+The HOL-OCL Book, 77, 2006-08-15 00:00:00
+
+Symbolic test case generation for primitive recursive functions, 37, 2004-09-21 00:00:00
+
+A proposal for a formal OCL semantics in Isabelle/HOL, 66, 2002-08-20 00:00:00
+

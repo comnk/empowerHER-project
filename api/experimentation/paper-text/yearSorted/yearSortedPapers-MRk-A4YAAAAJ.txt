@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Testing robustness against unforeseen adversaries, 127, None
+
+Demonstrating the BigDAWG Polystore System for Ocean Metagenomics Analysis., 36, None
+
+September 2017. BigDAWG Version 0.1, 184, None
+
+On the privacy risk of in-context learning, 17, None
+
+Flocks of Stochastic Parrots: Differentially Private Prompt Learning for Large Language Models, 35, 2023-05-24 00:00:00
+
+Dataset Inference for Self-Supervised Models, 16, 2022-09-16 00:00:00
+
+Selective classification via neural network training dynamics, 19, 2022-05-26 00:00:00
+
+On the Difficulty of Defending Self-Supervised Learning against Model Extraction, 15, 2022-05-16 00:00:00
+
+Increasing the Cost of Model Extraction with Calibrated Proof of Work, 24, 2022-01-23 00:00:00
+
+When the curious abandon honesty: Federated learning is not private, 130, 2021-12-06 00:00:00
+
+CaPC Learning: Confidential and Private Collaborative Learning, 48, 2021-02-09 00:00:00
+
+Preoperative paraspinal neck muscle characteristics predict early onset adjacent segment degeneration in anterior cervical fusion patients: A machine‐learning modeling analysis, 20, 2020-08-20 00:00:00
+
+Pretrained transformers improve out-of-distribution robustness, 376, 2020-04-13 00:00:00
+
+Machine Learning enabled Spectrum Sharing in Dense LTE-U/Wi-Fi Coexistence Scenarios, 19, 2020-03-18 00:00:00
+
+Band-limited Training and Inference for Convolutional Neural Networks, 45, 2019-05-24 00:00:00
+
+Deeplens: Towards a visual data management system, 23, 2018-12-18 00:00:00
+
+Columnstore and B+ tree-Are Hybrid Physical Designs Important?, 19, 2018-05-27 00:00:00
+
+Data Transformation and Migration in Polystores, 26, 2016-09-01 00:00:00
+
+Integrating Real-Time and Batch Processing in a Polystore, 20, 2016-09-01 00:00:00
+
+DBMS Data Loading: An Analysis on Modern Hardware, 15, 2016-09-01 00:00:00
+

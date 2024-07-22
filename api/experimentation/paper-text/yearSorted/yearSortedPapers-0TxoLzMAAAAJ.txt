@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+The Case Against Specialized Graph Analytics Engines., 96, None
+
+The Impact of a Remote Live-Coding Pedagogy on Student Programming Processes, Grades, and Lecture Questions Asked, 5, 2023-06-29 00:00:00
+
+The effects of spanish-english bilingual instruction in a cs0 course for high school students, 4, 2023-06-29 00:00:00
+
+Understanding and Measuring Incremental Development in CS1, 5, 2023-03-02 00:00:00
+
+Identifying gaps in the secure programming knowledge and skills of students, 6, 2022-02-22 00:00:00
+
+Investigating the impact of using a live programming environment in a CS1 course, 6, 2022-02-22 00:00:00
+
+An Analysis of Stress and Sense of Belonging Among Native and Non-native English Speakers Learning Computer Science, 7, 2022-02-22 00:00:00
+
+Live coding: A review of the literature, 21, 2021-06-26 00:00:00
+
+Textbook underflow: Insufficient security discussions in textbooks used for computer systems courses, 5, 2021-03-03 00:00:00
+
+Experiences of Non-Native English Speakers Learning Computer Science in a US University, 8, 2021-03-03 00:00:00
+
+How secure are our computer systems courses?, 13, 2020-08-01 00:00:00
+
+Live-coding vs static code examples: which is better with respect to student learning and cognitive load?, 19, 2020-01-23 00:00:00
+
+Impact of bilingual cs education on student learning and engagement in a data structures course, 10, 2019-11-21 00:00:00
+
+Effect of native language on student learning and classroom interaction in an operating systems course, 13, 2019-07-02 00:00:00
+
+Role of live-coding in learning introductory programming, 44, 2018-11-22 00:00:00
+
+Is more active always better for teaching introductory programming?, 14, 2018-04-19 00:00:00
+
+Does native language play a role in learning a programming language?, 28, 2018-02-21 00:00:00
+
+How to teach" modern C++" to someone who already knows programming?, 4, 2018-01-30 00:00:00
+
+What Do Students Feel about Learning Programming Using Both English and Their Native Language?, 15, 2017-04-01 00:00:00
+
+Determining data locality in a distributed system using aggregation of locality summaries, -1, 
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+When are two workflows the same?, 87, None
+
+Storing and indexing massive RDF datasets, 49, None
+
+SERIMI: Class-based Disambiguation for Effective Instance Matching over Heterogeneous Web Data., 26, None
+
+GOAL, A graph-based object and association language, 28, None
+
+PG-Schema: Schemas for property graphs, 27, 2022-11-20 00:00:00
+
+Pg-keys: Keys for property graphs, 35, 2021-06-09 00:00:00
+
+In-memory database acceleration on FPGAs: a survey, 60, 2019-10-26 00:00:00
+
+Driving innovation through big open linked data (BOLD): Exploring antecedents using interpretive structural modelling, 105, 2016-07-13 00:00:00
+
+A structural approach to indexing triples, 62, 2012-05-27 00:00:00
+
+Serimi-resource description similarity, rdf instance matching and interlinking, 72, 2011-07-06 00:00:00
+
+A formal semantics for the Taverna 2 workflow model, 53, 2010-09-01 00:00:00
+
+On the relationship between workflow models and document types, 24, 2009-03-01 00:00:00
+
+DFL: A dataflow language based on Petri nets and nested relational calculus, 44, 2008-05-01 00:00:00
+
+A light but formal introduction to XQuery, 34, 2004-08-29 00:00:00
+
+A transaction model for XML databases, 42, 2004-03-01 00:00:00
+
+Satisfiability of XPath expressions, 91, 2003-09-06 00:00:00
+
+Avoiding unnecessary ordering operations in XPath, 30, 2003-09-06 00:00:00
+
+Typing graph-manipulation operations, 49, 2003-01-08 00:00:00
+
+Path locks for XML document collaboration, 31, 2002-12-12 00:00:00
+
+The future is big graphs: a community view on graph processing systems, -1, 
+

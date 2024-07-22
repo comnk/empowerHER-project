@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Oasis legalruleml, 0, None
+
+A categorization scheme for SLA metrics, 81, None
+
+The Gold Standard in Corpus Annotation., 49, None
+
+A logic based sla management framework, 51, None
+
+Distributed trust management for validating sla choreographies, 46, None
+
+Wireless sensor network for AI-based flood disaster detection, 49, 2020-08-07 00:00:00
+
+LegalRuleML: Design principles and foundations, 73, 2015-07-31 00:00:00
+
+Reaction ruleml 1.0: Standardized semantic reaction rules, 44, 2012-08-27 00:00:00
+
+Rif core dialect, 7, 2012-08-27 00:00:00
+
+Fusion of background knowledge and streams of events, 40, 2012-07-16 00:00:00
+
+Knowledge-based processing of complex stock market events, 38, 2012-03-27 00:00:00
+
+Legalruleml: Xml-based rules and norms, 87, 2011-11-03 00:00:00
+
+RuleML 1.0: the overarching specification of web rules, 105, 2010-10-21 00:00:00
+
+A homogeneous reaction rule language for complex event processing, 93, 2010-08-04 00:00:00
+
+Rule-based event processing and reaction rules, 74, 2009-11-04 00:00:00
+
+A journey to Semantic Web query federation in the life sciences, 64, 2009-10-01 00:00:00
+
+Rule responder: RuleML-based agents for distributed collaboration on the pragmatic web, 62, 2007-10-22 00:00:00
+
+Knowledge representation concepts for automated SLA management, 144, 2006-11-23 00:00:00
+
+ECA-RuleML: An approach combining ECA rules with temporal interval-based KR event/action logics and transactional update logics, 72, 2006-10-30 00:00:00
+
+Rbsla a declarative rule-based service level agreement language based on ruleml, 78, 2005-11-28 00:00:00
+

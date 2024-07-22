@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+The consensus glossary of temporal database concepts—February 1998 version, 322, None
+
+A consensus glossary of temporal database concepts, 427, None
+
+The expressive power of temporal relational query languages, 40, None
+
+A survey of version control systems, 16, None
+
+A historical query language, 49, None
+
+A Generalized relational Framework for Modeling Temporal Data., 22, None
+
+Temporal relational data model, 1, 2023-04-04 00:00:00
+
+A. survey of entity resolution and record linkage methodologies, 106, 2015-01-07 00:00:00
+
+Discovery of association rules in temporal databases, 27, 2007-04-02 00:00:00
+
+An efficient algorithm to update large itemsets with early pruning, 134, 1999-08-01 00:00:00
+
+Managing different time granularities of clinical information by an interval-based temporal data model, 43, 1995-09-01 00:00:00
+
+A temporal query system for protocol-directed decision support, 93, 1994-10-01 00:00:00
+
+Temporal Databases: Theory, Design, and Implementation, 795, 1993-03-31 00:00:00
+
+Temporal Databases: Theory, 795, 1993-03-31 00:00:00
+
+Nested historical relations, 43, 1989-06-01 00:00:00
+
+Time-by-example query language for historical databases, 71, 1989-04-01 00:00:00
+
+A statistical interface for historical relational databases, 39, 1987-02-03 00:00:00
+
+Adding time dimension to relational model and extending relational algebra, 163, 1986-10-01 00:00:00
+
+HQUEL, a query language for historical relational databases, 30, 1986-07-22 00:00:00
+
+On an algebra for historical relational databases: Two views, 219, 1985-05-01 00:00:00
+

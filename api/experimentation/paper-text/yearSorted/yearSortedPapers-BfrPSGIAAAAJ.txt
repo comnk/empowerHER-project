@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+A peer-to-peer approach to resource discovery in grid environments, 85, None
+
+Edge-centric computing: Vision and challenges, 862, 2015-09-30 00:00:00
+
+The social world of content abusers in community question answering, 69, 2015-05-18 00:00:00
+
+Privacy and security in online social networks: A survey, 97, 2015-01-27 00:00:00
+
+Cheating in online games: A social network perspective, 62, 2014-05-01 00:00:00
+
+Identifying high betweenness centrality nodes in large social networks, 122, 2013-12-01 00:00:00
+
+K-path centrality: A new centrality measure in social networks, 68, 2011-04-10 00:00:00
+
+Prometheus: User-controlled p2p social data management for socially-aware applications, 81, 2010-11-29 00:00:00
+
+The globus replica location service: design and experience, 63, 2009-09-01 00:00:00
+
+Amazon S3 for science grids: a viable solution?, 477, 2008-06-24 00:00:00
+
+Small-world file-sharing communities, 229, 2003-07-13 00:00:00
+
+On death, taxes, and the convergence of peer-to-peer and grid computing, 601, 2003-02-21 00:00:00
+
+Giggle: A framework for constructing scalable replica location services, 476, 2002-11-16 00:00:00
+
+Mapping the gnutella network: Properties of large-scale peer-to-peer systems and implications for system design, 975, 2002-09-25 00:00:00
+
+Mapping the Gnutella network, 975, 2002-09-25 00:00:00
+
+A peer-to-peer approach to resource location in grid environments, 298, 2002-07-24 00:00:00
+
+Improving data availability through dynamic model-driven replication in large peer-to-peer communities, 234, 2002-05-21 00:00:00
+
+Locating data in (small-world?) peer-to-peer scientific collaborations, 133, 2002-03-07 00:00:00
+
+On fully decentralized resource discovery in grid environments, 324, 2001-11-12 00:00:00
+
+The future is big graphs: a community view on graph processing systems, -1, 
+

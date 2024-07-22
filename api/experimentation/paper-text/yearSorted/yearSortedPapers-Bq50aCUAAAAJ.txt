@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Accept: A programmer-guided compiler framework for practical approximate computing, 108, None
+
+Hardware and software for approximate computing, 22, None
+
+Vectorization for digital signal processors via equality saturation, 36, 2021-04-19 00:00:00
+
+A compiler infrastructure for accelerator generators, 38, 2021-02-19 00:00:00
+
+Predictable accelerator design with time-sensitive affine types, 52, 2020-06-24 00:00:00
+
+EVA²: Exploiting temporal redundancy in live computer vision, 68, 2018-03-16 00:00:00
+
+A taxonomy of general purpose approximate computing techniques, 34, 2018-03-01 00:00:00
+
+Reconfiguring the imaging pipeline for computer vision, 96, 2017-05-11 00:00:00
+
+Probability type inference for flexible approximate programming, 46, 2015-10-23 00:00:00
+
+Approximate computing: Making mobile systems more efficient, 29, 2015-04-23 00:00:00
+
+Monitoring and debugging the quality of results in approximate programs, 62, 2015-03-14 00:00:00
+
+SNNAP: Approximate computing on programmable SoCs via neural acceleration, 136, 2015-03-09 00:00:00
+
+Expressing and verifying probabilistic assertions, 95, 2014-06-09 00:00:00
+
+Approximate storage in solid-state memories, 298, 2013-12-07 00:00:00
+
+Neural acceleration for general-purpose approximate programs, 572, 2012-12-01 00:00:00
+
+Neural acceleration for general-purpose approximate programs, 572, 2012-12-01 00:00:00
+
+Machine learning method to identify independent tasks for parallel layout in web browsers, 0, 2012-03-12 00:00:00
+
+Architecture support for disciplined approximate programming, 454, 2012-03-03 00:00:00
+
+EnerJ: Approximate data types for safe and general low-power computation, 750, 2011-06-04 00:00:00
+
+Exploiting errors for efficiency: A survey from circuits to applications, -1, 
+

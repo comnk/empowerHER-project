@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+A secure and efficient Internet of Things cloud encryption scheme with forensics investigation compatibility based on identity-based encryption, 31, None
+
+Cybersecurity of multi-cloud healthcare systems: A hierarchical deep learning approach, 23, 2022-01-01 00:00:00
+
+Audio-Based Drone Detection and Identification Using Deep Learning Techniques with Dataset Enhancement through Generative Adversarial Networks, 46, 2021-07-21 00:00:00
+
+Distributed cnn inference on resource-constrained uavs for surveillance systems: Design and optimization, 28, 2021-05-23 00:00:00
+
+Recent advances in the internet-of-medical-things (IoMT) systems security, 142, 2020-12-17 00:00:00
+
+Engineering students' readiness to transition to emergency online learning in response to COVID-19: Case of Qatar, 74, 2020-08-22 00:00:00
+
+Comparing models of problem and project-based learning (PBL) courses and student engagement in civil engineering in Qatar, 25, 2020-05-20 00:00:00
+
+Indoor positioning and wayfinding systems: a survey, 141, 2020-05-02 00:00:00
+
+Performance Evaluation of Hyperledger Fabric, 34, 2020-02-01 00:00:00
+
+RF-based drone detection and identification using deep learning approaches: An initiative towards a large open source drone database, 161, 2019-11-01 00:00:00
+
+DroneRF dataset: A dataset of drones for RF-based detection, classification and identification, 75, 2019-08-26 00:00:00
+
+IoT-Based Fire Alarm System, 23, 2019-07-01 00:00:00
+
+Audio Based Drone Detection and Identification using Deep Learning, 82, 2019-06-01 00:00:00
+
+A Novel Deep Learning Strategy for Classifying Different Attack Patterns for Deep Brain Implants, 39, 2019-02-20 00:00:00
+
+Design challenges of multi-UAV systems in cyber-physical applications: A comprehensive survey and future directions, 173, 2018-10-23 00:00:00
+
+A survey of machine and deep learning methods for internet of things (IoT) security, 661, 2018-07-29 00:00:00
+
+Improving remote health monitoring: A low-complexity ECG compression approach, 33, 2018-01-16 00:00:00
+
+A review of security challenges, attacks and resolutions for wireless medical devices, 39, 2017-06-26 00:00:00
+
+Simulating dynamic spectrum access using ns-3 for wireless networks in smart environments, 27, 2014-12-11 00:00:00
+
+TFRC-CR: An equation-based transport protocol for cognitive radio networks, 41, 2013-01-28 00:00:00
+

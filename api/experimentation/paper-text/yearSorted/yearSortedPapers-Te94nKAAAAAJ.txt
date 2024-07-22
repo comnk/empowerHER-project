@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Remembrance of data passed: A study of disk sanitization practices, 241, None
+
+The smallest grammar problem, 10, 2020-11-13 00:00:00
+
+Threshold ECDSA from ECDSA assumptions: The multiparty case, 114, 2019-04-01 00:00:00
+
+A better method to analyze blockchain consistency, 127, 2018-10-08 00:00:00
+
+Doubly-efficient zkSNARKs without trusted setup, 231, 2018-05-20 00:00:00
+
+Secure two-party threshold ECDSA from ECDSA assumptions, 132, 2018-05-01 00:00:00
+
+Scaling ORAM for secure computation, 164, 2017-10-30 00:00:00
+
+Analysis of the blockchain protocol in asynchronous networks, 658, 2017-04-30 00:00:00
+
+SCORAM: oblivious RAM for secure computation, 170, 2014-11-03 00:00:00
+
+Matching by propensity score in cohort studies with three treatment groups, 143, 2013-05-01 00:00:00
+
+{Billion-Gate} secure computation with malicious adversaries, 233, 2012-08-08 00:00:00
+
+One‐to‐many propensity score matching in cohort studies, 401, 2012-05-01 00:00:00
+
+Computing on authenticated data, 152, 2012-03-19 00:00:00
+
+Two-output secure computation with malicious adversaries, 149, 2011-05-15 00:00:00
+
+Efficient protocols for set membership and range proofs, 299, 2008-12-07 00:00:00
+
+Bounded CCA2-secure encryption, 83, 2007-12-02 00:00:00
+
+Simulatable adaptive oblivious transfer, 243, 2007-05-20 00:00:00
+
+Securely obfuscating re-encryption, 202, 2007-02-21 00:00:00
+
+Privacy and identity management for everyone, 117, 2005-11-11 00:00:00
+
+Approximation algorithms for grammar-based compression, 101, 2002-01-06 00:00:00
+

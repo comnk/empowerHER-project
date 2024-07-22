@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Near-optimal time and sample complexities for solving Markov decision processes with a generative model, 171, None
+
+Minimum cost flows, MDPs, and ℓ1-regression in nearly linear time for dense instances, 115, None
+
+Accelerated methods for nonconvex optimization, 1, 2023-07-13 00:00:00
+
+Large-scale methods for distributionally robust optimization, 168, 2020-10-12 00:00:00
+
+Lower bounds for finding stationary points I, 244, 2017-10-31 00:00:00
+
+Variance reduced value iteration and faster algorithms for solving Markov decision processes, 116, 2017-10-27 00:00:00
+
+“Convex until proven guilty”: dimension-free acceleration of gradient descent on non-convex functions, 137, 2017-05-08 00:00:00
+
+Parallelizing stochastic gradient descent for least squares regression: mini-batching, averaging, and model misspecification, 144, 2016-10-12 00:00:00
+
+Geometric median in nearly linear time, 152, 2016-06-16 00:00:00
+
+Streaming pca: Matching matrix bernstein and near-optimal finite sample guarantees for oja’s algorithm, 123, 2016-02-22 00:00:00
+
+A faster cutting plane method and its implications for combinatorial and convex optimization, 282, 2015-08-20 00:00:00
+
+Un-regularizing: approximate proximal point and faster stochastic algorithms for empirical risk minimization, 146, 2015-06-24 00:00:00
+
+Efficient inverse maintenance and faster algorithms for linear programming, 145, 2015-03-05 00:00:00
+
+Competing with the empirical risk minimizer in a single pass, 94, 2014-12-19 00:00:00
+
+Path finding methods for linear programming: Solving linear programs in o (vrank) iterations and faster algorithms for maximum flow, 316, 2014-10-18 00:00:00
+
+Uniform sampling for matrix approximation, 210, 2014-08-21 00:00:00
+
+Single pass spectral sparsification in dynamic streams, 136, 2014-07-04 00:00:00
+
+Efficient accelerated coordinate descent methods and faster algorithms for solving linear systems, 224, 2013-05-08 00:00:00
+
+An almost-linear-time algorithm for approximate max flow in undirected graphs, and its multicommodity generalizations, 255, 2013-04-08 00:00:00
+
+A simple, combinatorial algorithm for solving SDD systems in nearly-linear time, 266, 2013-01-28 00:00:00
+

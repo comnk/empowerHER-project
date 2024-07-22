@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+A new representation for exact real numbers, 80, None
+
+Computing with Real Numbers: I. The LFT Approach to Real Number Computation, 21, None
+
+A computable approach to measure and integration theory, 25, 2007-07-10 00:00:00
+
+Computing Delaunay Triangulation with Imprecise Input Data., 33, 2003-12-31 00:00:00
+
+Domain theory and differential calculus (functions of one variable), 44, 2002-07-22 00:00:00
+
+An extension result for continuous valuations, 64, 2000-04-01 00:00:00
+
+Semi-pullbacks and bisimulation in categories of Markov processes, 40, 1999-10-01 00:00:00
+
+Foundation of a computable solid modeling, 28, 1999-06-01 00:00:00
+
+A domain-theoretic approach to computability on the real line, 81, 1999-01-06 00:00:00
+
+A logical characterization of bisimulation for labeled Markov processes, 114, 1998-06-21 00:00:00
+
+A computational model for metric spaces, 187, 1998-02-28 00:00:00
+
+Domains for computation in mathematics, physics and exact real arithmetic, 136, 1997-12-01 00:00:00
+
+When Scott is weak on the top, 41, 1997-10-01 00:00:00
+
+Semantics of exact real arithmetic, 52, 1997-06-29 00:00:00
+
+Bisimulation for labelled Markov processes, 331, 1997-01-04 00:00:00
+
+Bisimulation for labelled Markov processes, 331, 1997-01-04 00:00:00
+
+Integration in real PCF, 43, 1996-07-27 00:00:00
+
+Power domains and iterated function systems, 96, 1996-02-01 00:00:00
+
+Domain theory and integration, 160, 1994-07-04 00:00:00
+
+Dynamical systems, measures, and fractals via domain theory, 161, 1993-03-29 00:00:00
+

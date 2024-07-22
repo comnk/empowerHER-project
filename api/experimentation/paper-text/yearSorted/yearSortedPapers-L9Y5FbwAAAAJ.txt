@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Infrared target detection in cluttered environments by maximization of a target to clutter ratio (TCR) metric using a convolutional neural network, 51, 2021-02-01 00:00:00
+
+Attention guided anomaly localization in images, 177, 2019-11-19 00:00:00
+
+Correlation pattern recognition, 2, 2017-10-03 00:00:00
+
+Recent results of medium wave infrared compressive sensing, 51, 2014-12-01 00:00:00
+
+Maximum margin correlation filter: A new approach for localization and classification, 101, 2013-02-01 00:00:00
+
+Object specific image reconstruction using a compressive sensing architecture for application in surveillance systems, 70, 2009-09-25 00:00:00
+
+Design and application of quadratic correlation filters for target detection, 85, 2004-09-27 00:00:00
+
+Quadratic correlation filter design methodology for target detection and surveillance applications, 61, 2004-09-20 00:00:00
+
+Performance evaluation of quadratic correlation filters for target detection and discrimination in infrared imagery, 51, 2004-04-12 00:00:00
+
+Biometric verification with correlation filters, 95, 2004-01-10 00:00:00
+
+Optimal tradeoff circular harmonic function correlation filter methods providing controlled in-plane rotation response, 71, 2000-06-01 00:00:00
+
+Improving the false alarm capabilities of the maximum average correlation height correlation filter, 54, 2000-05-01 00:00:00
+
+Evaluation of MACH and DCCF correlation filters for SAR ATR using the MSTAR public database, 60, 1998-09-15 00:00:00
+
+Optimality of the maximum average correlation height filter for detection of targets in noise, 72, 1997-10-01 00:00:00
+
+Distance-classifier correlation filters for multiclass target recognition, 132, 1996-06-10 00:00:00
+
+Optimal trade-off synthetic discriminant function filters for arbitrary devices, 157, 1994-10-01 00:00:00
+
+Unconstrained correlation filters, 393, 1994-06-10 00:00:00
+
+Multi-class SAR ATR using shift-invariant correlation filters, 39, 1994-04-01 00:00:00
+
+Minimum squared error synthetic discriminant functions, 61, 1992-05-01 00:00:00
+
+Minimum average correlation energy filters, 739, 1987-09-01 00:00:00
+

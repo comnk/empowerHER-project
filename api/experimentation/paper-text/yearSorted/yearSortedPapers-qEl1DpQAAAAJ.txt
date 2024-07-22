@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Is Real-time Phishing Eliminated with FIDO? Social Engineering Downgrade Attacks against FIDO Protocols, 16, None
+
+Taxing the Queue: Hindering Middleboxes from Unauthorized Large-Scale Traffic Relaying, 12, None
+
+Empirical Scanning Analysis of Censys and Shodan, 7, None
+
+Comparative Analysis of DoT and HTTPS Certificate Ecosystems, 3, None
+
+Characterizing the Adoption of Security.txt Files and their Applications to Vulnerability Notification, 2, None
+
+Why do internet devices remain vulnerable? a survey with system administrators, 1, None
+
+Position paper: Certificate root stores—an area of unity or disparity?, 2, 2021-10-21 00:00:00
+
+UWB-ED: Distance Enlargement Attack Detection in Ultra-Wideband, 28, 2019-11-25 00:00:00
+
+Secure Client and Server Geolocation Over the Internet, 2, 2019-06-26 00:00:00
+
+SoK: Delegation and Revocation, the Missing Links in the Web’s Chain of Trust, 20, 2019-06-25 00:00:00
+
+Location Verification of Wireless Internet Clients: Evaluation and Improvements, 2, 2017-10-01 00:00:00
+
+Comparative Analysis and Framework Evaluating Mimicry-Resistant and Invisible Web Authentication Schemes, 5, 2017-08-05 00:00:00
+
+Accurate manipulation of delay-based Internet geolocation, 18, 2017-04-02 00:00:00
+
+Comparative analysis of control plane security of SDN and conventional networks, 74, 2017-03-20 00:00:00
+
+A framework and comparative analysis of control plane security of SDN and conventional networks, 74, 2017-03-20 00:00:00
+
+CPV: Delay-based location verification for the Internet, 34, 2017-03-01 00:00:00
+
+Server Location Verification (SLV) and Server Location Pinning: Augmenting TLS Authentication, 16, 2016-08-13 00:00:00
+
+What lies beneath? Analyzing automated SSH bruteforce attacks, 25, 2015-12-07 00:00:00
+
+Accurate One-Way Delay Estimation with Reduced Client-Trustworthiness, 23, 2015-03-09 00:00:00
+
+Location verification on the Internet: Towards enforcing Location-aware access policies over Internet clients, 13, 2014-12-29 00:00:00
+

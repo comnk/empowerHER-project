@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+AI-big data analytics for building automation and management systems: a survey, actual challenges and future perspectives, 119, 2022-10-15 00:00:00
+
+Using artificial intelligence and data fusion for environmental monitoring: A review and future perspectives, 67, 2022-06-01 00:00:00
+
+Blockchain-based recommender systems: Applications, challenges and future opportunities, 71, 2021-11-22 00:00:00
+
+Smart power consumption abnormality detection in buildings using micromoments and improved K‐nearest neighbors, 66, 2021-06-01 00:00:00
+
+Artificial intelligence based anomaly detection of energy consumption in buildings: A review, current trends and new perspectives, 299, 2021-04-01 00:00:00
+
+A survey of recommender systems for energy efficiency in buildings: Principles, challenges and prospects, 90, 2021-02-09 00:00:00
+
+The emergence of explainability of intelligent systems: Delivering explainable and personalized recommendations for energy efficiency, 74, 2020-10-10 00:00:00
+
+A novel approach for detecting anomalous energy consumption based on micro-moments and deep neural networks, 86, 2020-09-25 00:00:00
+
+Building power consumption datasets: Survey, taxonomy and future directions, 77, 2020-09-05 00:00:00
+
+Robust event-based non-intrusive appliance recognition using multi-scale wavelet packet tree and ensemble bagging tree, 83, 2020-06-01 00:00:00
+
+Fall detection and human activity classification using wearable sensors and compressed sensing, 76, 2019-01-31 00:00:00
+
+Content-based image retrieval with compact deep convolutional features, 114, 2017-08-02 00:00:00
+
+MLP neural network based gas classification system on Zynq SoC, 87, 2016-10-21 00:00:00
+
+Multiple comparator classifier framework for accelerometer-based fall detection and diagnostic, 105, 2016-02-01 00:00:00
+
+Semantic content-based image retrieval: A comprehensive study, 200, 2015-10-01 00:00:00
+
+FPGA implementation of orthogonal matching pursuit for compressive sensing reconstruction, 100, 2015-10-01 00:00:00
+
+FPGA realization of FIR filters by efficient and flexible systolization using distributed arithmetic, 286, 2008-07-01 00:00:00
+
+Fully automated segmentation of oncological PET volumes using a combined multiscale and statistical model, 116, 2007-02-01 00:00:00
+
+FPGA implementations of fast Fourier transforms for real-time signal and image processing, 179, 2003-12-15 00:00:00
+
+A multispectral computer vision system for automatic grading of prostatic neoplasia, 65, 2002-11-07 00:00:00
+

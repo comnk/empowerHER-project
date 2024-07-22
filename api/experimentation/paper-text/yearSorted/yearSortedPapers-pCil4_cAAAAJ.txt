@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Speech enhancement using a wavelet thresholding method based on symmetric Kullback–Leibler divergence, 38, None
+
+A new density-based subspace selection method using mutual information for high dimensional outlier detection, 22, 2021-03-15 00:00:00
+
+Switching structured prediction for simple and complex human activity recognition, 26, 2020-01-14 00:00:00
+
+A convolutional neural network model based on neutrosophy for noisy speech recognition, 13, 2019-01-27 00:00:00
+
+A trust management scheme for IoT-enabled environmental health/accessibility monitoring services, 25, 2018-11-16 00:00:00
+
+A fast anomaly detection system using probabilistic artificial immune algorithm capable of learning new attacks, 23, 2013-12-25 00:00:00
+
+CVSS-based security metrics for quantitative analysis of attack graphs, 29, 2013-12-16 00:00:00
+
+New class‐dependent feature transformation for intrusion detection systems, 19, 2012-12-01 00:00:00
+
+Overload control in SIP networks using no explicit feedback: A window based approach, 26, 2012-07-01 00:00:00
+
+Improving linear discriminant analysis with artificial immune system-based evolutionary algorithms, 23, 2012-04-15 00:00:00
+
+A framework for SIP intrusion detection and response systems, 19, 2011-05-05 00:00:00
+
+Controlling overload in SIP proxies: An adaptive window based approach using no explicit feedback, 24, 2010-12-01 00:00:00
+
+A new wavelet thresholding method for speech enhancement based on symmetric Kullback-Leibler divergence, 19, 2009-12-08 00:00:00
+
+Using power level difference for near field dual-microphone speech enhancement, 33, 2009-12-01 00:00:00
+
+Noise cross PSD estimation using phase information in diffuse noise field, 23, 2009-05-01 00:00:00
+
+An iterative noise cross-PSD estimation for two-microphone speech enhancement, 17, 2009-03-01 00:00:00
+
+SNR-dependent compression of enhanced Mel sub-band energies for compensation of noise effects on MFCC features, 34, 2007-08-01 00:00:00
+
+Enhancement of speech degraded by coherent and incoherent noise using a cross-spectral estimator, 101, 1997-09-01 00:00:00
+
+Speech enhancement using a Wiener filtering under signal presence uncertainty, 18, 1996-09-01 00:00:00
+
+Optimizing speech enhancement by exploiting masking properties of the human ear, 34, 1995-05-09 00:00:00
+

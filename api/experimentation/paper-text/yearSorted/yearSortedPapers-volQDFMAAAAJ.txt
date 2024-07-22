@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Narodowy Korpus Języka Polskiego, 144, None
+
+Case assignment and the complement/adjunct dichotomy: a non-configurational constraint-based approach, 150, None
+
+The IPI PAN Corpus, 0, None
+
+Formalny opis języka polskiego: Teoria i implementacja, 2, None
+
+Powierzchniowe przetwarzanie języka polskiego, 37, None
+
+Czech and Polish raising/control with or without structure sharing, 32, None
+
+The Unbearable Lightness of Tagging* A Case Study in Morphosyntactic Tagging of Polish, 33, None
+
+Universal Dependencies 2.2, 9, 2023-02-21 00:00:00
+
+National Corpus of Polish, 2, 2020-05-01 00:00:00
+
+PARSEME–PARSing and Multiword Expressions within a European multilingual network, 48, 2015-11-27 00:00:00
+
+Walenty: Towards a comprehensive valence dictionary of Polish, 45, 2014-05-01 00:00:00
+
+Overview of the SPMRL 2013 shared task: cross-framework evaluation of parsing morphologically rich languages, 202, 2013-10-18 00:00:00
+
+Towards the annotation of named entities in the National Corpus of Polish, 42, 2010-05-01 00:00:00
+
+Towards the National Corpus of Polish, 51, 2008-05-01 00:00:00
+
+Towards the automatic extraction of definitions in Slavic, 55, 2007-06-29 00:00:00
+
+A flexemic tagset for Polish, 73, 2003-04-13 00:00:00
+
+On case assignment and “adjuncts as complements”, -1, 
+
+Korpus IPI PAN: wersja wstępna, -1, 
+
+O wartości przypadka podmiotów liczebnikowych, -1, 
+
+Eventuality negation and negative concord in Polish and Italian, -1, 
+

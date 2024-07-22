@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Diversified spatial keyword search on road networks, 59, None
+
+Reverse k nearest neighbors query processing: experiments and analysis, 51, None
+
+NNVWC: An Efficient-Nearest Neighbors Approach Based on Various-Widths Clustering, 1, None
+
+A Unified Framework for Efficiently Processing Ranking Related Queries., 29, None
+
+Clustering of Countries for COVID-19 Cases based on Disease Prevalence, Health Systems and Environmental Indicators, 36, 2021-02-19 00:00:00
+
+Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT, 114, 2021-01-15 00:00:00
+
+Indoor location-based services: challenges and opportunities, 42, 2018-11-13 00:00:00
+
+Vip-tree: an effective index for indoor spatial queries, 33, 2016-11-01 00:00:00
+
+K-nearest neighbors on road networks: a journey in experimentation and in-memory implementation, 152, 2016-01-07 00:00:00
+
+SLICE: reviving regions-based pruning for reverse k nearest neighbors queries, 34, 2014-05-19 00:00:00
+
+A safe zone based approach for monitoring moving skyline queries, 27, 2013-03-18 00:00:00
+
+Stochastic skylines, 31, 2012-05-01 00:00:00
+
+Efficiently processing snapshot and continuous reverse k nearest neighbors queries, 29, 2012-02-10 00:00:00
+
+Continuous monitoring of distance-based range queries, 63, 2011-08-01 00:00:00
+
+Continuous reverse k nearest neighbors queries in Euclidean space and in spatial networks, 96, 2011-05-15 00:00:00
+
+Influence zone: Efficiently processing reverse k nearest neighbors queries, 90, 2011-04-11 00:00:00
+
+Stochastic skyline operator, 42, 2011-04-11 00:00:00
+
+Probabilistic reverse nearest neighbor queries on uncertain data, 110, 2010-04-01 00:00:00
+
+Multi-guarded safe zone: An effective technique to monitor moving circular range queries, 69, 2010-03-01 00:00:00
+
+Lazy updates: An efficient technique to continuously monitoring reverse knn, 58, 2009-08-01 00:00:00
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Semperfi: Anti-spoofing gps receiver for uavs, 17, None
+
+An Experimental Study of {GPS} Spoofing and Takeover Attacks on {UAVs}, 23, None
+
+On the Robustness of Wi-Fi Deauthentication Countermeasures, 21, 2022-05-16 00:00:00
+
+Let numbers tell the tale: measuring security trends in wi-fi networks and best practices, 12, 2021-06-28 00:00:00
+
+Here, there, and everywhere: security analysis of wi-fi fine timing measurement, 9, 2021-06-28 00:00:00
+
+Practical Side-Channel Attacks against WPA-TKIP, 11, 2019-07-02 00:00:00
+
+Wireless attacks on aircraft landing systems, 10, 2019-05-15 00:00:00
+
+Security of GPS/INS based on-road location tracking systems, 52, 2018-08-10 00:00:00
+
+I Send, Therefore I Leak: Information Leakage in Low-Power Wide Area Networks, 12, 2018-06-18 00:00:00
+
+Are we really close? Verifying proximity in wireless systems, 48, 2017-06-16 00:00:00
+
+On the Security of Carrier Phase-based Ranging, 19, 2016-10-19 00:00:00
+
+Investigation of multi-device location spoofing attacks on air traffic control and possible countermeasures, 49, 2016-10-03 00:00:00
+
+SPREE: Spoofing Resistant GPS Receiver, 84, 2016-03-17 00:00:00
+
+Proximity Verification for Contactless Access Control and Authentication Systems, 13, 2015-12-07 00:00:00
+
+Thermal Covert Channels on Multi-core Platforms., 135, 2015-03-24 00:00:00
+
+Short paper: detection of GPS spoofing attacks in power grids, 49, 2014-07-23 00:00:00
+
+On Limitations of Friendly Jamming for Confidentiality, 88, 2013-05-19 00:00:00
+
+Enabling trusted scheduling in embedded systems, 11, 2012-12-03 00:00:00
+
+Design and implementation of a terrorist fraud resilient distance bounding system, 42, 2012-09-10 00:00:00
+
+Physical-layer attacks on chirp-based ranging systems, 28, 2012-04-16 00:00:00
+

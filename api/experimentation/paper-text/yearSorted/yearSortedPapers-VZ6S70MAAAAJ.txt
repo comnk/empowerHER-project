@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+How to leverage hardness of constant-degree expanding polynomials over R to build iO, 42, None
+
+Threshold Multi-Key FHE and Applications to MPC, 10, None
+
+Indistinguishability Obfuscation from Simple-to-State Hard Problems: New Assumptions, New Techniques, and Simplification, 36, None
+
+Indistinguishability Obfuscation Without Multilinear Maps: iO from LWE, Bilinear Maps, and Weak Pseudorandomness., 43, None
+
+Threshold Fully Homomorphic Encryption., 18, None
+
+Functional encryption: Decentralised and delegatable, 15, None
+
+Affine determinant programs: a framework for obfuscation and witness encryption, 22, None
+
+Counterexamples to new circular security assumptions underlying iO, 15, None
+
+Simplifying constructions and assumptions for iO, 20, None
+
+Shacham H Boldyreva A et al, 6, 2023-04-14 00:00:00
+
+Indistinguishability Obfuscation from LPN over 𝔽𝑝, DLIN, and PRGs in NC0, 7, 2021-06-15 00:00:00
+
+Indistinguishability obfuscation from well-founded assumptions, 162, 2020-08-21 00:00:00
+
+Statistical zap arguments, 34, 2020-05-10 00:00:00
+
+Statistical zap arguments, 34, 2020-05-10 00:00:00
+
+Indistinguishability obfuscation without multilinear maps: new paradigms via low degree weak pseudorandomness and security amplification, 59, 2019-08-18 00:00:00
+
+Threshold cryptosystems from threshold fully homomorphic encryption, 170, 2018-08-19 00:00:00
+
+Robust transforming combiners from indistinguishability obfuscation to functional encryption, 19, 2017-04-30 00:00:00
+
+Verifiable functional encryption, 45, 2016-12-04 00:00:00
+
+Universal constructions and robust combiners for indistinguishability obfuscation and witness encryption, 35, 2016-08-14 00:00:00
+
+The magazine archive includes every article published in Communications of the ACM for over the past 50 years., -1, 
+

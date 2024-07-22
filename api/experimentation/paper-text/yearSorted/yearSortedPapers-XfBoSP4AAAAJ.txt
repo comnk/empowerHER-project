@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Towards electronically assisted peer assessment: a case study, 72, None
+
+Volumetric texture segmentation by discriminant feature selection and multiresolution classification, 42, None
+
+Cross-modal prototype driven network for radiology report generation, 37, 2022-07-11 00:00:00
+
+Semantic annotation for computational pathology: multidisciplinary experience and best practice recommendations, 34, 2021-06-25 00:00:00
+
+Parallel file system analysis through application I/O tracing, 27, 2013-02-01 00:00:00
+
+Robust detection of microaneurysms for sight threatening retinopathy screening, 35, 2008-12-16 00:00:00
+
+Reducing the run-time of MCMC programs by multithreading on SMP architectures, 25, 2008-04-14 00:00:00
+
+Analysis of retinal vasculature using a multiresolution hermite model, 109, 2007-01-29 00:00:00
+
+The Bhattacharyya space for feature selection and its application to texture segmentation, 102, 2006-05-01 00:00:00
+
+Tensor splats: Visualising tensor fields by texture mapped volume rendering, 24, 2003-11-15 00:00:00
+
+Volumetric texture description and discriminant feature selection for MRI, 24, 2003-02-24 00:00:00
+
+Fingerprint matching method and apparatus, 0, 2001-12-05 00:00:00
+
+Inferring vascular structure from 2d and 3d imagery, 24, 2001-10-14 00:00:00
+
+Unsupervised image segmentation combining region and boundary estimation, 28, 2000-08-24 00:00:00
+
+Tissue classification based on 3D local intensity structures for volume rendering, 384, 2000-04-01 00:00:00
+
+Tensor controlled local structure enhancement of CT images for bone segmentation, 42, 1998-10-11 00:00:00
+
+Computer-assisted surgical planning for cerebrovascular neurosurgery, 97, 1997-08-01 00:00:00
+
+Using local 3D structure for segmentation of bone from computer tomography images, 52, 1997-06-17 00:00:00
+
+Kernel designs for efficient multiresolution edge detection and orientation estimation, 44, 1992-03-01 00:00:00
+
+Her 2 challenge contest: a detailed assessment of automated her 2 scoring algorithms in whole slide images of breast cancer tissues, -1, 
+

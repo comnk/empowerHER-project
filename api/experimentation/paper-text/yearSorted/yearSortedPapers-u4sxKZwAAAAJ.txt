@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Improved speech-to-text translation with the Fisher and Callhome Spanish-English speech translation corpus, 134, None
+
+SemEval 2021 task 7: HaHackathon, detecting and rating humor and offense, 89, None
+
+Word-based alignment, phrase-based translation: What’s the link?, 69, None
+
+A unified framework for phrase-based, hierarchical, and syntax-based statistical machine translation, 69, None
+
+Intrinsic bias metrics do not correlate with application bias, 136, 2020-12-31 00:00:00
+
+A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages, 53, 2019-09-06 00:00:00
+
+Understanding learning dynamics of language models with svcca, 94, 2018-11-01 00:00:00
+
+Pre-training on high-resource speech recognition improves low-resource speech-to-text translation, 179, 2018-09-05 00:00:00
+
+Low-resource speech-to-text translation, 52, 2018-03-24 00:00:00
+
+From characters to words to in between: Do we capture morphology?, 93, 2017-04-26 00:00:00
+
+Towards speech-to-text translation without speech recognition, 63, 2017-02-13 00:00:00
+
+Neural networks for negation scope detection, 105, 2016-08-12 00:00:00
+
+Statistical machine translation, 21132, 2014-06-03 00:00:00
+
+Dirt Cheap Web-Scale Parallel Text from the Common Crawl, 153, 2013-08-01 00:00:00
+
+Putting Human Assessments of Machine Translation Systems in Order, 23, 2012-06-07 00:00:00
+
+cdec: A decoder, alignment, and learning framework for finite-state and context-free translation models, 250, 2010-07-13 00:00:00
+
+Translation as weighted deduction, 46, 2009-03-30 00:00:00
+
+Tera-scale translation models via pattern matching, 59, 2008-08-18 00:00:00
+
+Hierarchical phrase-based translation with suffix arrays, 116, 2007-06-01 00:00:00
+
+The hiero machine translation system: Extensions, evaluation, and analysis, 66, 2005-10-06 00:00:00
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Quantifying the benefits of resource multiplexing in on-demand data centers, 50, None
+
+Decentralized edge clouds, 5, 2019-11-01 00:00:00
+
+End-to-end optimization for geo-distributed mapreduce, 63, 2016-07-01 00:00:00
+
+Optimizing grouped aggregation in geo-distributed streaming analytics, 45, 2015-06-15 00:00:00
+
+Nebula: Distributed edge cloud for data intensive computing, 124, 2014-03-11 00:00:00
+
+Nebula: Distributed edge cloud for data intensive computing, 124, 2014-03-11 00:00:00
+
+Exploiting spatio-temporal tradeoffs for energy-aware mapreduce in the cloud, 60, 2011-07-04 00:00:00
+
+Exploring mapreduce efficiency with highly-distributed data, 82, 2011-06-08 00:00:00
+
+Starling: Minimizing communication overhead in virtualized computing platforms using decentralized affinity-aware migration, 139, 2010-09-13 00:00:00
+
+Does virtualization make disk scheduling passé?, 82, 2010-03-12 00:00:00
+
+Nebulas: Using Distributed Voluntary Resources to Build Clouds., 100, 2009-06-15 00:00:00
+
+Agile dynamic provisioning of multi-tier internet applications, 521, 2008-03-27 00:00:00
+
+Adaptive reputation-based scheduling on unreliable distributed infrastructures, 100, 2007-11-01 00:00:00
+
+Dynamic provisioning of multi-tier internet applications, 351, 2005-06-13 00:00:00
+
+Dynamic resource allocation for shared data centers using online measurements, 303, 2003-06-02 00:00:00
+
+An observation-based approach towards self-managing web servers, 133, 2002-08-07 00:00:00
+
+Deadline fair scheduling: bridging the theory and practice of proportionate pair scheduling in multiprocessor systems, 57, 2001-05-30 00:00:00
+
+Scalability of Linux event-dispatch mechanisms, 57, 2000-12-14 00:00:00
+
+Application performance in the QLinux multimedia operating system, 91, 2000-10-30 00:00:00
+
+Surplus Fair Scheduling: A {Proportional-Share}{CPU} Scheduling Algorithm for Symmetric Multiprocessors, 135, 2000-10-22 00:00:00
+

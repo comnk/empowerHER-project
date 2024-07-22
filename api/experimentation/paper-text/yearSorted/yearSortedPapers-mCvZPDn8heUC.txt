@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Modulated model predictive control for a three-phase active rectifier, 212, 2015-03-01 00:00:00
+
+Modulated model predictive control for a seven-level cascaded H-bridge back-to-back converter, 193, 2014-01-14 00:00:00
+
+Open-circuit fault detection and isolation for modular multilevel converter based on sliding mode observer, 22, 2013-10-17 00:00:00
+
+Technological issues and industrial application of matrix converters: A review, 313, 2013-10-01 00:00:00
+
+Advanced power electronic conversion and control system for universal and flexible power management, 294, 2011-03-24 00:00:00
+
+MRAS observers for sensorless control of doubly-fed induction generators, 196, 2008-04-02 00:00:00
+
+Sensorless control of doubly-fed induction generators using a rotor-current-based MRAS observer, 250, 2008-01-04 00:00:00
+
+A complete harmonic elimination approach to DC link voltage balancing for a cascaded multilevel rectifier, 156, 2007-10-29 00:00:00
+
+Control of offshore DFIG-based wind farm grid with line-commutated HVDC connection, 145, 2007-02-20 00:00:00
+
+Control of a switched reluctance generator for variable-speed wind energy applications, 277, 2005-12-05 00:00:00
+
+MRAS observer for sensorless control of standalone doubly fed induction generators, 276, 2005-12-05 00:00:00
+
+A 150-kVA vector-controlled matrix converter induction motor drive, 148, 2004-11-01 00:00:00
+
+Power smoothing in wind generation systems using a sensorless vector controlled induction machine driving a flywheel, 150, 2004-02-26 00:00:00
+
+Matrix converters: A technology review, 1932, 2002-08-07 00:00:00
+
+Dynamic emulation of mechanical loads using a vector-controlled induction motor-generator set, 126, 1999-04-01 00:00:00
+
+Conducted electromagnetic emissions in induction motor drive systems. I. Time domain analysis and identification of dominant modes, 258, 1998-07-01 00:00:00
+
+Conducted electromagnetic emissions in induction motor drive systems. II. Frequency domain models, 231, 1998-07-01 00:00:00
+
+Intelligent commutation of matrix converter bi-directional switch cells using novel gate drive techniques, 152, 1998-05-17 00:00:00
+
+A doubly fed induction generator using back-to-back PWM converters supplying an isolated load from a variable speed wind turbine, 477, 1996-09-01 00:00:00
+
+Doubly fed induction generator using back-to-back PWM converters and its application to variable-speed wind-energy generation, 2920, 1996-05-01 00:00:00
+

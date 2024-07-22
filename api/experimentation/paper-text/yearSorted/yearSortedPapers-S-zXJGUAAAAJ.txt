@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Correspondence assertions for process synchronization in concurrent communications, 64, None
+
+Higher-order subtyping with intersection types, 41, None
+
+Subtyping for object type constructors, 13, None
+
+Boxed ambients with communication interfaces, 15, None
+
+Subject reduction and minimal types for higher order subtyping, 11, None
+
+Non-interference for a typed assembly language, 10, None
+
+Multiple inheritance via intersection types, 21, 2018-01-15 00:00:00
+
+Bioscape: A modeling and simulation language for bacteria-materials interactions, 11, 2013-03-01 00:00:00
+
+Role-based access control for boxed ambients, 18, 2008-05-20 00:00:00
+
+Multipoint session types for a distributed calculus, 67, 2007-11-05 00:00:00
+
+BASS: Boxed ambients with safe sessions, 49, 2006-07-10 00:00:00
+
+A typed assembly language for non-interference, 25, 2005-10-12 00:00:00
+
+Typechecking safe process synchronization, 25, 2005-09-01 00:00:00
+
+Information flow analysis for a typed assembly language with polymorphic stacks, 10, 2005-03-08 00:00:00
+
+Heap-bounded assembly language, 36, 2004-01-15 00:00:00
+
+Typed operational semantics for higher-order subtyping, 30, 2003-08-01 00:00:00
+
+Higher-order intersection types and multiple inheritance, 50, 1996-10-01 00:00:00
+
+Subtyping dependent types, 109, 1996-07-27 00:00:00
+
+Decidability of higher-order subtyping with intersection types, 35, 1994-09-25 00:00:00
+
+Subtyping in F is Decidable, -1, 
+

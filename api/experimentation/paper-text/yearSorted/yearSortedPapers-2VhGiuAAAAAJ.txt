@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Spatiotemporal data mining: a survey on challenges and open problems, 56, 2021-03-31 00:00:00
+
+Model-based risk assessment for cyber physical systems security, 28, 2020-05-28 00:00:00
+
+Adaptive prediction models for data center resources utilization estimation, 48, 2019-08-02 00:00:00
+
+Unsupervised learning approach for web application auto-decomposition into microservices, 60, 2019-05-01 00:00:00
+
+Canny edge detection and Hough transform for high resolution video streams using Hadoop and Spark, 36, 2019-04-04 00:00:00
+
+Dynamic workload patterns prediction for proactive auto-scaling of web applications, 39, 2018-12-01 00:00:00
+
+Sentiment analysis as a service: a social media based sentiment analysis framework, 36, 2017-06-01 00:00:00
+
+A risk mitigation approach for autonomous cloud intrusion response system, 43, 2016-11-01 00:00:00
+
+A finite state hidden markov model for predicting multistage attacks in cloud systems, 51, 2014-08-24 00:00:00
+
+A Model-based Validated Autonomic Approach to Self-Protect Computing Systems, 37, 2014-08-20 00:00:00
+
+A model-based approach to self-protection in computing system, 38, 2013-08-09 00:00:00
+
+WS-Policy based monitoring of composite web services, 54, 2007-11-26 00:00:00
+
+Service design process for reusable services: Financial services case study, 39, 2007-09-17 00:00:00
+
+Ws-policy4masc-a ws-policy extension used in the masc middleware, 40, 2007-07-09 00:00:00
+
+Policy-driven middleware for self-adaptation of web services compositions, 99, 2006-11-01 00:00:00
+
+SOAF: An architectural framework for service definition and realization, 150, 2006-09-18 00:00:00
+
+Recovery policies for enhancing web services reliability, 76, 2006-09-18 00:00:00
+
+A broker-based approach for improving Web services reliability, 51, 2005-07-11 00:00:00
+
+wsBus: QoS-aware middleware for reliable web services interactions, 52, 2005-03-29 00:00:00
+
+A service computing manifesto: the next 10 years, -1, 
+

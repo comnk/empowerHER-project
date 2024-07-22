@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Internet Jones and the Raiders of the Lost Trackers: An Archaeological Study of Web Tracking from 1996 to 2016., 234, None
+
+Replication: How Well Do My Results Generalize Now? The External Validity of Online Privacy and Security Surveys, 30, None
+
+Counting Carrds: Investigating Personal Disclosure and Boundary Management in Transformative Fandom, 0, 2024-05-11 00:00:00
+
+Privacy Norms of Transformative Fandom: A Case Study of an Activity-Defined Community, 1, 2024-04-17 00:00:00
+
+SoK: Technical Implementation and Human Impact of Internet Privacy Regulations, 0, 2023-12-24 00:00:00
+
+“It's a Fair Game”, or Is It? Examining How Users Navigate Disclosure Risks and Benefits When Using LLM-Based Conversational Agents, 13, 2023-09-20 00:00:00
+
+Buying Privacy: User Perceptions of Privacy Threats from Mobile Apps, 0, 2022-11-14 00:00:00
+
+The Buffet Overflow Café, 0, 2022-07-01 00:00:00
+
+Defining Privacy: How Users Interpret Technical Terms in Privacy Policies., 25, 2021-04-27 00:00:00
+
+Privacy and Activism in the Transgender Community, 44, 2020-04-21 00:00:00
+
+Computer Security and Privacy for Refugees in the United States, 47, 2018-04-01 00:00:00
+
+Rewriting history: Changing the archived web from the present, 32, 2017-10-30 00:00:00
+
+Confidante: Usable Encrypted Email: A Case Study with Lawyers and Journalists, 48, 2017-04-01 00:00:00
+
+Rangzen: Anonymously Getting the Word Out in a Blackout, 6, 2016-12-11 00:00:00
+
+Analyzing the Use of Quick Response Codes in the Wild, 22, 2015-05-18 00:00:00
+
+Cryptographic Currencies from a Tech-Policy Perspective: Policy Issues and Technical Directions, 8, 2015-01-26 00:00:00
+
+Control-Alt-Hack: the design and evaluation of a card game for computer security awareness and education, 135, 2013-11-04 00:00:00
+
+Tiktok, It's Threat to National Security O'clock: Investigating the Effects of Securitizing Narratives on User Perceptions of Mobile Apps, -1, 
+
+TikTok, It’s Threat to National Security O’Clock, -1, 
+
+" Custodian of Online Communities": Investigating Mutual Support among Moderators in Managing Community Safety, -1, 
+

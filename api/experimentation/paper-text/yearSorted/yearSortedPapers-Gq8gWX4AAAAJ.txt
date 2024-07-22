@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+A cognitive radio approach for usage of virtual unlicensed spectrum, 723, None
+
+Corvus: a cognitive radio approach for usage of virtual unlicensed spectrum, 723, None
+
+Dynamic resource allocation in OFDM systems: an overview of cross-layer optimization principles and techniques, 143, None
+
+Dynamic resource provisioning for energy efficiency in wireless access networks: A survey and an outlook, 133, 2014-06-27 00:00:00
+
+Adaptation algorithm for adaptive streaming over HTTP, 240, 2012-05-10 00:00:00
+
+Saving energy in IP-over-WDM networks by switching off line cards in low-demand scenarios, 152, 2010-02-01 00:00:00
+
+Primary user behavior in cellular networks and implications for dynamic spectrum access, 235, 2009-03-01 00:00:00
+
+Experimental study of the impact of WLAN interference on IEEE 802.15. 4 body area networks, 166, 2009-02-11 00:00:00
+
+Primary users in cellular networks: A large-scale measurement study, 66, 2008-10-24 00:00:00
+
+Cognitive radios for dynamic spectrum access-dynamic frequency hopping communities for efficient IEEE 802.22 operation, 264, 2007-05-01 00:00:00
+
+Twist: a scalable and reconfigurable testbed for wireless indoor experiments with sensor networks, 322, 2006-05-26 00:00:00
+
+A real time cognitive radio testbed for physical and link layer experiments, 182, 2005-12-05 00:00:00
+
+Reliable link maintenance in cognitive radio systems, 158, 2005-12-05 00:00:00
+
+Wireless technology in industrial networks, 701, 2005-05-31 00:00:00
+
+Evalvid–a framework for video transmission and quality evaluation, 894, 2003-09-02 00:00:00
+
+Distributed algorithms for transmission power control in wireless sensor networks, 333, 2003-03-20 00:00:00
+
+Measurements of a wireless link in an industrial environment using an IEEE 802.11-compliant physical layer, 373, 2002-12-16 00:00:00
+
+Power-saving mechanisms in emerging standards for wireless LANs: The MAC level perspective, 317, 1998-06-01 00:00:00
+
+Performance study of access control in wireless LANs–IEEE 802.11 DFWMAC and ETSI RES 10 HIPERLAN, 206, 1997-06-01 00:00:00
+
+T2: A second generation os for embedded sensor networks, -1, 
+

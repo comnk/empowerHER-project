@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Situative frameworks for engineering learning research, 56, None
+
+Learning analytics in higher education, 130, None
+
+Correlates of social media fatigue and academic performance decrement: A large cross-sectional study, 118, 2020-03-06 00:00:00
+
+Use of Twitter across educational settings: a review of the literature, 79, 2019-09-25 00:00:00
+
+Systematic review of discussion forums in massive open online courses (MOOCs), 68, 2019-07-01 00:00:00
+
+Technological barriers and incentives to learning analytics adoption in higher education: Insights from users, 37, 2019-03-13 00:00:00
+
+Learning analytics tools in higher education: Adoption at the intersection of institutional commitment and individual action, 53, 2018-12-29 00:00:00
+
+Uses and gratifications of pokémon go: Why do people play mobile location-based augmented reality games?, 160, 2018-07-24 00:00:00
+
+Digital payment and its discontents: Street shops and the Indian government's push for cashless transactions, 51, 2018-04-21 00:00:00
+
+Running out of stem: a comparative study across stem majors of college students at-risk of dropping out early, 67, 2018-03-07 00:00:00
+
+Needle in a haystack: Identifying learner posts that require urgent response in MOOC discussion forums, 106, 2018-03-01 00:00:00
+
+Predicting performance on MOOC assessments using multi-regression models, 61, 2016-05-01 00:00:00
+
+Next-term student performance prediction: A recommender systems approach, 129, 2016-04-07 00:00:00
+
+Cambridge handbook of engineering education research, 253, 2014-02-04 00:00:00
+
+Professional engineering work, 99, 2014-02-01 00:00:00
+
+Capable and convivial design (CCD): a framework for designing information and communication technologies for human development, 44, 2012-01-01 00:00:00
+
+The socio-materiality of learning practices and implications for the field of learning technology., 107, 2011-11-01 00:00:00
+
+Sociomaterial bricolage: The creation of location-spanning work practices by global software developers, 66, 2011-09-01 00:00:00
+
+Situated engineering learning: Bridging engineering education research and the learning sciences, 353, 2011-01-01 00:00:00
+
+On the development of a professional identity: Engineering persisters vs engineering switchers, 195, 2009-10-18 00:00:00
+

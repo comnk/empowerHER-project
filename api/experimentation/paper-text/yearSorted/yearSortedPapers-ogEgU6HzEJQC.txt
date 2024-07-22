@@ -1,0 +1,31 @@
+Paper Name, Citations, Publication Date
+Towards Understanding Checkpointing in Transiently Powered IoT Networks, 0, 2023-11-01 00:00:00
+
+Scheduling dependent tasks in edge networks, 3, 2019-10-01 00:00:00
+
+Towards effective dynamic resource allocation for enterprise applications, 0, 2011-09-01 00:00:00
+
+A framework for data center scale dynamic resource allocation algorithms, 2, 2011-08-31 00:00:00
+
+Dynamic active window management: a method for improving revenue generation in dynamic enterprise systems, 0, 2011-08-31 00:00:00
+
+A modular failure-aware resource allocation architecture for cloud computing, 5, 2011-07-07 00:00:00
+
+Managing dynamic enterprise and urgent workloads on clouds using layered queuing and historical performance models, 28, 2011-06-01 00:00:00
+
+Dynamic resource allocation and active predictive models for enterprise applications, 3, 2011-05-08 00:00:00
+
+Dynamic resource allocation for multi-tiered, cluster-based web hosting environments, 1, 2011-05-07 00:00:00
+
+Predictive and dynamic resource allocation for enterprise applications, 19, 2010-06-29 00:00:00
+
+The effect of server reallocation time in dynamic resource allocation, 1, 2009-07-01 00:00:00
+
+Model-driven server allocation in distributed enterprise systems, 8, 2009-03-01 00:00:00
+
+A system for dynamic server allocation in application server clusters, 17, 2008-12-10 00:00:00
+
+Dynamic resource allocation in enterprise systems, 18, 2008-12-08 00:00:00
+
+A system for dynamic resource allocation in application server clusters, -1, 
+

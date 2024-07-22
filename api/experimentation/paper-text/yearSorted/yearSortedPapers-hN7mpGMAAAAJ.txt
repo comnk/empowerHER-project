@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Large language models based automatic synthesis of software specifications, 7, 2023-04-18 00:00:00
+
+Mercury: Accelerating dnn training by exploiting input similarity, 3, 2021-10-28 00:00:00
+
+Communication algorithm-architecture co-design for distributed deep learning, 18, 2021-06-01 00:00:00
+
+Revice: Reusing victim cache to prevent speculative cache leakage, 15, 2020-09-01 00:00:00
+
+Learning fitness functions for machine programming, 11, 2019-08-22 00:00:00
+
+Approximeter: Automatically finding and quantifying code sections for approximation, 2, 2017-10-01 00:00:00
+
+A zero-positive learning approach for diagnosing software performance regressions, 27, 2017-09-21 00:00:00
+
+Autoperf: A generalized zero-positive learning system to detect software performance anomalies, 7, 2017-09-21 00:00:00
+
+Syncperf: Categorizing, detecting, and diagnosing synchronization performance bugs, 43, 2017-04-23 00:00:00
+
+Approximate lock: Trading off accuracy for performance by skipping critical sections, 8, 2016-10-01 00:00:00
+
+Detecting, exposing, and classifying sequential consistency violations, 4, 2016-10-01 00:00:00
+
+Production-run software failure diagnosis via Adaptive Communication Tracking, 7, 2016-06-18 00:00:00
+
+Dynamically detecting and tolerating if-condition data races, 13, 2014-06-19 00:00:00
+
+Characterizing real world bugs causing sequential consistency violations, 6, 2013-06-24 00:00:00
+
+WeeFence: Toward making fences free in TSO, 34, 2013-06-23 00:00:00
+
+Vulcan: Hardware support for detecting sequential consistency violations dynamically, 36, 2012-12-01 00:00:00
+
+Pacman: Tolerating asymmetric data races with unintrusive hardware, 17, 2012-02-25 00:00:00
+
+Atomtracker: A comprehensive approach to atomic region inference and violation detection, 44, 2010-12-04 00:00:00
+
+SigRace: Signature-based data race detection, 96, 2009-06-15 00:00:00
+
+Communication algorithm-architecture co-design for distributed deep learning. In 2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA), -1, 
+

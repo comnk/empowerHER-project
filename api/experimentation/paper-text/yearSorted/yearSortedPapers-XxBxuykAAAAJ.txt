@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+NNVWC: An Efficient-Nearest Neighbors Approach Based on Various-Widths Clustering, 1, None
+
+Integrating blockchain technology into healthcare through an intelligent computing technique, 13, None
+
+Utilizing artificial neural network for prediction of occupants thermal comfort: A case study of a test room fitted with a thermoelectric air-conditioning system, 16, None
+
+Cyber security analysis and evaluation for intrusion detection systems, 11, None
+
+Hesitant fuzzy-sets based decision-making model for security risk assessment, 8, None
+
+Deep Kalman neuro fuzzy-based adaptive broadcasting scheme for vehicular ad hoc network: A context-aware approach, 12, None
+
+Managing security of healthcare data for a modern healthcare system, 31, 2023-03-30 00:00:00
+
+Arithmetic optimization algorithm with deep learning enabled airborne particle-bound metals size prediction model, 14, 2022-05-01 00:00:00
+
+An IoT based system for magnify air pollution monitoring and prognosis using hybrid artificial intelligence technique, 26, 2021-12-01 00:00:00
+
+Experimental study of a thermoelectric air duct dehumidification system for tropical climate, 14, 2020-06-26 00:00:00
+
+A taxonomy of supervised learning for idss in scada environments, 42, 2020-04-16 00:00:00
+
+An IoT-based thermoelectric air management framework for smart building applications: a case study for tropical climate, 11, 2020-02-19 00:00:00
+
+SemTra: A semi-supervised approach to traffic flow labeling with minimal human effort, 15, 2019-07-01 00:00:00
+
+Redundancy coefficient gradual up-weighting-based mutual information feature selection technique for crypto-ransomware early detection, 33, 2018-07-22 00:00:00
+
+An efficient data-driven clustering technique to detect attacks in SCADA systems, 85, 2016-05-01 00:00:00
+
+An unsupervised anomaly-based detection approach for integrity attacks on SCADA systems, 119, 2014-10-01 00:00:00
+
+An optimal and stable feature selection approach for traffic classification based on multi-criterion fusion, 50, 2014-07-01 00:00:00
+
+PPFSCADA: Privacy preserving framework for SCADA data publishing, 37, 2014-07-01 00:00:00
+
+SCADAVT-A framework for SCADA security testbed based on virtualization technology, 52, 2013-10-01 00:00:00
+
+A framework for improving the accuracy of unsupervised intrusion detection for SCADA systems, 13, 2013-07-16 00:00:00
+

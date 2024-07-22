@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Aerial MANETs: Developing a Resilient and Efficient Platform for Search and Rescue Applications., 21, None
+
+Hierarchical learning framework for UAV detection and identification, 11, 2021-07-10 00:00:00
+
+Semi-supervised learning framework for UAV detection, 9, 2021-04-14 00:00:00
+
+Wavelet transform analytics for RF-based UAV detection and identification system using machine learning, 41, 2021-02-23 00:00:00
+
+Machine learning framework for RF-based drone detection and identification system, 28, 2020-03-02 00:00:00
+
+An active and incremental learning framework for the online prediction of link quality in robot networks, 12, 2019-01-01 00:00:00
+
+Do new mothers understand the risk factors for maternal mortality?, 7, 2018-07-01 00:00:00
+
+Parent education is changing: a review of smartphone apps, 34, 2017-09-01 00:00:00
+
+Link quality estimation in ad hoc and mesh networks: A survey and future directions, 26, 2017-04-26 00:00:00
+
+A Fuzzy-Based Machine Learning Model for Robot Prediction of Link Quality, 13, 2016-12-01 00:00:00
+
+Securing commercial WiFi-based UAVs from common security attacks, 104, 2016-11-01 00:00:00
+
+Direction of arrival estimation for robots using radio signal strength and mobility, 7, 2016-10-01 00:00:00
+
+Bitcoin message: Data insertion on a proof-of-work cryptocurrency system, 41, 2015-10-07 00:00:00
+
+A crossword puzzle generator using genetic algorithms with Wisdom of Artificial Crowds, 8, 2015-07-27 00:00:00
+
+Performance improvement of transmission in Unmanned Aerial Systems using multipath TCP, 14, 2014-12-01 00:00:00
+
+Resilient and efficient MANET aerial communications for search and rescue applications, 24, 2013-01-28 00:00:00
+
+Fault-tolerant distributed reconnaissance, 9, 2010-10-01 00:00:00
+
+A distributed intrusion detection system for resource-constrained devices in ad-hoc networks, 94, 2010-05-01 00:00:00
+
+Fault tolerance in MANETs using a task-to-resource reallocation framework, 8, 2009-08-29 00:00:00
+
+Embedded intelligent intrusion detection: A behavior-based approach, 13, 2007-05-21 00:00:00
+

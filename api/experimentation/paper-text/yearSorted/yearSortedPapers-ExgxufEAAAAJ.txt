@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Scaling hardware accelerated network monitoring to concurrent and dynamic queries with {* Flow}, 90, None
+
+Enabling Practical Software-defined Networking Security Applications with OFX., 81, None
+
+" Now I'm a bit {angry:}" Individuals' Awareness, Perception, and Responses to Data Breaches that Affected Them, 29, None
+
+Examining the examiners: Students' privacy and security perceptions of online proctoring services, 32, 2021-06-10 00:00:00
+
+Are privacy dashboards good for end users? Evaluating user perceptions and reactions to google's my activity, 24, 2021-05-28 00:00:00
+
+Why older adults (Don't) use password managers, 41, 2020-10-05 00:00:00
+
+This pin can be easily guessed: Analyzing the security of smartphone unlock pins, 44, 2020-03-10 00:00:00
+
+A video-based attack for android pattern lock, 41, 2018-07-24 00:00:00
+
+Turboflow: Information rich flow record generation on commodity switches, 80, 2018-04-23 00:00:00
+
+Towards baselines for shoulder surfing on mobile authentication, 59, 2017-09-14 00:00:00
+
+Deterministic, stash-free write-only oram, 24, 2017-06-12 00:00:00
+
+Timing-based reconnaissance and defense in software-defined networks, 47, 2016-12-05 00:00:00
+
+Is bigger better? Comparing user-generated passwords on 3x3 vs. 4x4 grid sizes for android's pattern unlock, 79, 2015-12-07 00:00:00
+
+A practical oblivious map data structure with secure deletion and history independence, 52, 2015-05-27 00:00:00
+
+Understanding visual perceptions of usability and security of Android's graphical password pattern, 32, 2014-12-08 00:00:00
+
+Practicality of accelerometer side channels on smartphones, 234, 2012-12-03 00:00:00
+
+Challenges in experimenting with botnet detection systems, 64, 2011-08-08 00:00:00
+
+Smudge attacks on smartphone touch screens, 750, 2010-08-09 00:00:00
+
+Differential privacy for collaborative security, 34, 2010-04-13 00:00:00
+
+Security evaluation of ES&S voting machines and election management system, 39, 2008-07-28 00:00:00
+

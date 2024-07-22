@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Automatically auditing large language models via discrete optimization, 97, 2023-03-08 00:00:00
+
+Finetune like you pretrain: Improved finetuning of zero-shot vision models, 76, 2022-12-01 00:00:00
+
+Fine-tuning can distort pretrained features and underperform out-of-distribution, 477, 2022-02-21 00:00:00
+
+An explanation of in-context learning as implicit bayesian inference, 490, 2021-11-03 00:00:00
+
+On the opportunities and risks of foundation models, 2948, 2021-08-16 00:00:00
+
+Just train twice: Improving group robustness without training group information, 378, 2021-07-19 00:00:00
+
+Accuracy on the line: on the strong correlation between out-of-distribution and in-distribution generalization, 224, 2021-07-09 00:00:00
+
+Enabling certification of verification-agnostic networks via memory-efficient semidefinite programming, 86, 2020-10-22 00:00:00
+
+Decoupling exploration and exploitation for meta-reinforcement learning without sacrifices, 56, 2020-08-06 00:00:00
+
+The pitfalls of simplicity bias in neural networks, 281, 2020-06-01 00:00:00
+
+An investigation of why overparameterization exacerbates spurious correlations, 308, 2020-05-09 00:00:00
+
+Robust encodings: A framework for combating adversarial typos, 93, 2020-05-04 00:00:00
+
+DROCC: Deep robust one-class classification, 133, 2020-02-28 00:00:00
+
+Understanding and mitigating the tradeoff between robustness and accuracy, 194, 2020-02-25 00:00:00
+
+Certified robustness to adversarial word substitutions, 270, 2019-09-03 00:00:00
+
+Unlabeled data improves adversarial robustness, 663, 2019-05-31 00:00:00
+
+Adversarial training can hurt generalization, 215, 2019-05-28 00:00:00
+
+Semidefinite relaxations for certifying robustness to adversarial examples, 407, 2018-11-02 00:00:00
+
+Certified defenses against adversarial examples, 926, 2018-01-29 00:00:00
+
+On the opportunities and risks of foundation models. arXiv 2021, -1, 
+

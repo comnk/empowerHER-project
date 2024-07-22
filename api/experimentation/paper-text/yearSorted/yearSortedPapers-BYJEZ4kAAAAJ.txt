@@ -1,0 +1,35 @@
+Paper Name, Citations, Publication Date
+OBLIVIATE: A Data Oblivious Filesystem for Intel SGX., 115, None
+
+Obfuscuro: A commodity obfuscation engine on intel sgx, 61, None
+
+{SHARD}:{Fine-Grained} Kernel Specialization with {Context-Aware} Hardening, 33, None
+
+CHANCEL: Efficient Multi-client Isolation Under Adversarial Programs., 20, None
+
+An Extensible Orchestration and Protection Framework for Confidential Cloud Computing, 2, None
+
+Rethinking System Audit Architectures for High Event Coverage and Synchronous Log Availability, 1, None
+
+Defeating Critical Threats to Cloud User Data in Trusted Execution Environments, 0, None
+
+Veil: A Protected Services Framework for Confidential Virtual Machines, 3, 2023-03-25 00:00:00
+
+Hardlog: Practical tamper-proof system auditing using a novel audit device, 14, 2022-05-01 00:00:00
+
+Kard: lightweight data race detection with per-thread memory protection, 17, 2021-04-01 00:00:00
+
+Data race detection with per-thread memory protection, 17, 2021-04-01 00:00:00
+
+Data race detection with per-thread memory protection, 17, 2021-04-01 00:00:00
+
+TRUSTORE: Side-Channel Resistant Storage for SGX using Intel Hybrid CPU-FPGA, 16, 2020-10-30 00:00:00
+
+BlackMirror: Preventing Wallhacks in 3D Online FPS Games, 10, 2020-10-30 00:00:00
+
+A Tale of Two Trees: One Writes, and Other Reads.{Optimized Oblivious Accesses to Large-Scale Blockchains}, 1, 2019-09-04 00:00:00
+
+Detecting and Defending Against Certificate Attacks with Origin-Bound CAPTCHAs, 0, 2018-08-08 00:00:00
+
+A tale of two trees: One writes, and other reads: Optimized oblivious accesses to bitcoin and other utxo-based blockchains, -1, 
+

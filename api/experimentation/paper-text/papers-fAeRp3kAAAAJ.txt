@@ -1,51 +1,42 @@
-Introduction to software testing
-Constraint-based automatic test data generation
-A novel technique for automatically generating test data is presented. The technique is based on mutation analysis and creates test data that approximate relative adequacy. It is a fault-based technique that uses algebraic constraints to describe test cases designed to find particular types of faults. A set of tools (collectively called Godzilla) that automatically generates constraints and solves them to create test cases for unit and module testing has been implemented. Godzilla has been integrated with the Mothra testing system and has been used as an effective way to generate test data that kill program mutants. The authors present an initial list of constraints and discuss some of the problems that have been solved to develop the complete implementation of the technique. >
+Paper Name, Citations, Publication Date
+Introduction to software testing, 1117, 2006-02-01 00:00:00
 
-An Experimental Determination of Sufficient Mutant Operators
-Mutation testing is a technique for unit-testing software that, although powerful, is computationally expensive, The principal expense of mutation is that many variants of the test program, called mutants, must be repeatedly executed. This article quantifies the expense of mutation in terms of the number of mutants that are created, then proposes and evaluates a technique that reduces the number of mutants by an order of magnitude. Selective mutation reduces. the cost of mutation testing by reducing the number of mutants, This article reports experimental results that compare selective mutation testing with standard, or nonselective, mutation testing, and results that quantify the savings achieved by selective mutation testing, The results support the hypothesis that selective mutation is almost as strong as nonselective mutation: in experimental trials selective mutation provides almost the same coverage as nonselective mutation. with a four-fold or more reduction in the number of mutants.
+Constraint-based automatic test data generation, 889, 1991-09-01 00:00:00
 
-MuJava: an automated class mutation system
-Several module and class testing techniques have been applied to object‐oriented (OO) programs, but researchers have only recently begun developing test criteria that evaluate the use of key OO features such as inheritance, polymorphism, and encapsulation. Mutation testing is a powerful testing technique for generating software tests and evaluating the quality of software. However, the cost of mutation testing has traditionally been so high that it cannot be applied without full automated tool support. This paper presents a method to reduce the execution cost of mutation testing for OO programs by using two key technologies, mutant schemata generation (MSG) and bytecode translation. This method adapts the existing MSG method for mutants that change the program behaviour and uses bytecode translation for mutants that change the program structure. A key advantage is in performance: only two compilations are required and both the compilation and execution time for each is greatly reduced. A mutation tool based on the MSG/bytecode translation method has been built and used to measure the speedup over the separate compilation approach. Experimental results show that the MSG/bytecode translation method is about five times faster than separate compilation. Copyright © 2004 John Wiley & Sons, Ltd.
+An Experimental Determination of Sufficient Mutant Operators, 683, 1996-04-01 00:00:00
 
-Generating tests from UML specifications
-Combination testing strategies: a survey
-Combination strategies are test case selection methods that identify test cases by combining values of the different test object input parameters based on some combinatorial strategy. This survey presents 16 different combination strategies, covering more than 40 papers that focus on one or several combination strategies. This collection represents most of the existing work performed on combination strategies. This survey describes the basic algorithms used by the combination strategies. Some properties of combination strategies, including coverage criteria and theoretical bounds on the size of test suites, are also included in this description. This survey paper also includes a subsumption hierarchy that attempts to relate the various coverage criteria associated with the identified combination strategies. Copyright © 2005 John Wiley & Sons, Ltd.
+MuJava: an automated class mutation system, 656, 2005-06-01 00:00:00
 
-Mutation 2000: Uniting the orthogonal
-Quality attributes of web software applications
-Web applications have very high requirements for numerous quality attributes. This article discusses some of the technological challenges of building today's complex Web software applications, their unique quality requirements, and how to achieve them.
+Generating tests from UML specifications, 474, 1999-10-28 00:00:00
 
-A fortran language system for mutation‐based software testing
-Mutation analysis is a powerful technique for testing software systems. The Mothra software testing project uses mutation analysis as the basis for an integrated software testing environment. Mutation analysis requires executing many slightly differing versions of the same program to evaluate the quality of the data used to test the program. The current version of Mothra includes a complete language system that translates a program to be tested into intermediate code so that it and its mutated versions can be executed by an interpreter.
+Combination testing strategies: a survey, 467, 2005-09-01 00:00:00
 
-Investigations of the software testing coupling effect
-Fault-based testing strategies test software by focusing on specific, common types of faults. The coupling effect hypothesizes that test data sets that detect simple types of faults are sensitive enough to detect more complex types of faults. This paper describes empirical investigations into the coupling effect over a specific class of software faults. All of the results from this investigation support the validity of the coupling effect. The major conclusion from this investigation is the fact that by explicitly testing for simple faults, we are also implicitly testing for more complicated faults, giving us confidence that fault-based testing is an effective way to test software.
+A fortran language system for mutation‐based software testing, 426, 1991-06-01 00:00:00
 
-Testing web applications by modeling with FSMs
-Generating test data from state‐based specifications
-Although the majority of software testing in industry is conducted at the system level, most formal research has focused on the unit level. As a result, most system‐level testing techniques are only described informally. This paper presents formal testing criteria for system level testing that are based on formal specifications of the software. Software testing can only be formalized and quantified when a solid basis for test generation can be defined. Formal specifications represent a significant opportunity for testing because they precisely describe what functions the software is supposed to provide in a form that can be automatically manipulated.
+Investigations of the software testing coupling effect, 420, 1992-01-02 00:00:00
 
-An experimental evaluation of selective mutation
-Mutation testing is a technique for unit-testing software that, although powerful, is computationally expensive. The principal expense of mutation is that many variants of the test program, called mutants, must be repeatedly executed. Selective mutation is a way to approximate mutation testing that saves execution by reducing the number of mutants that must be executed. The authors report experimental results that compare selective mutation testing to standard, or nonselective, mutation testing. The results support the hypothesis that selective mutation is almost as strong as nonselective mutation. In experimental trials, selective mutations provide almost the same coverage as nonselective mutation, with significant reductions in cost.<<ETX>>
+Testing web applications by modeling with FSMs, 390, 2005-07-01 00:00:00
 
-Automatically detecting equivalent mutants and infeasible paths
-Mutation testing is a technique for testing software units that has great potential for improving the quality of testing, and thereby increasing the ability to assure the high reliability of critical software. It will be shown that recent advances in mutation research have brought a practical mutation testing system closer to reality. One recent advance is a partial solution to the problem of automatically detecting equivalent mutant programs. Equivalent mutants are currently detected by hand, which makes it very expensive and time‐consuming. The problem of detecting equivalent mutants is a specific instance of a more general problem, commonly called the feasible path problem, which says that for certain structural testing criteria some of the test requirements are infeasible in the sense that the semantics of the program imply that no test case satisfies the test requirements. Equivalent mutants, unreachable statements in path testing techniques, and infeasible DU‐pairs in data flow testing are all instances of the feasible path problem. This paper presents a technique that uses mathematical constraints, originally developed for test data generation, to detect some equivalent mutants and infeasible paths automatically. © 1997 John Wiley & Sons, Ltd.
+Generating test data from state‐based specifications, 387, None
 
-An extended overview of the Mothra software testing environment
-The authors give a brief introduction to mutation analysis. They they discuss Mothra, emphasizing how it interacts with the tester. The authors present some major problems with using mutation analysis and discuss possible solutions. They conclude with a solution to one of these problems-a method of automatically generating mutation-adequate data.<<ETX>>
+Quality attributes of web software applications, 383, 2002-03-01 00:00:00
 
-Using UML collaboration diagrams for static checking and test generation
-Inter-class mutation operators for Java
-The effectiveness of mutation testing depends heavily on the types of faults that the mutation operators are designed to represent. Therefore, the quality of the mutation operators is key to mutation testing. Mutation testing has traditionally been applied to procedural-based languages, and mutation operators have been developed to support most of their language features. Object-oriented programming languages contain new language features, most notably inheritance, polymorphism, and dynamic binding. Not surprisingly; these language features allow new kinds of faults, some of which are not modeled by traditional mutation operators. Although mutation operators for OO languages have previously been suggested, our work in OO faults indicate that the previous operators are insufficient to test these OO language features, particularly at the class testing level. This paper introduces a new set of class mutation operators for the OO language Java. These operators are based on specific OO faults and can be used to detect faults involving inheritance, polymorphism, and dynamic binding, thus are useful for inter-class testing. An initial Java mutation tool has recently been completed, and a more powerful version is currently under construction.
+Mutation 2000: Uniting the orthogonal, 375, 2001-05-01 00:00:00
 
-Mutation testing using mutant schemata
-Mutation analysis is a way of quantifying the quality of a test set used in unit testing software. Unfortunately, mutation analysis performed using the conventional interpretive method is very slow. A new non-interpretive method, the MSG method, that has the promise of much higher performance was recently advanced. In this paper we describe TUMS, a prototype MSG-based implementation of a mutation analysis system. We also describe several experiments using this prototype that compare the performance of mutation analysis using the MSG method with mutation analysis using the conventional method. Our experiments strongly suggest that using the new MSG method is significantly faster than using the conventional method, with speed-ups as high as an order-of-magnitude observed.
+An experimental evaluation of selective mutation, 320, 1993-05-21 00:00:00
 
-MuJava: a mutation system for Java
-Mutation testing is a valuable experimental research technique that has been used in many studies. It has been experimentally compared with other test criteria, and also used to support experimental comparisons of other test criteria, by using mutants as a method to create faults. In effect, mutation is often used as a ``gold standard'' for experimental evaluations of test methods. Although mutation testing is powerful, it is a complicated and computationally expensive testing method. Therefore, automated tool support is indispensable for conducting mutation testing. This demo presents a publicly available mutation system for Java that supports both method-level mutants and class-level mutants. MuJava can be freely downloaded and installed with relative ease under both Unix and Windows. MuJava is offered as a free service to the community and we hope that it will promote the use of mutation analysis for experimental research in software testing.
+Automatically detecting equivalent mutants and infeasible paths, 311, 1997-09-01 00:00:00
 
-Generating test cases for web services using data perturbation
-Web services have the potential to dramatically reduce the complexities and costs of software integration projects. The most obvious and perhaps most significant difference between Web services and traditional applications is that Web services use a common communication infrastructure, XML and SOAP, to communicate through the Internet. The method of communication introduces complexities to the problems of verifying and validating Web services that do not exist in traditional software. This paper presents a new approach to testing Web services based on data perturbation. Existing XML messages are modified based on rules defined on the message grammars, and then used as tests. Data perturbation uses two methods to test Web services: data value perturbation and interaction perturbation. Data value perturbation modifies values according to the data type. Interaction perturbation classifies the communication messages into two categories: RPC communication and data communication. At present, this method is restricted to peer-to-peer interactions. The paper presents preliminary empirical evidence of its usefulness.
+An extended overview of the Mothra software testing environment, 300, 1988-07-19 00:00:00
+
+Using UML collaboration diagrams for static checking and test generation, 274, 2000-10-02 00:00:00
+
+Inter-class mutation operators for Java, 240, 2002-11-12 00:00:00
+
+Generating test cases for web services using data perturbation, 206, 2004-09-01 00:00:00
+
+MuJava: a mutation system for Java, 198, 2006-05-28 00:00:00
+
+Mutation testing using mutant schemata, 3, 1997-04-02 00:00:00
 
 DONE

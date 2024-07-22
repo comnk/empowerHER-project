@@ -1,0 +1,29 @@
+Paper Name, Citations, Publication Date
+Multiagent self-organization for a taxi dispatch system, 47, None
+
+Understanding the Progression of Educational Topics via Semantic Matching, 0, 2024-02-10 00:00:00
+
+Strategic attack & defense in security diffusion games, 95, 2021-04-10 00:00:00
+
+Seahir: A specialized compartmental model for covid-19, 39, 2021-03-01 00:00:00
+
+Explainable AI as a social microscope: A case study on academic performance, 1, 2020-06-04 00:00:00
+
+Bilateral relatedness: knowledge diffusion and the evolution of bilateral trade, 39, 2019-09-09 00:00:00
+
+Strategic distribution of seeds to support diffusion in complex networks, 8, 2018-10-16 00:00:00
+
+Computational aspects of optimal strategic network diffusion, 2, 2018-09-10 00:00:00
+
+Optimal diversification strategies in the networks of related products and of related research areas, 90, 2017-04-29 00:00:00
+
+Network diversity and affect dynamics: The role of personality traits, 24, 2016-04-01 00:00:00
+
+Beyond contagion: Reality mining reveals complex patterns of social influence, 29, 2015-07-15 00:00:00
+
+Misery loves company: happiness and communication in the city, 11, 2015-07-02 00:00:00
+
+DNVA: a tool for visualizing and analyzing multi-agent learning in networks, 1, 2014-11-10 00:00:00
+
+Error and attack tolerance of collective problem solving: The DARPA Shredder Challenge, 28, 2014-09-30 00:00:00
+

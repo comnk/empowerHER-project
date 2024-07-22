@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Nexus: Practical and secure access control on untrusted storage platforms using client-side sgx, 22, 2019-06-01 00:00:00
+
+Was my message read? privacy and signaling on Facebook messenger, 47, 2017-05-02 00:00:00
+
+On the practicality of cryptographically enforcing dynamic access control policies in the cloud, 68, 2016-02-29 00:00:00
+
+Interrupt now or inform later? Comparing immediate and delayed privacy feedback, 45, 2015-04-18 00:00:00
+
+Reflection or action? How feedback and control affect location sharing decisions, 45, 2014-04-26 00:00:00
+
+Reasons, Rewards, Regrets: Privacy Considerations in Location Sharing as an Interactive Practice, 79, 2012-07-11 00:00:00
+
+" Check out where I am!" location-sharing motivations, preferences, and practices, 45, 2012-05-05 00:00:00
+
+Eyeing your exposure: quantifying and controlling information sharing for improved privacy, 74, 2011-07-20 00:00:00
+
+Secured histories: computing group statistics on encrypted data while preserving individual privacy, 34, 2010-12-09 00:00:00
+
+Trustbuilder2: A reconfigurable framework for trust negotiation, 48, 2009-06-15 00:00:00
+
+Enforcing safety and consistency constraints in policy-based authorization systems, 20, 2008-12-01 00:00:00
+
+Defeasible security policy composition for web services, 45, 2006-11-03 00:00:00
+
+A privacy-preserving interdomain audit framework, 29, 2006-10-30 00:00:00
+
+Safety and consistency in policy-based authorization systems, 37, 2006-08-01 00:00:00
+
+Traust: a trust negotiation-based authorization service for open systems, 45, 2006-06-07 00:00:00
+
+Toward a threat model for storage systems, 82, 2005-11-11 00:00:00
+
+Threat modeling as a basis for security requirements, 301, 2005-08-01 00:00:00
+
+NVisionIP: netflow visualizations of system state for security situational awareness, 298, 2004-10-29 00:00:00
+
+NVisionIP: an interactive network flow visualization tool for security, 23, 2004-10-10 00:00:00
+
+Tangible privacy: Towards user-centric sensor designs for bystander privacy, -1, 
+

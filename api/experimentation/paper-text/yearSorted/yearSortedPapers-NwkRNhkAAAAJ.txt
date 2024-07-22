@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Immersive Speculative Enactments: Bringing Future Scenarios and Technology to Life Using Virtual Reality, 16, 2022-04-27 00:00:00
+
+Propping up Virtual Reality with Haptic Proxies, 22, 2021-09-01 00:00:00
+
+Exploring an architectural framework for human-building interaction via a semi-immersive cross-reality methodology, 17, 2021-03-08 00:00:00
+
+Evaluating immersive experiences during Covid-19 and beyond, 72, 2020-07-09 00:00:00
+
+Everyday proxy objects for virtual reality, 16, 2020-04-23 00:00:00
+
+Virtual reality games for people using wheelchairs, 48, 2020-04-21 00:00:00
+
+The Space Bender: Supporting Natural Walking via Overt Manipulation of the Virtual Environment, 24, 2020-03-01 00:00:00
+
+Investigating the effect of distractor interactivity for redirected walking in virtual reality, 26, 2019-10-19 00:00:00
+
+Live: The human role in learning in immersive virtual environments, 22, 2019-10-19 00:00:00
+
+A virtual reality shopping experience using the apartment metaphor, 36, 2018-05-29 00:00:00
+
+Altering User Movement Behaviour in Virtual Environments, 34, 2017-04-01 00:00:00
+
+The VR Motion Tracker: visualising movement of non-participants in desktop virtual reality experiences, 27, 2016-03-20 00:00:00
+
+Substitutional Reality: Using the physical environment to design virtual reality experiences, 283, 2015-04-18 00:00:00
+
+Substitutional reality: Towards a research agenda, 29, 2015-03-23 00:00:00
+
+Feet movement in desktop 3D interaction, 48, 2014-03-29 00:00:00
+
+A Cross-Device Drag-and-Drop Technique, 17, 2013-12-02 00:00:00
+
+MobiSurf: Improving Co-located Collaboration through Integrating Mobile Devices and Interactive Surfaces, 68, 2012-11-11 00:00:00
+
+Combining multimedia resources for an engaging experience of cultural heritage, 22, 2010-10-29 00:00:00
+
+Comparing low cost input devices for interacting with 3D Virtual Environments, 29, 2009-05-21 00:00:00
+
+Similarity-based forecasting with simultaneous previews: A river plot interface for time series forecasting, 73, 2007-07-04 00:00:00
+

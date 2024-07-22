@@ -34,6 +34,8 @@ Run `npm run start-api` from the home directory to start the backend.
 ## Tutorials:
 
 https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
+https://pypi.org/project/semanticscholar/#author-lookup
+
 
 # Getting Started with Create React App
 

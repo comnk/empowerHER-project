@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+A survey of autonomous vision-based see and avoid for unmanned aircraft systems, 80, None
+
+String stable integral control design for vehicle platoons with disturbances, 20, 2020-02-22 00:00:00
+
+Understanding vertical collision risk and navigation performance for unmanned aircraft, 9, 2018-09-01 00:00:00
+
+Advances in unmanned aerial systems and payload technologies for precision agriculture, 12, 2018-03-05 00:00:00
+
+Low-level collision risk modelling for unmanned aircraft integration and management, 10, 2018-03-01 00:00:00
+
+Image-based visual servoing with unknown point feature correspondence, 22, 2017-04-01 00:00:00
+
+Tree memory networks for modelling long-term temporal dependencies, 52, 2017-03-12 00:00:00
+
+Modelling, simulation and flight test of a model predictive controlled multirotor with heavy slung load, 27, 2016-08-01 00:00:00
+
+Sense and avoid technology developments at Queensland University of Technology, 17, 2016-07-01 00:00:00
+
+Terminal airspace modelling for unmanned aircraft systems integration, 16, 2016-06-01 00:00:00
+
+MPC controlled multirotor with suspended slung load: System architecture and visual load detection, 20, 2016-03-05 00:00:00
+
+Aircraft trajectory clustering techniques using circular statistics, 18, 2016-03-05 00:00:00
+
+Non-linear model predictive control for UAVs with slung/swung load, 11, 2015-05-26 00:00:00
+
+Multi-rotor with suspended load: System dynamics and control toolbox, 20, 2015-03-07 00:00:00
+
+Visual predictive control of spiral motion, 21, 2014-11-06 00:00:00
+
+Decision strategies for automated visual collision avoidance, 19, 2014-05-27 00:00:00
+
+Nonlinear model predictive control for a multi-rotor with heavy slung load, 15, 2014-05-27 00:00:00
+
+Aircraft collision avoidance using spherical visual predictive control and single point features, 43, 2013-11-01 00:00:00
+
+Rotorcraft collision avoidance using spherical image-based visual servoing and single point features, 22, 2012-12-24 00:00:00
+
+Visual servoing approach to collision avoidance for aircraft, 11, 2012-09-01 00:00:00
+

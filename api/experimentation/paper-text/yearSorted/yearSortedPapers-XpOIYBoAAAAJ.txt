@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+A policy-oriented architecture for opportunistic communication on multiple wireless networks, 14, None
+
+A personalized credibility model for recommending messages in social participatory media environments, 16, None
+
+Price forecasting & anomaly detection for agricultural commodities in India, 166, 2022-04-01 00:00:00
+
+A social network based approach to personalized recommendation of participatory media content, 75, 2021-09-25 00:00:00
+
+Implementation fidelity and acceptability of an intervention to improve vaccination uptake and child health in rural India: a mixed methods evaluation of a pilot cluster …, 11, 2020-10-08 00:00:00
+
+Experiences from a mobile-based behaviour change campaign on maternal and child nutrition in rural India, 29, 2019-01-04 00:00:00
+
+An analysis of community mobilization strategies of a voice-based community media platform in rural India, 23, 2018-05-14 00:00:00
+
+Findings from a civil society mediated and technology assisted grievance redressal model in rural India, 30, 2017-11-16 00:00:00
+
+Design Lessons from Creating a Mobile-based Community Media Platform in Rural India, 72, 2016-06-03 00:00:00
+
+Airavat: An automated system to increase transparency and accountability in social welfare schemes in India, 13, 2013-12-07 00:00:00
+
+First impressions on the state of cellular data connectivity in India, 27, 2013-12-06 00:00:00
+
+Spatio-temporal and events based analysis of topic popularity in twitter, 63, 2013-10-27 00:00:00
+
+Characterization of social media response to natural disasters, 34, 2012-04-16 00:00:00
+
+PhonePeti: Exploring the Role of an Answering Machine System in a Community Radio Station in India, 25, 2012-03-12 00:00:00
+
+Geolocating IP addresses in cellular data networks, 30, 2012-03-12 00:00:00
+
+Experiences of deploying and commercializing a community radio automation system in india, 26, 2012-03-11 00:00:00
+
+Bayesian credibility modeling for personalized recommendation in participatory media, 18, 2010-06-20 00:00:00
+
+Design and implementation of the KioskNet system, 72, 2007-12-01 00:00:00
+
+Low-cost communication for rural internet kiosks using mechanical backhaul, 277, 2006-09-29 00:00:00
+
+Practical security for disconnected nodes, 118, 2005-11-06 00:00:00
+

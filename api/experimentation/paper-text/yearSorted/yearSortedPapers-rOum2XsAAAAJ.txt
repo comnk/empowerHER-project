@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+L'Hôpital's Filter for QSIM, 46, None
+
+The weakness of CTC qubits and the power of approximate counting, 5, 2018-05-23 00:00:00
+
+Quantum counter automata, 6, 2014-12-21 00:00:00
+
+Magic coins are useful for small-space quantum machines, 15, 2014-11-01 00:00:00
+
+Quantum finite automata: A modern introduction, 57, 2014-06-01 00:00:00
+
+Finite automata with advice tapes, 10, 2013-06-18 00:00:00
+
+Computation with multiple CTCs of fixed length and width, 7, 2012-12-01 00:00:00
+
+Proving the power of postselection, 12, 2011-11-14 00:00:00
+
+Probabilistic and quantum finite automata with postselection, 12, 2011-02-03 00:00:00
+
+Unbounded-error quantum computation with small space bounds, 91, 2010-07-21 00:00:00
+
+Quantum computation with write-only memory, 24, 2010-06-21 00:00:00
+
+A new family of nonstochastic languages, 14, 2010-04-01 00:00:00
+
+Efficient probability amplification in two-way quantum finite automata, 19, 2009-05-01 00:00:00
+
+Succinctness of two-way probabilistic and quantum finite automata, 68, 2009-02-27 00:00:00
+
+Languages recognized by nondeterministic quantum finite automata, 51, 2009-02-12 00:00:00
+
+Languages recognized with unbounded error by quantum finite automata, 33, 2008-08-30 00:00:00
+
+A linguistically motivated information retrieval system for Turkish, 13, 2004-10-27 00:00:00
+
+Sound and complete qualitative simulation is impossible, 24, 2003-10-01 00:00:00
+
+Qualitative system identification: deriving structure from behavior, 55, 1996-05-01 00:00:00
+
+Improved filtering for the QSIM algorithm, 19, 1993-09-01 00:00:00
+

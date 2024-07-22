@@ -1,3 +1,42 @@
-Oxygen free radicals and systemic autoimmunity
-Reactive oxygen species generated during various metabolic and biochemical reactions have multifarious effects that include oxidative damage to DNA leading to various human degenerative and autoimmune diseases. The highly reactive hydroxy radical (·OH) can interact with chromatin and result in a wide range of sugar and base‐derived products, DNA–protein cross‐links and strand breaks. Studies from our laboratory have demonstrated that after modification the DNA becomes highly immunogenic and the induced antibodies exhibit variable antigen‐binding characteristics. Systemic lupus erythematosus, a prototype autoimmune disease, is characterized by the presence of autoantibodies to multiple nuclear antigens. The detection of 8‐hydroxyguanosine in the immune complex derived DNA of systemic lupus erythematosus patients reinforces the evidence that reactive oxygen species may be involved in its pathogenesis. Increased apoptosis and decreased clearance of apoptotic cells as observed in systemic lupus erythematosus (SLE) might well be a contributory factor in systemic autoimmunity. Clinically, titres of autoantibodies are closely related to the degree of renal inflammation. Anti‐DNA antibodies may combine with circulating antigen and contribute to the deposition of immune complexes in renal glomeruli.
+Paper Name, Citations, Publication Date
+Oxygen free radicals and systemic autoimmunity, 253, 2003-03-01 00:00:00
 
+Supersymmetry parameter analysis: SPA convention and project, 252, 2005-11-30 00:00:00
+
+Antioxidant requirements for bovine oocytes varies during in vitro maturation, fertilization and development, 233, 2003-02-01 00:00:00
+
+Genotyping and drug resistance patterns of M. tuberculosis strains in Pakistan, 199, 2008-12-24 00:00:00
+
+The relationship between perlecan and dystroglycan and its implication in the formation of the neuromuscular junction, 171, 1998-09-01 00:00:00
+
+Antifungal activity of some plant extracts., 139, None
+
+Clinical and pathological studies of lumpy skin disease in Egypt., 120, 1990-12-01 00:00:00
+
+The role of heparin-binding growth-associated molecule (HB-GAM) in the postsynaptic induction in cultured muscle cells, 101, 1995-04-01 00:00:00
+
+Effect of frailty on short-and mid-term outcomes in vascular surgical patients, 94, 2015-05-01 00:00:00
+
+Impact of water deficit stress on various physiological and agronomic traits of three Basmati rice (Oryza sativa L.) cultivars., 89, None
+
+The effect of slip condition on unsteady MHD oscillatory flow of a viscous fluid in a planer channel, 87, None
+
+Stimulation of chlorophyll synthesis in cucumber cotyledons by benzyladenine, 77, 1973-01-17 00:00:00
+
+Identification and molecular characterization of viruses infecting cucurbits in Pakistan, 67, 2004-12-01 00:00:00
+
+The Vibrio Pathogenicity Island of Epidemic Vibrio cholerae Forms Precise Extrachromosomal Circular Excision Products, 63, 2003-12-01 00:00:00
+
+Antimicrobial and antioxidant activities of essential oil and methanol extract of Matricaria chamomilla L. from Djibouti, 60, None
+
+Maxillectomy—to reconstruct or obturate? Results of a UK survey of oral and maxillofacial surgeons, 56, 1995-08-01 00:00:00
+
+Nucleation of Widmanstätten ferrite, 54, 1990-08-01 00:00:00
+
+Surgical emphysema and pneumomediastinum complicating dental extraction, 48, 2000-06-10 00:00:00
+
+Livestock ownership in ensuring rural household food security in Pakistan., 45, None
+
+A Note on Quasi-Ideals in Semirings., -1, 
+
+DONE

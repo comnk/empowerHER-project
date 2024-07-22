@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Alphabetic bipartite network (α-bin): Theory and case study, 1, None
+
+WSAGrad: a novel adaptive gradient based method, 1, 2022-10-26 00:00:00
+
+Fusiondeepmf: A dual embedding based deep fusion model for recommendation, 0, 2022-10-11 00:00:00
+
+Smartmixmodel: machine learning-based vulnerability detection of solidity smart contracts, 12, 2022-08-01 00:00:00
+
+Heterogeneous trust-based social recommendation via reliable and informative motif-based attention, 2, 2022-07-18 00:00:00
+
+Rating prediction with review network feedback: a new direction in recommendation, 3, 2022-06-01 00:00:00
+
+Network promoter score (NePS): An indicator of product sales in E-commerce retailing sector, 5, 2022-02-02 00:00:00
+
+Blockchain domain-specific languages: survey, classification, and comparison, 2, 2021-12-01 00:00:00
+
+Graph neural networks for heterogeneous trust based social recommendation, 10, 2021-07-18 00:00:00
+
+Deep collaborative filtering with social promoter score-based user-item interaction: a new perspective in recommendation, 15, 2021-03-19 00:00:00
+
+Explicit feedback meet with implicit feedback in GPMF: a generalized probabilistic matrix factorization model for recommendation, 22, 2020-02-21 00:00:00
+
+A general growth model for online emerging user–object bipartite networks, 4, 2019-03-01 00:00:00
+
+Modeling new and old editors’ behaviors in different languages of wikipedia, 1, 2018-11-12 00:00:00
+
+Explicit feedbacks meet with implicit feedbacks: a combined approach for recommendation system, 9, 2018-10-29 00:00:00
+
+Social promoter score (sps) and review network: A method and a tool for predicting financial health of an online shopping brand, 1, 2018-04-12 00:00:00
+
+The frequent items problem in online streaming under various performance measures, 22, 2013-06-04 00:00:00
+
+A comparison of performance measures via online search, 15, 2011-06-30 00:00:00
+
+A comparison of performance measures via online search, 15, 2011-06-30 00:00:00
+
+Modeling broadcasting using omnidirectional and directional antenna in delay tolerant networks as an epidemic dynamics, 26, 2010-05-01 00:00:00
+
+Modeling discrete combinatorial systems as alphabetic bipartite networks: Theory and applications, 16, 2008-11-04 00:00:00
+

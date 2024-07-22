@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+A systematic literature review of blockchain and smart contract development: Techniques, tools, and open challenges, 115, 2021-04-01 00:00:00
+
+On the effectiveness of system API-related information for Android ransomware detection, 71, 2018-05-24 00:00:00
+
+Talos: no more ransomware victims with formal methods, 61, 2017-12-19 00:00:00
+
+Surf: Summarizer of user reviews feedback, 69, 2017-05-20 00:00:00
+
+R-PackDroid: API package-based characterization and detection of mobile ransomware, 98, 2017-04-03 00:00:00
+
+What would users change in my app? summarizing app reviews for recommending software changes, 132, 2016-11-01 00:00:00
+
+Ardoc: App reviews development oriented classifier, 98, 2016-11-01 00:00:00
+
+An hmm and structural entropy based detector for android malware: An empirical study, 71, 2016-08-01 00:00:00
+
+Ransomware steals your phone. formal methods rescue it, 108, 2016-06-06 00:00:00
+
+A comparison of static, dynamic, and hybrid analysis for malware detection, 340, 2015-12-29 00:00:00
+
+Development emails content analyzer: Intention mining in developer discussions (T), 89, 2015-11-09 00:00:00
+
+How can i improve my app? classifying user reviews for software maintenance and evolution, 411, 2015-09-29 00:00:00
+
+Detecting android malware using sequences of system calls, 138, 2015-08-31 00:00:00
+
+Effectiveness of opcode ngrams for detection of multi family android malware, 105, 2015-08-01 00:00:00
+
+A classifier of malicious android applications, 78, 2013-09-02 00:00:00
+
+A heuristic-based approach for detecting SQL-injection vulnerabilities in Web applications, 81, 2010-05-02 00:00:00
+
+Building measure-based prediction models for UML class diagram maintainability, 90, 2007-10-01 00:00:00
+
+Evaluating performances of pair designing in industry, 78, 2007-08-01 00:00:00
+
+Evaluating advantages of test driven development: a controlled experiment with professionals, 92, 2006-09-21 00:00:00
+
+A family of experiments to validate metrics for software process models, 99, 2005-08-01 00:00:00
+

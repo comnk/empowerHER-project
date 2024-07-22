@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Vision-driven compliant manipulation for reliable, high-precision assembly tasks, 39, 2021-06-26 00:00:00
+
+Visual foresight trees for object retrieval from clutter with nonprehensile rearrangement, 43, 2021-05-06 00:00:00
+
+Dipn: Deep interaction prediction network with application to clutter removal, 47, 2020-11-09 00:00:00
+
+Task-driven perception and manipulation for constrained placement of unknown objects, 35, 2020-06-28 00:00:00
+
+Towards robust product packing with a minimalistic end-effector, 36, 2019-03-03 00:00:00
+
+Robust 6d object pose estimation with stochastic congruent sets, 32, 2018-05-01 00:00:00
+
+Fast model identification via physics engines for data-efficient policy search, 45, 2017-10-24 00:00:00
+
+Improving 6d pose estimation of objects in clutter via physics-aware monte carlo tree search, 37, 2017-10-24 00:00:00
+
+Anticipatory action selection for human–robot table tennis, 33, 2017-06-01 00:00:00
+
+A self-supervised learning system for object detection using physics simulation and multi-view pose estimation, 111, 2017-03-09 00:00:00
+
+Grounding spatial relations for outdoor robot navigation, 42, 2015-05-01 00:00:00
+
+Learning to manipulate unknown objects in clutter by reinforcement, 89, 2015-01-25 00:00:00
+
+Toward mobile robots reasoning like humans, 35, 2015-01-25 00:00:00
+
+Learning strategies in table tennis using inverse reinforcement learning, 65, 2014-04-23 00:00:00
+
+Cost-Sensitive Active Learning With Lookahead: Optimizing Field Surveys for Remote Sensing Data Classification, 44, 2014-01-30 00:00:00
+
+Structured apprenticeship learning, 29, 2012-09-24 00:00:00
+
+Hilbert space embeddings of POMDPs, 51, 2012-08-14 00:00:00
+
+Learning robot grasping from 3-d images with markov random fields, 44, 2011-09-01 00:00:00
+
+Relative entropy inverse reinforcement learning, 351, 2011-06-14 00:00:00
+
+Exact dynamic programming for decentralized POMDPs with lossless policy compression, 44, 2008-09-14 00:00:00
+

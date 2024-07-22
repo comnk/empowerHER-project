@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Sunrise to sunset: Analyzing the end-to-end life cycle and effectiveness of phishing attacks at scale, 100, None
+
+Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy, 104, None
+
+A Large-Scale Study of Mobile Web App Security, 85, None
+
+{PhishTime}: Continuous longitudinal measurement of the effectiveness of anti-phishing blacklists, 66, None
+
+Crawlphish: Large-scale analysis of client-side cloaking techniques in phishing, 62, 2021-05-01 00:00:00
+
+Honeyplc: A next-generation honeypot for industrial control systems, 45, 2020-10-30 00:00:00
+
+Matched and mismatched SOCs: A qualitative study on security operations center issues, 83, 2019-11-06 00:00:00
+
+Phishfarm: A scalable framework for measuring the effectiveness of evasion techniques against browser phishing blacklists, 86, 2019-05-01 00:00:00
+
+Inside a phisher's mind: Understanding the anti-phishing ecosystem through phishing kit analysis, 101, 2018-05-01 00:00:00
+
+A Game Theoretic Approach to Strategy Generation for Moving Target Defense in Web Applications., 50, 2017-05-08 00:00:00
+
+Deep Android Malware Detection, 386, 2017-03-22 00:00:00
+
+Behind Closed Doors: Measurement and Analysis of CryptoLocker Ransoms in Bitcoin, 139, 2016-06-01 00:00:00
+
+SoK: Everyone Hates Robocalls: A Survey of Techniques against Telephone Spam, 78, 2016-05-22 00:00:00
+
+HoneyMix: Toward SDN-based Intelligent Honeynet, 63, 2016-03-11 00:00:00
+
+Toward a Moving Target Defense for Web Applications, 53, 2015-08-13 00:00:00
+
+Ten Years of iCTF: The Good, the Bad, and the Ugly, 69, 2014-08-01 00:00:00
+
+deDacota: Toward Preventing Server-Side XSS via Automatic Code and Data Separation, 67, 2013-11-04 00:00:00
+
+Enemy of the State: A State-Aware Black-Box Web Vulnerability Scanner, 157, 2012-08-08 00:00:00
+
+Fear the ear: discovering and mitigating execution after redirect vulnerabilities, 64, 2011-10-17 00:00:00
+
+Why Johnny can’t pentest: an analysis of black-box web vulnerability scanners, 274, 2010-07-08 00:00:00
+

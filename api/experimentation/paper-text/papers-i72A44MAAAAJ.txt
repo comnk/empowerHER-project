@@ -1,43 +1,42 @@
-Evaluation of job-scheduling strategies for grid computing
-G-Hadoop: MapReduce across distributed data centers for data-intensive computing
-On advantages of grid computing for parallel job scheduling
-This paper addresses the potential benefit of sharing jobs between independent sites in a grid computing environment. Also the aspect of parallel multi-site job execution on different sites is discussed. To this end, various scheduling algorithms have been simulated for several machine configurations with different workloads which have been derived from real traces. The results showed that a significant improvement in terms of a smaller average response time is achievable. The usage of multi-site applications can additionally improve the results as long as the increase of the execution time due to communication overhead is limited to about 25%.
+Paper Name, Citations, Publication Date
+Evaluation of job-scheduling strategies for grid computing, 346, 2000-12-17 00:00:00
 
-Scheduling in HPC resource management systems: Queuing vs. planning
-A security framework in G-Hadoop for big data computing across distributed Cloud data centres
-UNICORE—from project results to production grids
-UNICORE 6—recent and future advancements
-Enhanced algorithms for multi-site scheduling
-SLA based service brokering in intercloud environments
-The fast emerging Cloud computing market over the last years resulted in a variety of heterogeneous and less interoperable Cloud infrastructures. This leads to a challenging and urgent problem for Cloud users when selecting their best fitting Cloud provider and hence it ties them to a particular provider. A new growing research paradigm, which envisions a network of interconnected and interoperable Clouds through the use of open standards, is Intercloud computing. This allows users to easily migrate their application workloads across Clouds regardless of the underlying used Cloud provider platform. A very promising future use case of Intercloud computing is Cloud services brokerage. In this paper, we propose a generic architecture for a Cloud service broker operating in an Intercloud environment by using the latest Cloud standards. The broker aims to find the most suitable Cloud provider while satisfying the users’ service requirements in terms of functional and non-functional Service Level Agreement parameters. After discussing the broker value-added services, we present in detail the broker design. We focus especially on how the expected SLA management and resource interoperability functionalities are included in the broker. Finally, we present a realistic simulation testbed to validate and evaluate the proposed architecture.
+G-Hadoop: MapReduce across distributed data centers for data-intensive computing, 326, 2013-03-01 00:00:00
 
-Interoperation of world‐wide production e‐Science infrastructures
-Many production Grid and e‐Science infrastructures have begun to offer services to end‐users during the past several years with an increasing number of scientific applications that require access to a wide variety of resources and services in multiple Grids. Therefore, the Grid Interoperation Now—Community Group of the Open Grid Forum—organizes and manages interoperation efforts among those production Grid infrastructures to reach the goal of a world‐wide Grid vision on a technical level in the near future. This contribution highlights fundamental approaches of the group and discusses open standards in the context of production e‐Science infrastructures. Copyright © 2009 John Wiley & Sons, Ltd.
+On advantages of grid computing for parallel job scheduling, 212, 2002-05-21 00:00:00
 
-MapReduce across distributed clusters for data-intensive applications
-Recently, the computational requirements for large scale data-intensive analysis of scientific data have grown significantly. In High Energy Physics (HEP) for example, the Large Hadron Collider (LHC) produced 13 petabytes of data in 2010. This huge amount of data are processed on more than 140 computing centers distributed across 34 countries. The MapReduce paradigm has emerged as a highly successful programming model for large-scale data-intensive computing applications. However, current MapReduce implementations are developed to operate on single cluster environments and cannot be leveraged for large-scale distributed data processing across multiple clusters. On the other hand, workflow systems are used for distributed data processing across data centers. It has been reported that the workflow paradigm has some limitations for distributed data processing, such as reliability and efficiency. In this paper, we present the design and implementation of GHadoop, a MapReduce framework that aims to enable large-scale distributed computing across multiple clusters. G-Hadoop uses the Gfarm file system as an underlying file system and executes MapReduce tasks across distributed clusters. Experiments of the G-Hadoop framework on distributed clusters show encouraging results.
+Scheduling in HPC resource management systems: Queuing vs. planning, 160, 2003-06-24 00:00:00
 
-Load and thermal-aware VM scheduling on the cloud
-A utility–based approach for customised cloud service selection
-The fact that cloud computing is widely accepted results in an increasing number of cloud providers. Customers are now burdened with the task of deciding which provider to choose for serving their requirements. This work developed a broker-based framework capable of automatically selecting cloud services based on user-defined requirement parameters and the service level agreement (SLA) attributes of the cloud providers. The goal is to help customers make clever decisions to achieve their best benefit. The framework contains components for decision making, cloud monitoring, user authentication, cloud access and SLA management. More specifically, we developed a utility-based, dynamic and flexible matching algorithm capable of maximising the users' profits. The matching algorithms as well as the entire framework were evaluated using a realistic simulation environment. Experimental results show that our utility-based approach performs well in terms of the matching quality and cost-saving.
+A security framework in G-Hadoop for big data computing across distributed Cloud data centres, 127, 2014-08-01 00:00:00
 
-Evaluating the performance and scalability of the Ceph distributed storage system
-As the data needs in every field continue to grow, storage systems have to grow and therefore need to adapt to the increasing demands of performance, reliability and fault tolerance. This also increases their complexity and costs. Improving the performance and scalability of storage systems while maintaining low costs is thus crucial. The evaluated open source storage system Ceph promises to reliably store data distributed across many nodes. Ceph is targeted at commodity hardware. This study investigates how Ceph performs in different setups and compares this with the theoretical maximum performance of the hardware. We used a bottom-up approach to benchmark Ceph at different architectural levels. We varied the amount of storage nodes and clients to test the scalability of the system. Our experiments revealed that Ceph delivers the promised scalability, and uncovered several points with improvement potential. We observed a significant increase of the write throughput by moving the Ceph journal to a faster location (in memory). Moreover, while the system scaled with the increasing number of clients operating the cluster, we noticed a slight performance degradation after the saturation point. We tested two optimisation strategies - increasing the available RAM or the object size - and noted a write throughput increase of up to 9% and 27%, respectively. Our findings improve the understanding of Ceph and should benefit future users through the presented strategies for tackling various performance limitations.
+UNICORE—from project results to production grids, 98, 2005-02-24 00:00:00
 
-A broker-based framework for multi-cloud workflows
-Computational science workflows have been successfully run on traditional HPC systems like clusters and Grids for many years. Today, users are interested to execute their workflow applications in the Cloud to exploit the economic and technical benefits of this new emerging technology. The deployment and management of workflows over the current existing heterogeneous and not yet interoperable Cloud providers, however, is still a challenging task for the workflow developers. In this paper, we present a broker-based framework for running workflows in a multi-Cloud environment. The framework allows an automatic selection of the target Clouds, a uniform access to the Clouds, and workflow data management with respect to user Service Level Agreement (SLA) requirements. Following a simulation approach, we evaluated the framework with a real scientific workflow application in different deployment scenarios. The results show that our framework offers benefits to users by executing workflows with the expected performance and service quality at lowest cost.
+UNICORE 6—recent and future advancements, 98, 2010-09-21 00:00:00
 
-Classification of different approaches for e-science applications in next generation computing infrastructures
-Simulation and thus scientific computing is the third pillar alongside theory and experiment in todays science and engineering. The term e-science evolved as a new research field that focuses on collaboration in key areas of science using next generation infrastructures to extend the powers of scientific computing. This paper contributes to the field of e-science as a study of how scientists actually work within currently existing Grid and e-science infrastructures. Alongside numerous different scientific applications, we identified several common approaches with similar characteristics in different domains. These approaches are described together with a classification on how to perform e-science in next generation infrastructures. The paper is thus a survey paper which provides an overview of the e-science research domain.
+SLA based service brokering in intercloud environments, 74, None
 
-Robust resource management for metacomputers
-Presents a robust software infrastructure for metacomputing. The system is intended to be used by others as a building block for large and powerful computational grids. Much effort has been taken to develop a fault-tolerant architecture that does not exhibit a single point of failure. Furthermore, we have designed the system to be modular, lean and portable. It is available as open source code and has been successfully compiled on POSIX- and Microsoft Windows-compliant platforms. The system does not originate from a laboratory environment but has proven its robustness within two large metacomputing installations. It embodies a modular concept which allows easy integration of new or modified components. Hence, it is not necessary to buy into the system as whole. We rather encourage others to use only those components that fit into their specific environments.
+Enhanced algorithms for multi-site scheduling, 72, 2002-11-18 00:00:00
 
-Research advances by using interoperable e-science infrastructures: the infrastructure interoperability reference model applied in e-science
-Improving e-Science with Interoperability of the e-Infrastructures EGEE and DEISA
-In the last couple of years, many e-Science infrastructures have begun to offer production services to e- Scientists with an increasing number of applications that require access to different kinds of computational resources. Within Europe two rather different multi-national e-Science infrastructures evolved over time namely Distributed European Infrastructure for Supercomputing Applications (DEISA) and Enabling Grids for E-SciencE (EGEE). DEISA provides access to massively parallel systems such as supercomputers that are well suited for scientific applications that require many interactions between their typically high numbers of CPUs. EGEE on the other hand provides access to a world-wide Grid of university clusters and PC pools that are well suited for farming applications that require less or even no interactions between the distributed CPUs. While DEISA uses the HPC-driven Grid technology UNICORE, EGEE is based on the gLite Grid middleware optimized for farming jobs. Both have less adoption of open standards and therefore both systems are technically non-interoperable, which means that no e-Scientist can easily leverage the DEISA and EGEE infrastructure with one suitable client environment for scientific applications. This paper argues that future interoperability of such large e-Science infrastructures is required to improve e-Science in general and to increase the real scientific impact of world-wide Grids in particular. We discuss the interoperability achieved by the OMII-Europe project that fundamentally improved the interoperability between UNICORE and gLite by using open standards. We also outline one specific scientific scenario of the WISDOM initiative that actually benefits from the recently established interoperability.
+Interoperation of world‐wide production e‐Science infrastructures, 65, None
 
-The repository chemotion: infrastructure for sustainable research in chemistry
-The repository Chemotion provides solutions for current challenges to store research data in a feasible manner. A main advantage of Chemotion is the comprehensive functionality, offering options to collect, prepare, and reuse data with discipline‐specific methods and data‐processing tools.
+Load and thermal-aware VM scheduling on the cloud, 49, 2013-12-18 00:00:00
+
+A broker-based framework for multi-cloud workflows, 42, 2013-04-22 00:00:00
+
+MapReduce across distributed clusters for data-intensive applications, 40, 2012-05-21 00:00:00
+
+Robust resource management for metacomputers, 33, 2000-08-01 00:00:00
+
+Improving e-Science with Interoperability of the e-Infrastructures EGEE and DEISA, 32, 2008-05-01 00:00:00
+
+Evaluating the performance and scalability of the Ceph distributed storage system, 30, 2014-10-01 00:00:00
+
+Research advances by using interoperable e-science infrastructures: the infrastructure interoperability reference model applied in e-science, 30, 2009-12-01 00:00:00
+
+A utility–based approach for customised cloud service selection, 29, None
+
+Classification of different approaches for e-science applications in next generation computing infrastructures, 29, 2008-12-07 00:00:00
+
+The repository chemotion: infrastructure for sustainable research in chemistry, 21, 2020-04-27 00:00:00
 
 DONE

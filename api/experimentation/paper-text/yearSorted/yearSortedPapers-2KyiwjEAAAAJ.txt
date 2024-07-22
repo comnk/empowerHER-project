@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Introduction to runtime verification, 180, None
+
+A theory of monitors, 21, 2021-02-01 00:00:00
+
+Adventures in monitorability: from branching to linear time and back again, 49, 2019-01-02 00:00:00
+
+A survey of challenges for runtime verification from advanced application domains (beyond software), 64, 2018-11-16 00:00:00
+
+On runtime enforcement via suppressions, 29, 2018-07-03 00:00:00
+
+A framework for parameterized monitorability, 28, 2018-04-16 00:00:00
+
+Runtime verification for decentralised and distributed systems, 57, 2018-02-11 00:00:00
+
+Heaps don't lie: countering unsoundness with heap snapshots, 29, 2017-10-12 00:00:00
+
+A foundation for runtime monitoring, 48, 2017-09-13 00:00:00
+
+A survey of runtime monitoring instrumentation techniques, 40, 2017-08-24 00:00:00
+
+Monitorability for the Hennessy–Milner logic with recursion, 60, 2017-03-24 00:00:00
+
+A monitoring tool for a branching-time logic, 36, 2016-09-27 00:00:00
+
+On implementing a monitor-oriented programming framework for actor systems, 36, 2016-06-01 00:00:00
+
+Synthesising correct concurrent runtime monitors, 55, 2013-09-24 00:00:00
+
+polyLarva: Runtime Verification with Configurable Resource-Aware Monitoring Boundaries, 28, 2012-10-01 00:00:00
+
+Elarva: A monitoring tool for erlang, 32, 2011-09-27 00:00:00
+
+Distributed system contract monitoring, 38, 2011-09-12 00:00:00
+
+A Formal Model of Provenance in Distributed Systems., 38, 2009-02-23 00:00:00
+
+A unified framework for verification techniques for object invariants, 61, 2008-07-07 00:00:00
+
+A theory of system behaviour in the presence of node and link failure, 41, 2005-08-23 00:00:00
+

@@ -1,26 +1,32 @@
-Knowledge-based modelling of voting protocols
-We contend that reasoning about knowledge is both natural and pragmatic for verification of electronic voting protocols. We present a model in which desirable properties of elections are naturally expressed using standard knowledge operators, and show that the associated logic is decidable (under reasonable assumptions of bounded agents and nonces).
+Paper Name, Citations, Publication Date
+Knowledge-based modelling of voting protocols, 55, 2007-06-25 00:00:00
 
-Discrete stochastic search and its application to feature-selection for deep relational machines
-A dexptime-Complete Dolev-Yao Theory with Distributive Encryption
-Inclusion of domain-knowledge into gnns using mode-directed inverse entailment
-Primal infon logic: derivability in polynomial time
-Primal infon logic (PIL), introduced by Gurevich and Neeman in 2009, is a logic for authorization in distributed systems. It is a variant of the (and, implies)-fragment of intuitionistic modal logic. It presents many interesting technical challenges -- one of them is to determine the complexity of the derivability problem. Previously, some restrictions of propositional PIL were proved to have a linear time algorithm, and some extensions have been proved to be PSPACE-complete. In this paper, we provide an O(N^3) algorithm for derivability in propositional PIL. The solution involves an interesting interplay between the sequent calculus formulation (to prove the subformula property) and the natural deduction formulation of the logic (based on which we provide an algorithm for the derivability problem).
+Discrete stochastic search and its application to feature-selection for deep relational machines, 11, 2019-09-17 00:00:00
 
-A dolev-yao model for zero knowledge
-Dolev-Yao theory with associative blindpair operators
-Learning explanations for biological feedback with delays using an event calculus
-A-complete Dolev-Yao theory with distributive encryption
-Composition of relational features with an application to explaining black-box predictors
-A Protocol for Intelligible Interaction Between Agents That Learn and Explain
-Recent engineering developments have seen the emergence of Machine Learning (ML) as a powerful form of data analysis with widespread applicability beyond its historical roots in the design of autonomous agents. However, relatively little attention has been paid to the interaction between people and ML systems. Recent developments on Explainable ML address this by providing visual and textual information on how the ML system arrived at a conclusion. In this paper we view the interaction between humans and ML systems within the broader context of interaction between agents capable of learning and explanation. Within this setting, we argue that it is more helpful to view the interaction as characterised by two-way intelligibility of information rather than once-off explanation of a prediction. We formulate two-way intelligibility as a property of a communication protocol. Development of the protocol is motivated by a set of `Intelligibility Axioms' for decision-support systems that use ML with a human-in-the-loop. The axioms are intended as sufficient criteria to claim that: (a) information provided by a human is intelligible to an ML system; and (b) information provided by an ML system is intelligible to a human. The axioms inform the design of a general synchronous interaction model between agents capable of learning and explanation. We identify conditions of compatibility between agents that result in bounded communication, and define Weak and Strong Two-Way Intelligibility between agents as properties of the communication protocol.
+Inclusion of domain-knowledge into gnns using mode-directed inverse entailment, 11, 2021-05-22 00:00:00
 
-A Dolev-Yao theory with interacting operators: decidability
-A safe restriction for receipt-freeness
-Docs v. Glocks1: Restricting Doctor's Professional Speech in the Name of Firearm Owner Privacy - Wollschlaeger v. Governor of Florida2 - Dr. Bernd Wollschlaeger, other health care practitioners, and various Florida chapters of medical professional organizations ("Plaintiffs") are suing the Governor of Florida and state officials ("the State") for enacting the Firearm Owners' Privacy Act ("the Act").3 The Act protects firearm owners' privacy by prohibiting medical professionals from: asking about gun ownership; recording gun ownership information in medical records; harassing patients about gun ownership; and discriminating against patients who own guns.4 Among the claims Plaintiffs filed are allegations that the Act violates the First Amendment by imposing an unconstitutional restriction on speech and preventing "open and free exchanges of information and advice with their patients about ways to reduce the safety risks posed by firearms."5On July 24, 2010, the Ocala Star Banner reported that a local mother was forced to find a new pediatrician after she refused to tell her child's doctor if she or her husband owned a gun.6 The child's doctor claims he routinely asked parents about guns in the home so he could provide advice on how to keep their children safe.7 After much media attention8, a bill was introduced in the Florida state legislature in January 2011, prohibiting medical personnel from asking patients about gun ownership, recording gun ownership information in medical records, and conditioning receipt of care on a patient's answers.9 As the bill went through the House of Representatives' and Senate's Criminal Justice, Health and Human Services, and Judiciary Committees, the bill was refined to include specific monetary fines for violations and a comprehensive disciplinary structure.10 On June 2, 2011, Governor Rick Scott signed the Firearm Owners' Privacy Act.11Shortly thereafter on June 6, 2011, Plaintiffs filed suit in the District Court for the Southern District of Florida ("the District Court").12 Plaintiffs alleged that certain provisions of the Act "violate[d] the First and Fourteenth Amendments of the United States Constitution" and sought declaratory and injunctive relief.13 The District Court granted a motion for preliminary injunction on September 14, 2011 after applying a strict scrutiny standard used for determining the constitutionality of content-based restrictions in commercial speech.14 The District Court followed the injunction by granting a motion of summary judgment on June 29, 2012, holding that the Act's inquiry, recordkeeping, discrimination and harassment provisions were unconstitutional under both the strict scrutiny standard and the Gentile balancing test.15 Enforcement of the provisions was thus permanently enjoined.16The State appealed to the United States Court of Appeals for the Eleventh Circuit ("the Court"), which held on July 25, 2014 that the Act is a constitutional regulation of professional conduct that has an incidental burden on physician speech. Therefore, the Act does not violate the First Amendment.17 The Court applied a "personal nexus" framework and held that the Act passed constitutional muster because the regulation specifically targeted an area where the "personal nexus between professional and client" was strongest and restricted speech "only in the service of defining the practice of good medicine, in the context of the very private, physician-patient relationship."18On July 28, 2015, the Court vacated and superseded their holding sua sponte.19 Instead of applying a "personal nexus" framework, the Court set forth a twodimensional model of speech, comparing the professional effectivity of the speech ("whether the physician is speaking in furtherance of the practice of medicine or not") with the relational context of the speech ("whether the physician is speaking within a fiduciary relationship or not").20 Using this framework, the Court was able to identify relevant interests and thus determine what type of scrutiny to apply. …
+A dexptime-Complete Dolev-Yao Theory with Distributive Encryption, 10, 2010-08-23 00:00:00
 
-Dolev-Yao theories with distributive encryption
-In the context of modelling cryptographic tools like blind signatures and homomorphic encryption, the Dolev-Yao model is typically extended with an operator over which encryption is distributive. We consider one such theory which lacks any obvious locality property and show that its derivability problem is hard: in fact, it is dexptime-complete, and there is an exponential lower bound on the size of derivations. The lower bound contrasts with ptime decidability for restricted theories of blind signatures, and the upper bound with non-elementary decidability for abelian group operators with distributive encryption.
+A-complete Dolev-Yao theory with distributive encryption, 10, 2010-08-23 00:00:00
 
-Partial secrecy in the Dolev-Yao model
+A dolev-yao model for zero knowledge, 4, 2009-12-14 00:00:00
+
+Primal infon logic: derivability in polynomial time, 3, None
+
+Dolev-Yao theory with associative blindpair operators, 1, 2019-07-22 00:00:00
+
+Learning explanations for biological feedback with delays using an event calculus, 1, 2021-08-18 00:00:00
+
+A Protocol for Intelligible Interaction Between Agents That Learn and Explain, 1, 2023-01-04 00:00:00
+
+A safe restriction for receipt-freeness, 1, 2015-10-01 00:00:00
+
+Composition of relational features with an application to explaining black-box predictors, 0, 2022-06-01 00:00:00
+
+Dolev-Yao theories with distributive encryption, 0, None
+
+A Dolev-Yao theory with interacting operators: decidability, -1, 
+
+Partial secrecy in the Dolev-Yao model, -1, 
+
 DONE

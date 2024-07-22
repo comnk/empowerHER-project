@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Learning from uncertain curves: The 2-Wasserstein metric for Gaussian processes, 71, None
+
+Scalable robust principal component analysis using Grassmann averages, 30, None
+
+Open Problem: Kernel methods on manifolds and metric spaces. What is the probability of a positive definite geodesic exponential kernel?, 25, None
+
+Populations of unlabeled networks: Graph space geometry and geodesic principal components, 16, None
+
+Feature robustness and sex differences in medical imaging: a case study in MRI-based Alzheimer’s disease detection, 23, 2022-04-04 00:00:00
+
+Semantic similarity metrics for learned image registration, 11, 2021-04-20 00:00:00
+
+Is segmentation uncertainty useful?, 33, 2021-03-30 00:00:00
+
+Wrapped Gaussian process regression on Riemannian manifolds, 33, 2018-06-01 00:00:00
+
+Geodesic atlas-based labeling of anatomical trees: Application and evaluation on airways extracted from CT, 21, 2015-06-01 00:00:00
+
+Geodesic Exponential Kernels: When Curvature and Linearity Conflict, 130, 2014-11-02 00:00:00
+
+Probabilistic shortest path tractography in DTI using Gaussian Process ODE solvers, 26, 2014-09-14 00:00:00
+
+Grassmann Averages for Scalable Robust PCA, 62, 2014-06-23 00:00:00
+
+Effect of inspiration on airway dimensions measured in maximal inspiration CT images of subjects without airflow limitation, 17, 2014-06-06 00:00:00
+
+Scalable kernels for graphs with continuous attributes, 159, 2013-12-05 00:00:00
+
+Tree-space statistics and approximations for large-scale analysis of anatomical trees, 50, 2013-06-28 00:00:00
+
+Geometric tree kernels: Classification of COPD from airway tree geometry, 17, 2013-03-29 00:00:00
+
+A hierarchical scheme for geodesic anatomical labeling of airway trees, 27, 2012-10-01 00:00:00
+
+Towards a theory of statistical tree-shape analysis, 65, 2012-07-23 00:00:00
+
+Means in spaces of tree-like shapes, 39, 2011-11-06 00:00:00
+
+Geometries on spaces of treelike shapes, 44, 2010-11-08 00:00:00
+

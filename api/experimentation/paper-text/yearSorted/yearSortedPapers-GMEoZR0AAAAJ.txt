@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Getting to the root of concurrent binary search tree performance, 23, None
+
+Augury: Using data memory-dependent prefetchers to leak data at rest, 29, 2022-05-01 00:00:00
+
+An analysis of speculative type confusion vulnerabilities in the wild, 24, 2021-06-29 00:00:00
+
+Opening pandora’s box: A systematic study of new ways microarchitecture can leak private data, 32, 2021-06-01 00:00:00
+
+Autonomous NIC offloads, 23, 2021-04-19 00:00:00
+
+Speculation invariance (invarspec): Faster safe execution through program analysis, 22, 2020-10-01 00:00:00
+
+Speculative interference attacks: Breaking invisible speculation schemes, 60, 2020-07-23 00:00:00
+
+Speculative data-oblivious execution: Mobilizing safe prediction for safe and efficient speculative execution, 49, 2020-05-01 00:00:00
+
+Speculative taint tracking (stt) a comprehensive protection for speculatively accessed data, 160, 2019-10-12 00:00:00
+
+Invisispec: Making speculative execution invisible in the cache hierarchy, 228, 2018-10-01 00:00:00
+
+Specification and complexity of collaborative text editing, 55, 2016-07-25 00:00:00
+
+True IOMMU protection from DMA attacks: When copy is faster than zero copy, 50, 2016-03-25 00:00:00
+
+Limitations of highly-available eventually-consistent data stores, 69, 2015-07-21 00:00:00
+
+Utilizing the {IOMMU} scalably, 30, 2015-07-08 00:00:00
+
+Predicate rcu: An rcu for scalable concurrent updates, 27, 2015-01-24 00:00:00
+
+The CB tree: a practical concurrent self-adjusting search tree, 27, 2014-12-01 00:00:00
+
+Software-improved hardware lock elision, 38, 2014-07-15 00:00:00
+
+Fast concurrent queues for x86 processors, 143, 2013-02-23 00:00:00
+
+Cache index-aware memory allocation, 34, 2011-06-04 00:00:00
+
+Common2 extended to stacks and unbounded concurrency, 39, 2006-07-23 00:00:00
+

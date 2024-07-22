@@ -1,9 +1,38 @@
-Record route IP traceback: Combating DoS attacks and the variants
-Defending cyber-physical systems against dos attacks
-Recent advances in Cyber-Physical Systems (CPSs) promote the Internet as the main communication technology for monitoring, controlling and managing the physical entities as well as exchanging information between the physical entities and human users. On the other hand, the Internet introduces a variety of vulnerabilities that may put the security and privacy of CPSs under risk. The consequences of cyber-attacks to CPSs might be catastrophic because they are usually part of human habitat. One of the most perilous threats in the Internet is the Denial of Service (DoS) attack and its variations such as Distributed DoS (DDoS). In this work-in-progress, we propose a novel probabilistic packet marking scheme to infer forward paths from an attacker to a victim site and delegate the defense to the upstream Internet Service Providers (ISPs). Our results show that the victim site can construct a forward path from the attacker after receiving 23 packets on the average.
+Paper Name, Citations, Publication Date
+Record route IP traceback: Combating DoS attacks and the variants, 32, None
 
-Towards DDoS attack detection using deep learning approach
-Cross-AS (X-AS) internet topology mapping
-Geography and Routing in the Internet
-The Internet is a network of networks consisting of tens of thousands of Autonomous Systems (ASes). These ASes connect to each other in different forms to enable the “global” Internet communication. In this study, we investigate the geographical characteristics of the visible Internet as well as examine the relation between geography and intra-AS and inter-AS routing policies. We show that the ingress-to-egress subpaths have lower circuitousness compared to the end-to-end paths. Our findings not only demonstrate the efficient backbone infrastructures and routing schemes deployed by ASes but also show the consequences of economical incentives on the adoption of inter-AS paths. We present and examine the existence of a strong correlation between the geographical distance and round trip delay time as well as the lack of a correlation between the geographical distance and hop length in the Internet. We investigate the relation between the geographical distance and intra-AS routing policies by employing cross-AS (X-AS) Internet topology maps. Our results show that more than two thirds of the intra-AS subpaths are congruent with the shortest geographical distance whether or not geographical distance is employed as a custom parameter in routing decisions. Our results provide new insights into the relations between geography and Internet routing, which allow the network researchers and practitioners to improve their networking infrastructures, reevaluate their routing policies, deploy geography-aware network overlays, and develop more realistic network simulation processes.
+Defending cyber-physical systems against dos attacks, 21, 2016-05-18 00:00:00
 
+Towards DDoS attack detection using deep learning approach, 16, 2023-04-01 00:00:00
+
+Cross-AS (X-AS) internet topology mapping, 14, 2018-02-26 00:00:00
+
+Geography and Routing in the Internet, 11, 2018-09-10 00:00:00
+
+Identifying critical autonomous systems in the Internet, 8, 2018-04-16 00:00:00
+
+Combating DDoS attacks with fair rate throttling, 6, 2021-04-15 00:00:00
+
+Efficient Probabilistic Packet Marking for AS Traceback, 5, 2021-10-31 00:00:00
+
+Single packet AS traceback against DoS attacks, 4, 2021-04-15 00:00:00
+
+Hash based AS traceback against DoS attack, 4, 2021-12-03 00:00:00
+
+Analysis of Autonomous System Level Internet Topology Graphs and Multigraphs, 1, 2021-10-31 00:00:00
+
+Accuracy and Coverage Analysis of IP Geolocation Databases, 1, 2023-06-05 00:00:00
+
+K-shell decomposition of as level multigraphs, 1, 2021-04-15 00:00:00
+
+Robust Anomaly Detection in IoT Networks using Deep SVDD and Contractive Autoencoder, 0, 2024-04-15 00:00:00
+
+Inferring Internet Topology at Point of Presence Level, 0, 2024-04-15 00:00:00
+
+Advancing Network Anomaly Detection: An Ensemble Approach Combining Optimized Contractive Autoencoders and K-Means Clustering, 0, 2024-04-13 00:00:00
+
+Major CyberSecurity Threats in Healthcare During Covid-19 Pandemic, 0, 2023-10-23 00:00:00
+
+The Implications of the Internet's Topological Structure for Its Efficiency, Security, and Reliability, -1, 
+
+DONE

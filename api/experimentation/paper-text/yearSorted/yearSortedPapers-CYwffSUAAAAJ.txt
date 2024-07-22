@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Multi-core real-time scheduling for generalized parallel task models, 234, None
+
+Energy-efficient multi-core scheduling for real-time DAG tasks, 39, None
+
+Energy-efficient real-time scheduling of DAG tasks, 52, 2018-09-17 00:00:00
+
+Industrial internet of things: Challenges, opportunities, and directions, 1390, 2018-07-02 00:00:00
+
+Low-power wide-area networks: opportunities, challenges, and directions, 98, 2018-01-04 00:00:00
+
+SNOW: Sensor network over white spaces, 75, 2016-11-14 00:00:00
+
+Real-time wireless sensor-actuator networks for industrial cyber-physical systems, 315, 2016-05-01 00:00:00
+
+Schedulability analysis under graph routing in WirelessHART networks, 67, 2015-12-01 00:00:00
+
+End-to-end communication delay analysis in industrial wireless networks, 121, 2015-05-01 00:00:00
+
+An internet of things framework for smart energy in buildings: designs, prototype, and experiments, 309, 2015-03-16 00:00:00
+
+Parallel real-time scheduling of DAGs, 163, 2014-12-01 00:00:00
+
+Distributed channel allocation protocols for wireless sensor networks, 71, 2014-09-01 00:00:00
+
+Analysis of federated and global scheduling for parallel real-time tasks, 199, 2014-07-28 00:00:00
+
+Analysis of EDF scheduling for wireless sensor-actuator networks, 57, 2014-05-26 00:00:00
+
+Near optimal rate selection for wireless control systems, 89, 2012-04-16 00:00:00
+
+Priority assignment for real-time flows in WirelessHART networks, 52, 2011-07-05 00:00:00
+
+End-to-end delay analysis for fixed priority scheduling in WirelessHART networks, 100, 2011-04-11 00:00:00
+
+Real-time scheduling for WirelessHART networks, 282, 2010-11-30 00:00:00
+
+Near optimal multi-application allocation in shared sensor networks, 53, 2010-09-20 00:00:00
+
+Multi-application deployment in shared sensor networks based on quality of monitoring, 74, 2010-04-12 00:00:00
+

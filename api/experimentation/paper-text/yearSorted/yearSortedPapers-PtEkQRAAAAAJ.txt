@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Active influence spreading in social networks, 18, 2019-04-11 00:00:00
+
+Evangelism in social networks: Algorithms and complexity, 20, 2016-10-29 00:00:00
+
+Discovering small target sets in social networks: a fast and effective algorithm, 25, 2016-10-12 00:00:00
+
+On finding small sets that influence large networks, 15, 2016-10-12 00:00:00
+
+A fast and effective heuristic for discovering small target sets in social networks, 14, 2015-12-18 00:00:00
+
+Influence propagation over large scale social networks, 18, 2015-08-25 00:00:00
+
+Optimizing spread of influence in social networks via partial incentives, 25, 2015-07-14 00:00:00
+
+Complexity of conflict-free colorings of graphs, 51, 2015-02-09 00:00:00
+
+Strong conflict-free coloring for intervals, 25, 2012-05-09 00:00:00
+
+Collision-free path coloring with application to minimum-delay gathering in sensor networks, 18, 2009-04-01 00:00:00
+
+Optimally fast data gathering in sensor networks, 38, 2006-08-28 00:00:00
+
+Performance of the CDF online silicon vertex tracker, 21, 2001-11-04 00:00:00
+
+Vertex-disjoint spanning trees of the star network with applications to fault-tolerance and security, 53, 2001-09-01 00:00:00
+
+Efficient collective communication in optical networks, 129, 1996-07-08 00:00:00
+
+Efficient collective communication in optical networks, 129, 1996-07-08 00:00:00
+
+Fast gossiping by short messages, 64, 1995-07-10 00:00:00
+
+Fast gossiping by short messages, 64, 1995-07-10 00:00:00
+
+Embedding graphs onto the supercube, 60, 1995-04-01 00:00:00
+
+Optimal polling in communication networks, 19, 1994-10-26 00:00:00
+
+Fault—tolerant hypercube broadcasting via information dispersal, 17, 1993-07-01 00:00:00
+

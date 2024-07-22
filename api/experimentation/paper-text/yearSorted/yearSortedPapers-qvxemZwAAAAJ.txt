@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Memetic algorithms and hyperhill-climbers, 29, None
+
+Social Networks: analysis and case studies, 52, None
+
+Community Detection Using Ant Colony Optimization Techniques, 13, None
+
+Selection hyper-heuristics in dynamic environments, 37, 2013-12-01 00:00:00
+
+A hybrid multi-population framework for dynamic environments combining online and offline learning, 21, 2013-08-11 00:00:00
+
+Generalizing hyper-heuristics via apprenticeship learning, 22, 2013-04-03 00:00:00
+
+Application of a multi-objective genetic algorithm to the modified diet problem, 2, 2011-09-06 00:00:00
+
+A novel differential evolution application to short-term electrical power generation scheduling, 41, 2011-07-01 00:00:00
+
+An efficient community detection method using parallel clique-finding ants, 32, 2010-07-18 00:00:00
+
+Multiobjective evolutionary clustering of web user sessions: a case study in web page recommendation, 39, 2010-01-11 00:00:00
+
+A greedy hyper-heuristic in dynamic environments, 16, 2009-07-08 00:00:00
+
+Traffic sign recognition using scale invariant feature transform and color classification, 46, 2008-12-16 00:00:00
+
+Evolutionary algorithms for the unit commitment problem, 37, 2008-03-01 00:00:00
+
+Graph-based sequence clustering through multiobjective evolutionary algorithms for web recommender systems, 27, 2007-07-07 00:00:00
+
+Active appearance model-based facial composite generation with interactive nature-inspired heuristics, 22, 2006-09-11 00:00:00
+
+The role of representations in dynamic knapsack problems, 36, 2006-04-10 00:00:00
+
+A new population based adaptive domination change mechanism for diploid genetic algorithms in dynamic environments, 81, 2005-11-01 00:00:00
+
+Towards an analysis of dynamic environments, 80, 2005-06-25 00:00:00
+
+The memory indexing evolutionary algorithm for dynamic environments, 25, 2005-03-30 00:00:00
+
+A gene based adaptive mutation strategy for genetic algorithms, 22, 2004-06-26 00:00:00
+

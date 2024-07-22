@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Nanoscale thermal transport. II. 2003–2012, 0, None
+
+Perspectives on thermoelectrics: from fundamentals to device applications, 1009, None
+
+Solar-driven interfacial evaporation, 41, 2023-03-10 00:00:00
+
+Steam generation under one sun enabled by a floating structure with thermal concentration, 857, 2016-08-01 00:00:00
+
+Solar steam generation by heat localization, 1566, 2014-07-21 00:00:00
+
+Heat transport in silicon from first-principles calculations, 588, 2011-07-26 00:00:00
+
+High-performance flat-panel solar thermoelectric generators with high thermal concentration, 1034, 2011-07-01 00:00:00
+
+Polyethylene nanofibres with very high thermal conductivities, 733, 2010-03-07 00:00:00
+
+Enhancement of thermoelectric figure‐of‐merit by a bulk nanostructuring approach, 801, 2010-02-08 00:00:00
+
+A benchmark study on the thermal conductivity of nanofluids, 1092, 2009-11-01 00:00:00
+
+Surface phonon polaritons mediated energy transfer between nanoscale gaps, 686, 2009-07-02 00:00:00
+
+Bulk nanostructured thermoelectric materials: current research and future prospects, 1698, 2009-05-05 00:00:00
+
+Enhanced thermoelectric figure of merit in nanostructured n-type silicon germanium bulk alloy, 668, 2008-11-14 00:00:00
+
+Enhanced thermoelectric figure-of-merit in nanostructured p-type silicon germanium bulk alloys, 974, 2008-10-31 00:00:00
+
+High-thermoelectric performance of nanostructured bismuth antimony telluride bulk alloys, 4762, 2008-03-13 00:00:00
+
+Analysis of optical absorption in silicon nanowire arrays for photovoltaic applications, 1078, 2007-10-10 00:00:00
+
+New directions for low‐dimensional thermoelectric materials, 3438, 2007-04-20 00:00:00
+
+Nanoscale energy transport and conversion: a parallel treatment of electrons, molecules, phonons, and photons, 822, 2005-03-03 00:00:00
+
+Recent developments in thermoelectric materials, 793, 2003-02-01 00:00:00
+
+Thermal conductivity and ballistic-phonon transport in the cross-plane direction of superlattices, 955, 1998-06-15 00:00:00
+

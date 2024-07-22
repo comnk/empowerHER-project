@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Sentiment analysis in Turkish media, 38, None
+
+Rule Based Analysis of the Uyghur Nouns., 19, None
+
+Machine learning based ticket classification in issue tracking systems, 17, None
+
+Rule based tagging of the uyghur verbs, 3, None
+
+A comparative study to determine the effective window size of Turkish word sense disambiguation systems, 6, None
+
+Morpheus: A neural network for jointly learning contextual lemmatization and morphological tagging, 11, None
+
+Metin sınıflandırma, 0, 2023-01-31 00:00:00
+
+Veri Madenciliğin Ve Demetleme, 1, 2022-07-31 00:00:00
+
+Normalizing non-canonical Turkish texts using machine translation approaches, 12, 2019-05-24 00:00:00
+
+Turkish named entity recognition with deep learning, 19, 2018-05-01 00:00:00
+
+Akraba ve bitişken diller arasında bilgisayarlı çeviri için karma bir model, 5, 2015-03-24 00:00:00
+
+The effect of parallel corpus quality vs size in English-to-Turkish SMT, 15, 2014-07-26 00:00:00
+
+The impact of collocational features in Turkish Word Sense Disambiguation, 12, 2012-06-13 00:00:00
+
+Uygurcadan Türkçeye bilgisayarlı çeviri, 2, 2011-11-24 00:00:00
+
+Document categorization with modified statistical language models for agglutinative languages, 18, 2010-11-01 00:00:00
+
+A probabilistic mobile text entry system for agglutinative languages, 10, 2010-05-01 00:00:00
+
+BLEU+: a Tool for Fine-Grained BLEU Computation., 21, 2008-05-01 00:00:00
+
+A MT system from Turkmen to Turkish employing finite state and statistical methods, 16, 2007-09-01 00:00:00
+
+Machine translation between Turkic languages, 26, 2007-06-25 00:00:00
+
+Computer analysis of the Turkmen language morphology, 40, 2006-08-23 00:00:00
+

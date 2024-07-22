@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+An overview of serious games, 399, None
+
+Open Java: von den Grundlagen zu den Anwendungen, 4, None
+
+Haptics technologies: Bringing touch to multimedia, 0, None
+
+A comprehensive survey on multimodal medical signals fusion for smart healthcare systems, 148, None
+
+Edge caching and computing in 5G for mobile AR/VR and tactile internet, 122, None
+
+Cardio Twin: A Digital Twin of the human heart running on the edge, 98, 2019-06-01 00:00:00
+
+Digital twins: The convergence of multimedia technologies, 481, 2018-08-03 00:00:00
+
+C2PS: A digital twin architecture reference model for the cloud-based cyber-physical systems, 480, 2017-01-23 00:00:00
+
+ECG authentication for mobile devices, 168, 2016-03-01 00:00:00
+
+Sentiment analysis on multi-view social data, 131, 2016-01-04 00:00:00
+
+Toward social internet of vehicles: Concept, architecture, and applications, 330, 2015-03-25 00:00:00
+
+Evaluating and improving the depth accuracy of Kinect for Windows v2, 282, 2015-03-25 00:00:00
+
+Robust control of four-rotor unmanned aerial vehicle with disturbance uncertainty, 212, 2015-03-01 00:00:00
+
+Denial-of-Service (dos) attacks on load frequency control in smart grids, 176, 2013-04-15 00:00:00
+
+Multimodal fusion for multimedia analysis: a survey, 1066, 2010-11-01 00:00:00
+
+AR-REHAB: An augmented reality framework for poststroke-patient rehabilitation, 119, 2010-09-09 00:00:00
+
+A universal ontology for sensor networks data, 118, 2007-06-27 00:00:00
+
+The Potential of Haptics Technologies, 250, 2007-04-02 00:00:00
+
+A survey of RST invariant image watermarking algorithms, 200, 2006-05-01 00:00:00
+
+RST-invariant digital image watermarking based on log-polar mapping and phase correlation, 186, 2003-08-01 00:00:00
+

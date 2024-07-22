@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+The modeling of adaptive routing in data-communication networks, 166, None
+
+Two interfering queues in packet-radio networks, 103, None
+
+Optimal distributed routing for virtual line-switched data networks, 49, None
+
+Distributed network protocols, 0, 2023-12-01 00:00:00
+
+A reliable broadcast protocol, 28, 2020-01-15 00:00:00
+
+Energy efficient routing in ad hoc disaster recovery networks, 247, 2003-07-09 00:00:00
+
+A routing vector method (RVM) for routing in Bluetooth scatternets, 122, 1999-11-15 00:00:00
+
+Distributed network control for optical networks, 120, 1997-12-01 00:00:00
+
+Distributed network control for wavelength routed optical networks, 101, 1996-03-24 00:00:00
+
+Connection management and rerouting in ATM networks, 59, 1994-06-12 00:00:00
+
+An optimal control approach to dynamic routing in networks, 132, 1982-04-01 00:00:00
+
+A failsafe distributed routing protocol, 233, 1979-09-01 00:00:00
+
+Recursive estimation from discrete-time point processes, 105, 1976-07-01 00:00:00
+
+Stochastic processes in estimation theory, 69, 1976-05-01 00:00:00
+
+Orthogonal functionals of independent-increment processes, 59, 1976-05-01 00:00:00
+
+Dynamic file assignment in a computer network, 42, 1976-04-01 00:00:00
+
+Bit allocation and encoding for vector sources, 155, 1976-03-01 00:00:00
+
+Nonlinear filtering with counting observations, 97, 1975-03-01 00:00:00
+
+The modeling of randomly modulated jump processes, 85, 1975-03-01 00:00:00
+
+Setting up, taking down and maintaining connections in a communications network, -1, 
+

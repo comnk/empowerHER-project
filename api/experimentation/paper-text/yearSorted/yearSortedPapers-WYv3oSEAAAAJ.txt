@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Cache modeling and optimization for portable devices running MPEG-4 video decoder, 21, None
+
+Evaluation of application-specific multiprocessor mobile system, 9, None
+
+Cache optimization for real-time embedded systems, 9, None
+
+A security-aware near field communication architecture, 12, None
+
+Impact of CUDA and OpenCL on parallel and distributed computing, 6, 2021-04-09 00:00:00
+
+Automatic high beam controller for vehicles, 7, 2018-03-19 00:00:00
+
+An energy-efficient directory based multicore architecture with wireless routers to minimize the communication latency, 10, 2017-02-01 00:00:00
+
+Efficacy and safety of leflunomide in psoriatic arthritis, 14, 2016-11-29 00:00:00
+
+Prevalence of health diseases among Bangladeshi tannery workers and associated risk factors with workplace investigation, 14, 2016-10-12 00:00:00
+
+Simulating multisensor noninvasive blood glucose monitoring systems, 9, 2016-07-11 00:00:00
+
+A time and energy efficient parking system using Zigbee communication protocol, 19, 2015-04-09 00:00:00
+
+A time-efficient image processing algorithm for multicore/manycore parallel computing, 24, 2015-04-09 00:00:00
+
+A talented CPU-to-GPU memory mapping technique, 2, 2014-03-13 00:00:00
+
+Study of hydrophilic electrospun nanofiber membranes for filtration of micro and nanosize suspended particles, 43, 2013-11-01 00:00:00
+
+Performance and power comparisons of MPI vs pthread implementations on multicore systems, 9, 2013-03-17 00:00:00
+
+Improving cache locking performance of modern embedded systems via the addition of a miss table at the L2 cache level, 29, 2010-04-01 00:00:00
+
+Impact of level-2 cache sharing on the performance and power requirements of homogeneous multicore embedded systems, 10, 2009-08-01 00:00:00
+
+Impact of L1 entire locking and L2 way locking on the performance, power consumption, and predictability of multicore real-time systems, 12, 2009-05-10 00:00:00
+
+Evaluation of i-cache locking technique for real-time embedded systems, 18, 2007-11-01 00:00:00
+
+Cache optimization for mobile devices running multimedia applications, 20, 2004-12-13 00:00:00
+

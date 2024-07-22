@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Clustervision: Visual supervision of unsupervised clustering, 114, None
+
+Matrixflow: temporal network visual analytics to track symptom evolution during disease progression, 83, None
+
+Iterative refinement of cohorts using visual exploration and data analytics, 16, 2021-04-02 00:00:00
+
+Seq2seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models, 218, 2018-04-25 00:00:00
+
+Coping with volume and variety in temporal event sequences: Strategies for sharpening analytic focus, 85, 2017-06-01 00:00:00
+
+Interacting with predictions: Visual inspection of black-box machine learning models, 349, 2016-05-07 00:00:00
+
+Supporting iterative cohort construction with visual temporal queries, 80, 2016-01-31 00:00:00
+
+Mining and exploring care pathways from electronic medical records with visual analytics, 110, 2015-08-01 00:00:00
+
+Progressive visual analytics: User-driven visual exploration of in-progress analytics, 201, 2014-11-06 00:00:00
+
+INFUSE: Interactive feature selection for predictive modeling of high dimensional data, 167, 2014-11-06 00:00:00
+
+A methodology for interactive mining and visual analysis of clinical event patterns using electronic health record data, 127, 2014-04-01 00:00:00
+
+Frequence: Interactive mining and visualization of temporal frequent event sequences, 131, 2014-02-24 00:00:00
+
+Diversity among enterprise online communities: collaborating, teaming, and innovating through social media, 88, 2012-05-05 00:00:00
+
+Orion: A system for modeling, transformation and visualization of multidimensional heterogeneous networks, 66, 2011-12-15 00:00:00
+
+Same places, same things, same people? Mining user similarity on social media, 95, 2010-02-06 00:00:00
+
+“Search, show context, expand on demand”: Supporting large graph exploration with degree-of-interest, 256, 2009-11-01 00:00:00
+
+Analyzing (social media) networks with NodeXL, 631, 2009-06-25 00:00:00
+
+Integrating statistics and visualization: case studies of gaining clarity during exploratory data analysis, 212, 2008-04-06 00:00:00
+
+Systematic yet flexible discovery: guiding domain experts through exploratory data analysis, 89, 2008-01-13 00:00:00
+
+Balancing systematic and flexible exploration of social networks, 245, 2006-09-01 00:00:00
+

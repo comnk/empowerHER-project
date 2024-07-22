@@ -1,37 +1,42 @@
-F-Soft: Software verification platform
-A survey of recent advances in SAT-based formal verification
-Formal hardware verification methods: A survey
-A general approach to network configuration verification
-We present Minesweeper, a tool to verify that a network satisfies a wide range of intended properties such as reachability or isolation among nodes, waypointing, black holes, bounded path length, load-balancing, functional equivalence of two routers, and fault-tolerance. Minesweeper translates network configuration files into a logical formula that captures the stable states to which the network forwarding will converge as a result of interactions between routing protocols such as OSPF, BGP and static routes. It then combines the formula with constraints that describe the intended property. If the combined formula is satisfiable, there exists a stable state of the network in which the property does not hold. Otherwise, no stable state (if any) violates the property. We used Minesweeper to check four properties of 152 real networks from a large cloud provider. We found 120 violations, some of which are potentially serious security vulnerabilities. We also evaluated Minesweeper on synthetic benchmarks, and found that it can verify rich properties for networks with hundreds of routers in under five minutes. This performance is due to a suite of model-slicing and hoisting optimizations that we developed, which reduce runtime by over 460x for large networks.
+Paper Name, Citations, Publication Date
+A survey of recent advances in SAT-based formal verification, 302, 2005-04-01 00:00:00
 
-Probabilistic temporal logic falsification of cyber-physical systems
-We present a Monte-Carlo optimization technique for finding system behaviors that falsify a metric temporal logic (MTL) property. Our approach performs a random walk over the space of system inputs guided by a robustness metric defined by the MTL property. Robustness is guiding the search for a falsifying behavior by exploring trajectories with smaller robustness values. The resulting testing framework can be applied to a wide class of cyber-physical systems (CPS). We show through experiments on complex system models that using our framework can help automatically falsify properties with more consistency as compared to other means, such as uniform sampling.
+Formal hardware verification methods: A survey, 227, 1992-10-01 00:00:00
 
-Reasoning about threads communicating via locks
-Monte-carlo techniques for falsification of temporal properties of non-linear hybrid systems
-We present a Monte-Carlo optimization technique for finding inputs to a system that falsify a given Metric Temporal Logic (MTL) property. Our approach performs a random walk over the space of inputs guided by a robustness metric defined by the MTL property. Robustness can be used to guide our search for a falsifying trajectory by exploring trajectories with smaller robustness values. We show that the notion of robustness can be generalized to consider hybrid system trajectories. The resulting testing framework can be applied to non-linear hybrid systems with external inputs. We show through numerous experiments on complex systems that using our framework can help automatically falsify properties with more consistency as compared to other means such as uniform sampling.
+A general approach to network configuration verification, 227, 2017-08-07 00:00:00
 
-Combining strengths of circuit-based and CNF-based algorithms for a high-performance SAT solver
-We propose satisfiability checking (SAT) techniques that lead to a consistent performance improvement of up to 3/spl times/ over state-of-the-art SAT solvers like Chaff on important problem domains in VLSI CAD. We observe that in circuit oriented applications like ATPG and verification, different software engineering techniques are required for the portions of the formula corresponding to learnt clauses compared to the original formula. We demonstrate that by employing the same innovations as in advanced CNF-based SAT solvers, but in a hybrid approach where these two portions of the formula are represented differently and processed separately, it is possible to obtain the consistently highest performing SAT solver for circuit oriented problem domains. We also present controlled experiments to highlight where these gains come from. Once it is established that the hybrid approach is faster, it becomes possible to apply low overhead circuit-based heuristics that would be unavailable in the CNF domain for greater speedup.
+Probabilistic temporal logic falsification of cyber-physical systems, 173, 2013-05-01 00:00:00
 
-Fast and accurate static data-race detection for concurrent programs
-Efficient SAT-based bounded model checking for software verification
-Iterative abstraction using SAT-based BMC with proof analysis
-Resolution-based proof analysis techniques have been proposed recently to identify a sufficient set of reasons for unsatisfiability derived by a CNF-based SAT solver. We have adapted these techniques to work with a hybrid SAT solver. We use the proof analysis technique with SAT-based BMC, in order to, generate useful abstract models. Our abstraction procedure is used iteratively in a top-down framework, starting from the concrete design, where we apply BMC on increasingly more abstract models. We apply various SAT-based and BDD-based verification methods on these abstract models, in order to obtain proofs of correctness, or to perform deeper searches for counterexamples. We demonstrate the effectiveness of our prototype implementation on several large industry designs.
+Monte-carlo techniques for falsification of temporal properties of non-linear hybrid systems, 142, 2010-04-12 00:00:00
 
-SAT-based image computation with application in reachability analysis
-Monotonic partial order reduction: An optimal symbolic partial order reduction technique
-Model checking C programs using F-Soft
-With the success of formal verification techniques like equivalence checking and model checking for hardware designs, there has been growing interest in applying such techniques for formal analysis and automatic verification of software programs. This paper provides a brief tutorial on model checking of C programs. The essential approach is to model the semantics of C programs in the form of finite state systems by using suitable abstractions. The use of abstractions is key, both for modeling programs as finite state systems and for reducing the model sizes in order to manage verification complexity. We provide illustrative details of a verification platform called F-Soft, which provides a range of abstractions for modeling software, and uses customized SAT-based and BDD-based model checking techniques targeted for software.
+Combining strengths of circuit-based and CNF-based algorithms for a high-performance SAT solver, 126, 2002-06-10 00:00:00
 
-Static analysis in disjunctive numerical domains
-Accelerating high-level bounded model checking
-SAT-based bounded model checking (BMC) has been found promising in finding deep bugs in industry designs and scaling well with design sizes. However, it has limitations due to requirement of finite data paths, inefficient translations and loss of high-level design information during the BMC problem formulation. These shortcomings inherent in Boolean-level BMC can be avoided by using high-level BMC. We propose a novel framework for high-level BMC, which includes several techniques that extract high-level design information from EFSM models to make the verification model "BMC friendly", and use it on-the-fly to simplify the BMC problem instances. Such techniques overcome the inherent limitations of Boolean-level BMC, while allowing integration of state-of-the-art techniques for BMC. In our controlled experiments we found significant performance improvements achievable by the proposed techniques
+Reasoning about threads communicating via locks, 125, 2005-07-06 00:00:00
 
-Coverage guided systematic concurrency testing
-Shared-memory multi-threaded programs are notoriously difficult to test, and because of the often astronomically large number of thread schedules, testing all possible interleavings is practically infeasible. In this paper we propose a coverage-guided systematic testing framework, where we use dynamically learned ordering constraints over shared object accesses to select only high-risk interleavings for test execution. An interleaving is of high-risk if it has not been covered by the ordering constraints, meaning that it has concurrency scenarios that have not been tested. Our method consists of two components. First, we utilize dynamic information collected from good test runs to learn ordering constraints over the memory-accessing and synchronization statements. These ordering constraints are treated as likely invariants since they are respected by all the tested runs. Second, during the process of systematic testing, we use the learned ordering constraints to guide the selection of interleavings for future test execution. Our experiments on public domain multithreaded C/C++ programs show that, by focusing on only the high-risk interleavings rather than enumerating all possible interleavings, our method can increase the coverage of important concurrency scenarios with a reasonable cost and detect most of the concurrency bugs in practice.
+F-Soft: Software verification platform, 124, 2005-07-06 00:00:00
 
-Symbolic predictive analysis for concurrent programs
-Peephole partial order reduction
-SAT-based scalable formal verification solutions
+Fast and accurate static data-race detection for concurrent programs, 119, 2007-07-03 00:00:00
+
+Symbolic predictive analysis for concurrent programs, 111, 2009-11-04 00:00:00
+
+Monotonic partial order reduction: An optimal symbolic partial order reduction technique, 110, 2009-06-23 00:00:00
+
+SAT-based image computation with application in reachability analysis, 101, 2000-11-01 00:00:00
+
+Model checking C programs using F-Soft, 100, 2005-10-02 00:00:00
+
+Efficient SAT-based bounded model checking for software verification, 97, 2008-09-01 00:00:00
+
+Static analysis in disjunctive numerical domains, 96, 2006-08-29 00:00:00
+
+Coverage guided systematic concurrency testing, 91, 2011-05-21 00:00:00
+
+Iterative abstraction using SAT-based BMC with proof analysis, 88, 2003-11-09 00:00:00
+
+Peephole partial order reduction, 86, 2008-03-29 00:00:00
+
+Accelerating high-level bounded model checking, 79, 2006-11-05 00:00:00
+
+SAT-based scalable formal verification solutions, 65, 2007-05-01 00:00:00
+
 DONE

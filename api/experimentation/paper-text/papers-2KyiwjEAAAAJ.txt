@@ -1,33 +1,42 @@
-Introduction to runtime verification
-A survey of challenges for runtime verification from advanced application domains (beyond software)
-Runtime verification for decentralised and distributed systems
-Monitorability for the Hennessy–Milner logic with recursion
-A survey of runtime monitoring instrumentation techniques
-Runtime Monitoring is a lightweight and dynamic verification technique that involves observing the internal operations of a software system and/or its interactions with other external entities, with the aim of determining whether the system satisfies or violates a correctness specification. Compilation techniques employed in Runtime Monitoring tools allow monitors to be automatically derived from high-level correctness specifications (aka. properties). This allows the same property to be converted into different types of monitors, which may apply different instrumentation techniques for checking whether the property was satisfied or not. In this paper we compare and contrast the various types of monitoring methodologies found in the current literature, and classify them into a spectrum of monitoring instrumentation techniques, ranging from completely asynchronous monitoring on the one end and completely synchronous monitoring on the other.
+Paper Name, Citations, Publication Date
+Introduction to runtime verification, 180, None
 
-Synthesising correct concurrent runtime monitors
-Adventures in monitorability: from branching to linear time and back again
-This paper establishes a comprehensive theory of runtime monitorability for Hennessy-Milner logic with recursion, a very expressive variant of the modal µ-calculus. It investigates the monitorability of that logic with a linear-time semantics and then compares the obtained results with ones that were previously presented in the literature for a branching-time setting. Our work establishes an expressiveness hierarchy of monitorable fragments of Hennessy-Milner logic with recursion in a linear-time setting and exactly identifies what kinds of guarantees can be given using runtime monitors for each fragment in the hierarchy. Each fragment is shown to be complete, in the sense that it can express all properties that can be monitored under the corresponding guarantees. The study is carried out using a principled approach to monitoring that connects the semantics of the logic and the operational semantics of monitors. The proposed framework supports the automatic, compositional synthesis of correct monitors from monitorable properties.
+A survey of challenges for runtime verification from advanced application domains (beyond software), 64, 2018-11-16 00:00:00
 
-A foundation for runtime monitoring
-A unified framework for verification techniques for object invariants
-A theory of system behaviour in the presence of node and link failure
-A monitoring tool for a branching-time logic
-On implementing a monitor-oriented programming framework for actor systems
-A theory of monitors
-Distributed system contract monitoring
-Runtime verification of distributed systems poses various challenges. A pivotal challenge is the choice of how to distribute the monitors themselves across the system. On one hand, centralised monitoring may result in increased communication overhead and information exposure across locations, while, on the other hand, systems with dynamic topologies and properties are difficult to address using static monitor choreographies. In this paper we present mDPɪ, a location-aware π-calculus extension for reasoning about the distributed monitoring scenario. We also define numerous monitoring strategies for a regular expression-based logic, including a novel approach in which monitors migrate to ensure local monitoring. Finally, we present a number of results which emerge from this formalism, justifying our approach.
+A unified framework for verification techniques for object invariants, 61, 2008-07-07 00:00:00
 
-On runtime enforcement via suppressions
-Runtime enforcement is a dynamic analysis technique that uses monitors to enforce the behaviour specified by some correctness property on an executing system. The enforceability of a logic captures the extent to which the properties expressible via the logic can be enforced at runtime. We study the enforceability of Hennessy-Milner Logic with Recursion (muHML) with respect to suppression enforcement. We develop an operational framework for enforcement which we then use to formalise when a monitor enforces a muHML property. We also show that the safety syntactic fragment of the logic, sHML, is enforceable by providing an automated synthesis function that generates correct suppression monitors from sHML formulas.
+Monitorability for the Hennessy–Milner logic with recursion, 60, 2017-03-24 00:00:00
 
-Elarva: A monitoring tool for erlang
-A Formal Model of Provenance in Distributed Systems.
-We present a formalism for provenance in distributed systems based on the π-calculus. Its main feature is that all data products are annotated with metadata representing their provenance. The calculus is given a provenance tracking semantics, which ensures that data provenance is updated as the computation proceeds. The calculus also enjoys a pattern-restricted input primitive which allows processes to decide what data to receive and what branch of computation to proceed with based on the provenance information of data. We give examples to illustrate the use of the calculus and discuss some of the semantic properties of our provenance notion. We conclude by reviewing related work and discussing directions for future research.
+Runtime verification for decentralised and distributed systems, 57, 2018-02-11 00:00:00
 
-Heaps don't lie: countering unsoundness with heap snapshots
-Static analyses aspire to explore all possible executions in order to achieve soundness. Yet, in practice, they fail to capture common dynamic behavior. Enhancing static analyses with dynamic information is a common pattern, with tools such as Tamiflex. Past approaches, however, miss significant portions of dynamic behavior, due to native code, unsupported features (e.g., invokedynamic or lambdas in Java), and more. We present techniques that substantially counteract the unsoundness of a static analysis, with virtually no intrusion to the analysis logic. Our approach is reified in the HeapDL toolchain and consists in taking whole-heap snapshots during program execution, that are further enriched to capture significant aspects of dynamic behavior, regardless of the causes of such behavior. The snapshots are then used as extra inputs to the static analysis. The approach exhibits both portability and significantly increased coverage. Heap information under one set of dynamic inputs allows a static analysis to cover many more behaviors under other inputs. A HeapDL-enhanced static analysis of the DaCapo benchmarks computes 99.5% (median) of the call-graph edges of unseen dynamic executions (vs. 76.9% for the Tamiflex tool).
+Synthesising correct concurrent runtime monitors, 55, 2013-09-24 00:00:00
 
-polyLarva: Runtime Verification with Configurable Resource-Aware Monitoring Boundaries
-A framework for parameterized monitorability
+Adventures in monitorability: from branching to linear time and back again, 49, 2019-01-02 00:00:00
+
+A foundation for runtime monitoring, 48, 2017-09-13 00:00:00
+
+A theory of system behaviour in the presence of node and link failure, 41, 2005-08-23 00:00:00
+
+A survey of runtime monitoring instrumentation techniques, 40, 2017-08-24 00:00:00
+
+Distributed system contract monitoring, 38, 2011-09-12 00:00:00
+
+A Formal Model of Provenance in Distributed Systems., 38, 2009-02-23 00:00:00
+
+A monitoring tool for a branching-time logic, 36, 2016-09-27 00:00:00
+
+On implementing a monitor-oriented programming framework for actor systems, 36, 2016-06-01 00:00:00
+
+Elarva: A monitoring tool for erlang, 32, 2011-09-27 00:00:00
+
+On runtime enforcement via suppressions, 29, 2018-07-03 00:00:00
+
+Heaps don't lie: countering unsoundness with heap snapshots, 29, 2017-10-12 00:00:00
+
+polyLarva: Runtime Verification with Configurable Resource-Aware Monitoring Boundaries, 28, 2012-10-01 00:00:00
+
+A framework for parameterized monitorability, 28, 2018-04-16 00:00:00
+
+A theory of monitors, 21, 2021-02-01 00:00:00
+
 DONE

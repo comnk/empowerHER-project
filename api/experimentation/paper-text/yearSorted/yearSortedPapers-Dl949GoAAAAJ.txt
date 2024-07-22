@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Linguistic structures as weak supervision for visual scene graph generation, 45, 2021-05-28 00:00:00
+
+A case study of the shortcut effects in visual commonsense reasoning, 35, 2021-05-18 00:00:00
+
+Preserving semantic neighborhoods for robust cross-modal retrieval, 38, 2020-07-16 00:00:00
+
+Interpreting the rhetoric of visual advertisements, 26, 2019-10-15 00:00:00
+
+Cap2det: Learning to amplify weak caption supervision for object detection, 54, 2019-07-23 00:00:00
+
+Equal but not the same: Understanding the implicit relationship between persuasive images and text, 53, 2018-07-21 00:00:00
+
+Advise: Symbolism and external knowledge for decoding advertisements, 47, 2017-11-17 00:00:00
+
+Automatic understanding of image and video advertisements, 143, 2017-07-01 00:00:00
+
+Learning attributes from human gaze, 17, 2017-03-24 00:00:00
+
+Crowdsourcing in computer vision, 128, 2016-11-07 00:00:00
+
+Inferring visual persuasion via body language, setting, and deep features, 27, 2016-06-01 00:00:00
+
+Seeing behind the camera: Identifying the authorship of a photograph, 27, 2015-08-20 00:00:00
+
+Discovering attribute shades of meaning with the crowd, 39, 2015-05-15 00:00:00
+
+Whittlesearch: Interactive image search with relative attribute feedback, 86, 2015-04-04 00:00:00
+
+Attribute adaptation for personalized image search, 64, 2013-12-01 00:00:00
+
+Attribute pivots for guiding relevance feedback in image search, 70, 2013-12-01 00:00:00
+
+Whittlesearch: Image search with relative attribute feedback, 339, 2012-06-16 00:00:00
+
+Actively selecting annotations among objects and attributes, 73, 2011-11-06 00:00:00
+
+Authorship attribution using probabilistic context-free grammars, 91, 2010-07-11 00:00:00
+
+Learning a hierarchy of discriminative space-time neighborhood features for human action recognition, 561, 2010-06-13 00:00:00
+

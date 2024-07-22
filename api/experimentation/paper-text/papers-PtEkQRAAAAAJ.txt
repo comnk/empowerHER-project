@@ -1,37 +1,42 @@
-Efficient collective communication in optical networks
-Embedding graphs onto the supercube
-In this paper we consider the Supercube, a new interconnection network derived from the hypercube. The Supercube, introduced by A. Sen (1989), has the same diameter and connectivity as a Hypercube but can be realized for any number of nodes, not only powers of 2. We study the Supercube's ability to execute parallel programs, using graph-embedding techniques. We show that complete binary trees and bidimensional meshes (with a side length power of 2) are spanning subgraphs of the Supercube. We then prove that the Supercube is Hamiltonian and, when the number of nodes is not a power of 2, it contains all cycles of length greater than 3 as subgraphs. >
+Paper Name, Citations, Publication Date
+Efficient collective communication in optical networks, 129, 1996-07-08 00:00:00
 
-Fast gossiping by short messages
-Gossiping is the process of information diffusion in which each node of a network holds a packet that must be communicated to all other nodes in the network. We consider the problem of gossiping in communication networks under the restriction that communicating nodes can exchange up to a fixed number p of packets at each round. In the first part of the paper we study the extremal case p = 1 and we exactly determine the optimal number of communication rounds to perform gossiping for several classes of graphs, including Hamiltonian graphs and complete k-ary trees. For arbitrary graphs we give asymptotically matching upper and lower bounds. We also study the case of arbitrary p and we exactly determine the optimal number of communication rounds to perform gossiping under this hypothesis for complete graphs, hypercubes, rings, and paths.
+Efficient collective communication in optical networks, 129, 1996-07-08 00:00:00
 
-Vertex-disjoint spanning trees of the star network with applications to fault-tolerance and security
-Efficient collective communication in optical networks
-Complexity of conflict-free colorings of graphs
-Performance of the CDF online silicon vertex tracker
-The Online Silicon Vertex Tracker (SVT) is the new trigger processor dedicated to the 2-D reconstruction of charged particle trajectories at the Level 2 of the CDF trigger. The SVT links the digitized pulse heights found within the Silicon Vertex detector to the tracks reconstructed in the Central Outer Tracker by the Level 1 Fast Track finder. Preliminary tests of the system took place during the October 2000 commissioning run of the Tevatron Collider. During the April-October 2001 data taking SVT was fully assembled and it was possible to obtain clearer and more important results on the performance of the system. In this paper we review the tracking algorithms implemented in the SVT and we report on the performance achieved during the early phase of run II.
+Fast gossiping by short messages, 64, 1995-07-10 00:00:00
 
-Optimally fast data gathering in sensor networks
-Fast gossiping by short messages
-Gossiping is the process of information diffusion in which each node of a network holds a packet that must be communicated to all other nodes in the network. We consider the problem of gossiping in communication networks under the restriction that communicating nodes can exchange up to a fixed number p of packets at each round. In the first part of the paper we study the extremal case p = 1 and we exactly determine the optimal number of communication rounds to perform gossiping for several classes of graphs, including Hamiltonian graphs and complete k-ary trees. For arbitrary graphs we give asymptotically matching upper and lower bounds. We also study the case of arbitrary p and we exactly determine the optimal number of communication rounds to perform gossiping under this hypothesis for complete graphs, hypercubes, rings, and paths.
+Fast gossiping by short messages, 64, 1995-07-10 00:00:00
 
-Optimizing spread of influence in social networks via partial incentives
-Discovering small target sets in social networks: a fast and effective algorithm
-Optimal polling in communication networks
-Polling is the process in which an issuing node of a communication network (polling station) broadcasts a query to every other node in the network and must receive a unique response from each of them. Polling can be thought as a combination of broadcasting and gathering and finds wide applications in the control of distributed systems. In this paper we consider the problem of polling in minimum time. We give a general lower bound on the minimum number of time units to accomplish polling in any network and we present optimal polling algorithms for several classes of graphs, including hypercubes and recursively decomposable Cayley graphs.<<ETX>>
+Embedding graphs onto the supercube, 60, 1995-04-01 00:00:00
 
-Evangelism in social networks: Algorithms and complexity
-We consider a population of interconnected individuals that, with respect to a piece of information, at each time instant can be subdivided into three (time‐dependent) categories: agnostics, influenced, and evangelists. A dynamical process of information diffusion evolves among the individuals of the population according to the following rules. Initially, all individuals are agnostic. Then, a set of people is chosen from the outside and convinced to start evangelizing, that is, to start spreading the information. When a number of evangelists, greater than a given threshold, communicate with a node v, the node v becomes influenced, whereas, as soon as the individual v is contacted by a sufficiently much larger number of evangelists, it is itself converted into an evangelist and consequently it starts spreading the information. The question is: How to choose a bounded cardinality initial set of evangelists so as to maximize the final number of influenced individuals? We prove that the problem is hard to solve, even in an approximate sense. On the positive side, we present exact polynomial time algorithms for trees and complete graphs. For general graphs, we derive exact parameterized algorithms. We also study the problem when the objective is to select a minimum number of evangelists capable of influencing the whole network. Our motivations to study these problems come from the areas of Viral Marketing and spread of influence in social networks. © 2017 Wiley Periodicals, Inc. NETWORKS, Vol. 71(4), 346–357 2018
+Vertex-disjoint spanning trees of the star network with applications to fault-tolerance and security, 53, 2001-09-01 00:00:00
 
-Strong conflict-free coloring for intervals
-Active influence spreading in social networks
-Fault—tolerant hypercube broadcasting via information dispersal
-Broadcasting is the process of disseminating a message originated at one node of a network to all other nodes. In this paper, we consider the problem of broadcasting reliably in the hypercube in presence of either transmission or link failures. We propose broadcasting protocols under various assumptions on the communication model. Our broadcasting protocols make use of Rabin's Information Dispersal Algorithm. © 1993 by John Wiley & Sons, Inc.
+Complexity of conflict-free colorings of graphs, 51, 2015-02-09 00:00:00
 
-Influence propagation over large scale social networks
-We study the influence diffusion problem in online social networks. Formally, given a network represented by a directed graph G = (V, E), we consider a process of influence diffusion in G that proceeds as follows: Initially only the vertices of a given S ⊆ V are influenced; subsequently, at each round, the set of influenced vertices is augmented by all the vertices in the network that have a sufficiently large number of already influenced incoming neighbors. The question is to find a small subset of vertices that can influence the whole network (target set). This is a widely studied problem that abstracts many phenomena in the social, economic, biological, and physical sciences. It is known to be hard to approximate within a factor of 2log1-εn, for any ε > 0, and n = |V|. Despite the above negative result, some efficient heuristics have been recently proposed in the literature. In this paper, we present a scalable, fast, and simple algorithm (MTS) for the influence diffusion problem. Experiments conducted over real-world social networks show that the proposed algorithm produces solutions that substantially outperform those obtained by previously published algorithms. Experiments also show that the performances of the analyzed algorithms (measured by the normalized target set size) correlates positively with the strength of communities of a network (measured by the network modularity). Such correlation is even stronger using the results provided by the MTS algorithm, showing that the proposed MTS algorithm better exploits situations in which the community structure of the networks allows some influence between different communities.
+Optimally fast data gathering in sensor networks, 38, 2006-08-28 00:00:00
 
-Collision-free path coloring with application to minimum-delay gathering in sensor networks
-On finding small sets that influence large networks
-A fast and effective heuristic for discovering small target sets in social networks
+Optimizing spread of influence in social networks via partial incentives, 25, 2015-07-14 00:00:00
+
+Discovering small target sets in social networks: a fast and effective algorithm, 25, 2016-10-12 00:00:00
+
+Strong conflict-free coloring for intervals, 25, 2012-05-09 00:00:00
+
+Performance of the CDF online silicon vertex tracker, 21, 2001-11-04 00:00:00
+
+Evangelism in social networks: Algorithms and complexity, 20, 2016-10-29 00:00:00
+
+Optimal polling in communication networks, 19, 1994-10-26 00:00:00
+
+Active influence spreading in social networks, 18, 2019-04-11 00:00:00
+
+Influence propagation over large scale social networks, 18, 2015-08-25 00:00:00
+
+Collision-free path coloring with application to minimum-delay gathering in sensor networks, 18, 2009-04-01 00:00:00
+
+Fault—tolerant hypercube broadcasting via information dispersal, 17, 1993-07-01 00:00:00
+
+On finding small sets that influence large networks, 15, 2016-10-12 00:00:00
+
+A fast and effective heuristic for discovering small target sets in social networks, 14, 2015-12-18 00:00:00
+
 DONE

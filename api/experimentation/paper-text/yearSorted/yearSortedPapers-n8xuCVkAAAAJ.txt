@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Inconsistency handling in multiperspective specifications, 230, None
+
+Effective configurations of a digital contact tracing app: a report to NHSX, 212, None
+
+Flexible consistency checking, 160, None
+
+OpenABM-Covid19—An agent-based model for non-pharmaceutical interventions against COVID-19 including contact tracing, 192, 2020-09-22 00:00:00
+
+Business network management as a survival strategy, 18, 2013-04-30 00:00:00
+
+StakeRare: using social networks and collaborative filtering for large-scale requirements elicitation, 217, 2012-05-01 00:00:00
+
+Requirements-aware systems: A research agenda for re for self-adaptive systems, 236, 2010-09-27 00:00:00
+
+Requirements reflection: requirements as runtime entities, 145, 2010-05-01 00:00:00
+
+A sense of community: A research agenda for software ecosystems, 469, 2009-05-16 00:00:00
+
+Consistency management with repair actions, 209, 2003-05-03 00:00:00
+
+xlinkit: A consistency checking and smart link generation service, 326, 2002-05-01 00:00:00
+
+Software engineering: a roadmap, 94, 2000-05-01 00:00:00
+
+Stakeholder identification in the requirements engineering process, 356, 1999-09-01 00:00:00
+
+A comedy of errors: the London Ambulance Service case study, 227, 1996-03-22 00:00:00
+
+Contribution structures [Requirements artifacts], 81, 1995-03-27 00:00:00
+
+A framework for expressing the relationships between multiple views in requirements specification, 699, 1994-10-01 00:00:00
+
+Software process modelling and technology, 202, 1994-10-01 00:00:00
+
+An analysis of the requirements traceability problem, 1442, 1994-04-18 00:00:00
+
+Viewpoints: A framework for integrating multiple perspectives in system development, 653, 1992-03-01 00:00:00
+
+ISPW-6 software process example, 113, 1991-10-21 00:00:00
+

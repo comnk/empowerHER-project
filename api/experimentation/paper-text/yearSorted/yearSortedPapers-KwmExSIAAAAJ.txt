@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+A history of graph entropy measures, 474, None
+
+The conquest of will: Information processing in human affairs, 102, None
+
+Social dimensions of office automation, 94, None
+
+Assessing bias in search engines, 82, None
+
+A dynamic distributed federated database, 6, None
+
+Measuring search engine bias, 0, None
+
+Bias on the Web, 2, 2023-11-30 00:00:00
+
+Virtual organization, 15, 2021-09-09 00:00:00
+
+Entropy and the complexity of graphs revisited, 180, 2012-03-14 00:00:00
+
+The switching principle in virtual organization, 0, 2003-12-01 00:00:00
+
+Virtual organization: Toward a theory of societal transformation stimulated by information technology, 204, 2003-05-01 00:00:00
+
+On the theory of virtual organization, 103, 1997-11-01 00:00:00
+
+Virtual organization: A vision of management in the information age, 225, 1994-10-01 00:00:00
+
+On the market value of information commodities: III. Demand price, 23, 1992-04-01 00:00:00
+
+The characteristic polynomial of a graph, 103, 1972-04-01 00:00:00
+
+Cospectral graphs and digraphs, 104, 1971-11-01 00:00:00
+
+Entropy and the complexity of graphs: IV. Entropy measures and graphical structure, 80, 1968-12-01 00:00:00
+
+Entropy and the complexity of graphs: III. Graphs with prescribed information content, 79, 1968-09-01 00:00:00
+
+Entropy and the complexity of graphs: II. The information content of digraphs and infinite graphs, 97, 1968-06-01 00:00:00
+
+Entropy and the complexity of graphs: I. An index of the relative complexity of a graph, 307, 1968-03-01 00:00:00
+

@@ -1,0 +1,37 @@
+Paper Name, Citations, Publication Date
+Qapla: Policy compliance for database-backed systems, 40, None
+
+Guardat: A foundation for policy-protected data, 3, None
+
+Ensuring compliance with data privacy and usage policies in online services, 0, None
+
+LDPKiT: Recovering Utility in LDP Schemes by Training with Noise^ 2, 0, 2024-05-25 00:00:00
+
+Stream Processing with Adaptive Edge-Enhanced Confidential Computing, 0, 2024-04-22 00:00:00
+
+ICS-Sniper: A Targeted Blackhole Attack on Encrypted ICS Traffic, 0, 2023-12-11 00:00:00
+
+NetShaper: A Differentially Private Network Side-Channel Mitigation System, 1, 2023-10-10 00:00:00
+
+Listening to Bluetooth beacons for epidemic risk mitigation, 9, 2021-01-20 00:00:00
+
+PanCast: Listening to Bluetooth Beacons for Epidemic Risk Mitigation, 8, 2020-11-16 00:00:00
+
+Reconciling Security and Utility in Next-Generation Epidemic Risk Mitigation Systems, 0, 2020-11-16 00:00:00
+
+Pacer: Comprehensive Network {Side-Channel} Mitigation in the Cloud, 3, 2019-08-30 00:00:00
+
+Privacy-preserving machine learning, 1580, 2017-05-22 00:00:00
+
+Oblivious {Multi-Party} machine learning on trusted processors, 512, 2016-08-10 00:00:00
+
+Thoth: Comprehensive policy compliance in data retrieval systems, 27, 2016-08-10 00:00:00
+
+SGX-enabled oblivious machine learning, 6, 2016-08-10 00:00:00
+
+T3: Comprehensive policy compliance in data retrieval systems, 27, 2016-08-10 00:00:00
+
+Guardat: Enforcing data policies at the storage layer, 30, 2015-04-17 00:00:00
+
+Guardat: A foundation for policy-protected persistent data, -1, 
+

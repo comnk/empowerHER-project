@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Factors influencing players’ susceptibility to social engineering in social gaming networks, 10, None
+
+The impact of source characteristics on users' susceptibility to social engineering Victimization in social networks, 2, None
+
+Character-level word encoding deep learning model for combating cyber threats in phishing URL detection, 18, 2022-05-01 00:00:00
+
+A survey and classification of security and privacy research in smart healthcare systems, 54, 2019-07-25 00:00:00
+
+What message characteristics make social engineering successful on Facebook: The role of central route, peripheral route, and perceived risk, 11, 2019-06-13 00:00:00
+
+Sources of recruitment at foreign commercial banks in Jordan and their impact on the job performance proficiency, 12, 2018-06-08 00:00:00
+
+Location privacy in smart cities era, 25, 2017-11-27 00:00:00
+
+A framework for faster porting of scientific applications between heterogeneous clouds, 6, 2017-11-27 00:00:00
+
+Toward predicting susceptibility to phishing victimization on Facebook, 11, 2016-06-01 00:00:00
+
+Measuring source credibility of social engineering attackers on Facebook, 8, 2016-01-05 00:00:00
+
+Population-based guided local search for multidimensional Knapsack problem, 3, 2015-07-29 00:00:00
+
+Feature Selection and Term Weighting, 3, 2014-08-11 00:00:00
+
+Social engineering in social networking sites: the art of impersonation, 27, 2014-06-27 00:00:00
+
+SOCIAL  ENGINEERING IN SOCIAL NETWORKING SITES: HOW GOOD BECOMES EVIL, 14, 2014-06-24 00:00:00
+
+Software vulnerability markets: Discoverers and buyers, 55, 2014-02-03 00:00:00
+
+Social engineering in social networking sites: Affect-based model, 38, 2013-12-01 00:00:00
+
+Social engineering in social networking sites: Phase-based and source-based models, 17, 2013-12-01 00:00:00
+
+Toward understanding social engineering, 9, 2013-11-01 00:00:00
+
+An empirical study on the susceptibility to social engineering in social networking sites: the case of Facebook, -1, 
+
+Smart Societies, Infrastructure, Technologies and Applications: First International Conference, SCITA 2017, Jeddah, Saudi Arabia, November 27–29, 2017, Proceedings, -1, 
+

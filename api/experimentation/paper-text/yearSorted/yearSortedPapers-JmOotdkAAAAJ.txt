@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+σ-Galois theory of linear difference equations, 28, None
+
+Parameter identifiability and input-output equations, 14, 2020-07-28 00:00:00
+
+Computing all identifiable functions of parameters for ODE models, 21, 2020-04-16 00:00:00
+
+Input-output equations and identifiability of linear ODE models, 12, 2019-10-09 00:00:00
+
+SIAN: software for structural identifiability analysis of ODE models, 74, 2018-12-26 00:00:00
+
+Global Identifiability of Differential Models, 56, 2018-01-24 00:00:00
+
+Bounds for elimination of unknowns in systems of differential-algebraic equations, 10, 2016-10-13 00:00:00
+
+New effective differential Nullstellensatz, 26, 2014-11-04 00:00:00
+
+Reductive linear differential algebraic groups and the Galois groups of parameterized linear differential equations, 32, 2013-04-09 00:00:00
+
+Unipotent differential algebraic groups as parameterized differential Galois groups, 33, 2013-01-01 00:00:00
+
+Isomonodromic differential equations and differential categories, 27, 2012-02-05 00:00:00
+
+Parameterized Picard--Vessiot extensions and Atiyah extensions, 58, 2011-10-16 00:00:00
+
+Zariski closures of reductive linear differential algebraic groups, 26, 2010-05-01 00:00:00
+
+On the generalized Ritt problem as a computational problem, 15, 2008-09-06 00:00:00
+
+A bound for the Rosenfeld–Gröbner algorithm, 18, 2008-08-01 00:00:00
+
+Differential tannakian categories, 24, 2008-07-16 00:00:00
+
+A bound for orders in differential Nullstellensatz, 45, 2008-03-03 00:00:00
+
+Tannakian categories, linear differential algebraic groups, and parametrized linear differential equations, 30, 2007-03-14 00:00:00
+
+Tannakian approach to linear differential algebraic groups, 33, 2007-02-27 00:00:00
+
+Classification and applications of monomial orderings and the properties of differential orderings, -1, 
+

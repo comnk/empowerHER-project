@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Incremental eigenanalysis for classification., 261, None
+
+A Hierarchical Model of Dynamics for Tracking People with a Single Video Camera., 111, None
+
+Detecting violent and abnormal crowd activity using temporal analysis of grey level co-occurrence matrix (GLCM)-based texture measures, 110, None
+
+Data reduction for reverse engineering, 27, None
+
+Data reduction forreverse engineering, 0, 2024-07-01 00:00:00
+
+Registration of 3D point clouds and meshes: a survey from rigid to nonrigid, 643, 2013-07-01 00:00:00
+
+A pitfall in the reconstruction of fibre ODFs using spherical deconvolution of diffusion MRI data, 114, 2013-01-01 00:00:00
+
+Automated choroidal segmentation of 1060 nm OCT in healthy and pathologic eyes using a statistical model, 125, 2011-12-12 00:00:00
+
+Robust segmentation of intraretinal layers in the normal human fovea using a novel statistical model based on texture and shape analysis, 139, 2010-06-24 00:00:00
+
+Effects of dynamic attributes of smiles in human and synthetic faces: A simulated job interview setting, 90, 2009-03-01 00:00:00
+
+Facial dynamics as indicators of trustworthiness and cooperative behavior., 412, 2007-11-01 00:00:00
+
+Selection of the optimal parameter value for the Isomap algorithm, 134, 2006-07-01 00:00:00
+
+Choosing consistent constraints for beautification of reverse engineered geometric models, 66, 2004-03-01 00:00:00
+
+Adding and subtracting eigenspaces with eigenvalue decomposition and singular value decomposition, 65, 2002-12-01 00:00:00
+
+On the extended depth of focus algorithms for bright field microscopy, 122, 2001-08-01 00:00:00
+
+An expert system for multi-criteria decision making using Dempster Shafer theory, 206, 2001-05-01 00:00:00
+
+Robust segmentation of primitives from range data in the presence of geometric degeneracy, 198, 2001-03-01 00:00:00
+
+Merging and splitting eigenspace models, 267, 2000-09-01 00:00:00
+
+Faithful least-squares fitting of spheres, cylinders, cones and tori for reliable segmentation, 238, 1998-06-02 00:00:00
+
+Computer vision, models and inspection, 92, 1992-03-01 00:00:00
+

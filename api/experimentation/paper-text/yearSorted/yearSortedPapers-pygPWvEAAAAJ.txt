@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+SDD: A new canonical representation of propositional knowledge bases, 316, None
+
+Bayesian networks, 4897, None
+
+Decomposable negation normal form, 0, 2024-03-24 00:00:00
+
+Recursive conditioning, 6, 2019-05-01 00:00:00
+
+A symbolic approach to explaining bayesian network classifiers, 204, 2018-05-09 00:00:00
+
+Probabilistic sentential decision diagrams, 164, 2014-06-01 00:00:00
+
+Complexity results and approximation strategies for MAP explanations, 221, 2011-06-30 00:00:00
+
+On the power of clause-learning SAT solvers as resolution engines, 156, 2011-02-01 00:00:00
+
+Modeling and reasoning with Bayesian networks, 155, 2010-02-01 00:00:00
+
+On probabilistic inference by weighted model counting, 388, 2008-04-01 00:00:00
+
+A lightweight component caching scheme for satisfiability solvers, 254, 2007-05-28 00:00:00
+
+Compiling Bayesian networks with local structure, 171, 2005-07-30 00:00:00
+
+New advances in compiling CNF to decomposable negation normal form, 283, 2004-08-22 00:00:00
+
+A knowledge compilation map, 873, 2002-07-01 00:00:00
+
+On the tractable counting of theory models and its application to truth maintenance and belief revision, 182, 2001-01-01 00:00:00
+
+A differential approach to inference in Bayesian networks, 600, 2000-06-30 00:00:00
+
+Model-based diagnosis using structured system descriptions, 164, 1998-05-31 00:00:00
+
+Inference in belief networks: A procedural guide, 524, 1996-10-01 00:00:00
+
+On the logic of iterated belief revision, 677, 1994-03-13 00:00:00
+
+OARPLAN: Generating project plans by reasoning about objects, actions and resources, 120, 1988-08-01 00:00:00
+

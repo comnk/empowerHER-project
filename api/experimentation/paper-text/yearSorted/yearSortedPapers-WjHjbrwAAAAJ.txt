@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Mathematics for machine learning, 339, 2020-02-01 00:00:00
+
+Dot-to-dot: Explainable hierarchical reinforcement learning for robotic manipulation, 60, 2019-04-14 00:00:00
+
+Guidelines for reinforcement learning in healthcare, 314, 2019-01-01 00:00:00
+
+Improving sepsis treatment strategies by combining deep and kernel-based reinforcement learning, 75, 2018-12-05 00:00:00
+
+The artificial intelligence clinician learns optimal treatment strategies for sepsis in intensive care, 781, 2018-10-22 00:00:00
+
+Evaluating reinforcement learning algorithms in observational health settings, 120, 2018-05-31 00:00:00
+
+Gaussian process autoregression for simultaneous proportional multi-modal prosthetic control with natural hand kinematics, 69, 2017-08-31 00:00:00
+
+Detecting knee osteoarthritis and its discriminating parameters using random forests, 75, 2017-05-01 00:00:00
+
+Neurocognitive barriers to the embodiment of technology, 121, 2017-01-01 00:00:00
+
+Internal states drive nutrient homeostasis by modulating exploration-exploitation trade-off, 100, 2016-08-17 00:00:00
+
+The Automatic Neuroscientist: A framework for optimizing experimental design with closed-loop real-time fMRI, 79, 2015-06-05 00:00:00
+
+Acquisition of Paleolithic toolmaking abilities involves structural remodeling to inferior frontoparietal regions, 131, 2014-05-25 00:00:00
+
+The use of reinforcement learning algorithms to meet the challenges of an artificial pancreas, 105, 2013-08-23 00:00:00
+
+The effect of cell size and channel density on neuronal information encoding and energy efficiency, 81, 2013-06-19 00:00:00
+
+Ultra-low-cost 3D gaze estimation: an intuitive high information throughput compliment to direct brain–machine interfaces, 80, 2012-08-01 00:00:00
+
+The manipulative complexity of Lower Paleolithic stone toolmaking, 147, 2010-11-03 00:00:00
+
+Near optimal combination of sensory and motor uncertainty in time during a naturalistic perception-action task, 121, 2008-12-24 00:00:00
+
+Noise in the nervous system, 1355, 2008-04-01 00:00:00
+
+Stochastic simulations on the reliability of action potential propagation in thin axons, 154, 2007-05-01 00:00:00
+
+Ion-channel noise places limits on the miniaturization of the brain’s wiring, 208, 2005-06-21 00:00:00
+

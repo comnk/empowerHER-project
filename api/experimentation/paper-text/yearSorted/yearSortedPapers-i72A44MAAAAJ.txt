@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+SLA based service brokering in intercloud environments, 74, None
+
+Interoperation of world‐wide production e‐Science infrastructures, 65, None
+
+A utility–based approach for customised cloud service selection, 29, None
+
+The repository chemotion: infrastructure for sustainable research in chemistry, 21, 2020-04-27 00:00:00
+
+Evaluating the performance and scalability of the Ceph distributed storage system, 30, 2014-10-01 00:00:00
+
+A security framework in G-Hadoop for big data computing across distributed Cloud data centres, 127, 2014-08-01 00:00:00
+
+Load and thermal-aware VM scheduling on the cloud, 49, 2013-12-18 00:00:00
+
+A broker-based framework for multi-cloud workflows, 42, 2013-04-22 00:00:00
+
+G-Hadoop: MapReduce across distributed data centers for data-intensive computing, 326, 2013-03-01 00:00:00
+
+MapReduce across distributed clusters for data-intensive applications, 40, 2012-05-21 00:00:00
+
+UNICORE 6—recent and future advancements, 98, 2010-09-21 00:00:00
+
+Research advances by using interoperable e-science infrastructures: the infrastructure interoperability reference model applied in e-science, 30, 2009-12-01 00:00:00
+
+Classification of different approaches for e-science applications in next generation computing infrastructures, 29, 2008-12-07 00:00:00
+
+Improving e-Science with Interoperability of the e-Infrastructures EGEE and DEISA, 32, 2008-05-01 00:00:00
+
+UNICORE—from project results to production grids, 98, 2005-02-24 00:00:00
+
+Scheduling in HPC resource management systems: Queuing vs. planning, 160, 2003-06-24 00:00:00
+
+Enhanced algorithms for multi-site scheduling, 72, 2002-11-18 00:00:00
+
+On advantages of grid computing for parallel job scheduling, 212, 2002-05-21 00:00:00
+
+Evaluation of job-scheduling strategies for grid computing, 346, 2000-12-17 00:00:00
+
+Robust resource management for metacomputers, 33, 2000-08-01 00:00:00
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Surface capture for performance-based animation, 502, None
+
+Multi-person 3d pose estimation and tracking in sports, 92, 2019-06-01 00:00:00
+
+Total capture: 3D human pose estimation fusing video and inertial sensors., 234, 2017-09-07 00:00:00
+
+Computer vision for sports: Current applications and research topics, 178, 2017-06-01 00:00:00
+
+4d video textures for interactive character appearance, 95, 2014-05-01 00:00:00
+
+Visual analysis of humans, 209, 2013-11-30 00:00:00
+
+A FACS valid 3D dynamic action unit database with applications to 3D dynamic morphable facial modeling, 155, 2011-11-06 00:00:00
+
+Joint multi-layer segmentation and reconstruction for free-viewpoint video applications, 95, 2011-05-01 00:00:00
+
+Shape similarity for 3D video sequences of people, 101, 2010-09-01 00:00:00
+
+The i3dpost multi-view and 3d human action/interaction database, 183, 2009-11-12 00:00:00
+
+Correspondence labelling for wide-timeframe free-form surface matching, 116, 2007-12-26 00:00:00
+
+A survey of advances in vision-based human motion capture and analysis, 2888, 2006-11-01 00:00:00
+
+3D assisted face recognition: A survey of 3D imaging, modelling and recognition approachest, 104, 2005-06-20 00:00:00
+
+Model-based multiple view reconstruction of people, 170, 2003-10-13 00:00:00
+
+Realistic synthesis of novel human movements from a database of motion capture examples, 165, 2000-12-07 00:00:00
+
+Whole-body modelling of people from multiview images to populate virtual worlds, 115, 2000-11-01 00:00:00
+
+Virtual people: Capturing human models to populate virtual worlds, 152, 1999-05-26 00:00:00
+
+Marching triangles: range image fusion for complex object modelling, 169, 1996-09-16 00:00:00
+
+Registration of multiple point sets, 136, 1996-08-25 00:00:00
+
+Reliable surface reconstruction from multiple range images, 225, 1996-04-15 00:00:00
+

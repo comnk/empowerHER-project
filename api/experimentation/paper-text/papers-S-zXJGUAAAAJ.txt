@@ -1,60 +1,42 @@
-Subtyping dependent types
-The need for subtyping in type-systems with dependent types has been realized for some years. But it is hard to prove that systems combining the two features have fundamental properties such as subject reduction. Here we investigate a subtyping extension of the system /spl lambda/P, which is an abstract version of the type system of the Edinburgh Logical Framework LF. By using an equivalent formulation, we establish some important properties of the new system /spl lambda/P/sub /spl les//, including subject reduction. Our analysis culminates in a complete and terminating algorithm which establishes the decidability of type-checking.
+Paper Name, Citations, Publication Date
+Subtyping dependent types, 109, 1996-07-27 00:00:00
 
-Multipoint session types for a distributed calculus
-Correspondence assertions for process synchronization in concurrent communications
-High-level specification of patterns of communications such as protocols can be modeled elegantly by means of session types [HVK98]. However, a number of examples suggest that session types fall short when finer precision on protocol specification is required. In order to increase the expressiveness of session types we appeal to the theory of correspondence assertions [CM98, GJ01b]. The resulting type discipline augments the types of long term channels with effects and thus yields types which may depend on messages read or written earlier within the same session. We prove that evaluation preserves typability and that well-typed processes are safe. Also, we illustrate how the resulting theory allows us to address the shortcomings present in the pure theory of session types. ∗An extended abstract of this work was presented at the FOCLASA 2003 workshop. †This work was supported in part by the NSF Grant No. CCR-0220286 ITR:Secure Electronic Transactions and by the ARO under Award No. DAAD-19-01-1-0473 ‡Faculty of Informatics, University of La Plata, La Plata, Argentina.
+Multipoint session types for a distributed calculus, 67, 2007-11-05 00:00:00
 
-Higher-order intersection types and multiple inheritance
-We study a natural generalization of System Fω with intersection types, establishing basic structural properties and constructing a semantic model based on partial equivalence relations to prove the soundness of typing. As an application of this calculus, we define a simple typed model of object-oriented programming with multiple inheritance.
+Correspondence assertions for process synchronization in concurrent communications, 64, None
 
-Higher-order subtyping with intersection types
-Acknowledgements Mariangiola Dezani is the most encouraging and enthusiastic computer scientist I have ever met. From her I learned to trust my intuition and follow it through to the very end. This research would not have been possible without her technical supervision and moral support. I would also like to thank my supervisor, Henk Barendregt. His lucid lectures on-calculus, his ability to hide irrelevant details, the clarity of his explanations, and his elegant technical prose have been constant guides. I thank the people in the Netherlands, especially Erik Barendsen and Jan Ku-per, for their help and friendship, and Steeen van Bakel and Paula Severi, for their comments on previous drafts of this thesis. Mieke Massink and Maria Fernn andez Ferreira started as colleagues and soon became two of my dearest friends. I am grateful to Benjamin Pierce, who suggested the study of a-calculus combining higher-order polymorphism and intersection types. He and I deened the system F ! ^ , whose study is, by and large, the theme of this thesis; together we wrote CP93], from which chapters 5 and 6 arose. His fertile mind and his passion for hard work make him inspiring company. I am indebted to Rod Burstall, who opened to me the doors of the Laboratory for Foundations of Computer Science. There I found a highly motivating research environment where I developed most of the results in this thesis, and a handful of friends who made my life in Edinburgh a beautifully rich experience. I enjoyed technical discussions with special thanks to Healfdene Goguen for many helpful comments on draft versions of this thesis. It has been an honour to have Jan Willem Klop, Giuseppe Longo, and Rob Nederpelt as members of the manuscript commission. From my watercolor teacher, Joost van Moll, I learned a technique which actually changed my way of doing research; it consists of carefully examining what has been done, learning from the successful ideas, and being brave enough to start over again regardless of the time invested in the previous try. In the non-academic world, I want to thank my parents, Mario Compagnoni and Susana Brunsch, for their unconditional love. I want to mention (in the order in which they appeared in my life)
+Higher-order intersection types and multiple inheritance, 50, 1996-10-01 00:00:00
 
-Heap-bounded assembly language
-Typed operational semantics for higher-order subtyping
-BASS: Boxed ambients with safe sessions
-We define BASS, a typed boxed ambients calculus with safe sessions. Sessions offer the possibility of using the same channel to transmit information of different types in a prescribed order. A session involves two communicating processes located either within the same ambient or across an ambient boundary. One of the challenges of adding session primitives to a mobile calculus is how to protect sessions from being interrupted by a mobility step. To address this challenge, we introduce a mechanism that prevents an ambient from moving, if there are pending sessions across its boundaryThe main result of our development is that in a well-typed process a communication redex never disappears after a mobility step. In other words, the residual of a communication redex is present in the reduct of the original process enabling a pending session step to be completed. Therefore, we claim that sessions in our calculus are safe.
+BASS: Boxed ambients with safe sessions, 49, 2006-07-10 00:00:00
 
-A typed assembly language for non-interference
-Decidability of higher-order subtyping with intersection types
-Role-based access control for boxed ambients
-Typechecking safe process synchronization
-Multiple inheritance via intersection types
-We present FJ&$\lambda$, a new core calculus that extends Featherweight Java
-(FJ) with interfaces, supporting multiple inheritance in a restricted form,
-$\lambda$-expressions, and intersection types. Our main goal is to formalise
-how lambdas and intersection types are grafted on Java 8, by studying their
-properties in a formal setting. We show how intersection types play a
-significant role in several cases, in particular in the typecast of a
-$\lambda$-expression and in the typing of conditional expressions. We also
-embody interface \emph{default methods} in FJ&$\lambda$, since they increase
-the dynamism of $\lambda$-expressions, by allowing these methods to be called
-on $\lambda$-expressions.
- The crucial point in Java 8 and in our calculus is that $\lambda$-expressions
-can have various types according to the context requirements (target types):
-indeed, Java code does not compile when $\lambda$-expressions come without
-target types. In particular, in the operational semantics we must record target
-types by decorating $\lambda$-expressions, otherwise they would be lost in the
-runtime expressions.
- We prove the subject reduction property and progress for the resulting
-calculus, and we give a type inference algorithm that returns the type of a
-given program if it is well typed. The design of FJ&$\lambda$ has been driven
-by the aim of making it a subset of Java 8, while preserving the elegance and
-compactness of FJ. Indeed, FJ&$\lambda$ programs are typed and behave the same
-as Java programs.
+Higher-order subtyping with intersection types, 41, None
 
-Subtyping for object type constructors
-Object type constructors have been introduced as an approach to adding container object types to a language with type inference. Useful subtyping for object type constructors requires a flexible subtype rule for type constructors that is not simply the pointwise extension of subtyping for types. At the same time, subtyping should avoid requiring run-time type checks, as in the Java subtype rule for arrays. An extension of object type constructors is considered to allow this subtyping, extending the kinds of object type constructors with polarities that allow this subtyping without jeopardizing soundness.
+Heap-bounded assembly language, 36, 2004-01-15 00:00:00
 
-Subtyping in F is Decidable
-Bioscape: A modeling and simulation language for bacteria-materials interactions
-Information flow analysis for a typed assembly language with polymorphic stacks
-Boxed ambients with communication interfaces
-Subject reduction and minimal types for higher order subtyping
-We define the typed lambda calculus Fω ∧ , a natural generalization of Girard’s system F with intersection types and bounded polymorphism. A novel aspect of our presentation is the use of term rewriting techniques to present intersection types, which clearly splits the computational semantics (reduction rules) from the syntax (inference rules) of the system. We establish properties such as Church-Rosser for the reduction relation on types and terms, and Strong Normalization for the reduction on types. We prove that types are preserved by computation (Subject Reduction property), and that the system satisfies the Minimal Types property. On the way to establishing these results, we define algorithms for type inference and subtype checking.
+Decidability of higher-order subtyping with intersection types, 35, 1994-09-25 00:00:00
 
-Non-interference for a typed assembly language
-Non-interference is a desirable property of systems in a mul tilevel security architecture, stating that confidential information is not disclosed in public output. The c hallenge of studying information flow for assembly languages is that the control flow constructs that guide the a nalysis in high-level languages are not present. To address this problem, we define a typed assembly language t h t uses pseudo-instructions to impose a stack discipline on the control flow of programs. We develop a type s ystem for checking that assembly programs enjoy non-interference and its proof of soundness.
+Typed operational semantics for higher-order subtyping, 30, 2003-08-01 00:00:00
+
+A typed assembly language for non-interference, 25, 2005-10-12 00:00:00
+
+Typechecking safe process synchronization, 25, 2005-09-01 00:00:00
+
+Multiple inheritance via intersection types, 21, 2018-01-15 00:00:00
+
+Role-based access control for boxed ambients, 18, 2008-05-20 00:00:00
+
+Boxed ambients with communication interfaces, 15, None
+
+Subtyping for object type constructors, 13, None
+
+Bioscape: A modeling and simulation language for bacteria-materials interactions, 11, 2013-03-01 00:00:00
+
+Subject reduction and minimal types for higher order subtyping, 11, None
+
+Information flow analysis for a typed assembly language with polymorphic stacks, 10, 2005-03-08 00:00:00
+
+Non-interference for a typed assembly language, 10, None
+
+Subtyping in F is Decidable, -1, 
 
 DONE

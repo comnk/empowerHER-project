@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Completeness results for basic narrowing, 45, None
+
+Tyrolean termination tool 2, 117, None
+
+Dependency pairs revisited, 5, None
+
+Call by need computations to root-stable form, 76, None
+
+Transformation techniques for context-sensitive rewrite systems, 96, None
+
+Modular aspects of properties of term rewriting systems related to normal forms, 52, None
+
+Counterexamples to completeness results for basic narrowing, 38, None
+
+CSI–A confluence tool, 45, 2011-07-31 00:00:00
+
+Satisfiability of non-linear (ir) rational arithmetic, 60, 2010-04-25 00:00:00
+
+SAT solving for termination analysis with polynomial interpretations, 171, 2007-05-28 00:00:00
+
+Tyrolean termination tool: Techniques and features, 120, 2007-04-01 00:00:00
+
+Automating the dependency pair method, 142, 2005-05-25 00:00:00
+
+A deterministic lazy narrowing calculus, 38, 1998-06-01 00:00:00
+
+Simple termination of rewrite systems, 53, 1997-03-30 00:00:00
+
+Modular properties of term rewriting systems, 80, 1995-07-01 00:00:00
+
+Lazy narrowing: Strong completeness and eager variable elimination, 80, 1995-05-22 00:00:00
+
+Level-confluence of conditional rewrite systems with extra variables in right-hand sides, 43, 1995-04-05 00:00:00
+
+Sequentiality in orthogonal term rewriting systems, 100, 1991-08-01 00:00:00
+
+Completeness of combinations of constructor systems, 73, 1991-04-10 00:00:00
+
+A sufficient condition for the termination of the direct sum of term rewriting systems, 60, 1989-06-05 00:00:00
+

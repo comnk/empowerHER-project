@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Dynamic activity recommendation system, 1, None
+
+Detection of Sleep Oxygen Desaturations from Electroencephalogram Signals, 0, 2024-05-08 00:00:00
+
+0316 Real-time Detection of Oxygen Desaturation Using Electroencephalogram Signals, 0, 2024-04-20 00:00:00
+
+Exploring Sleep Disturbance in Central Nervous System Disorders, 0, 2023-12-05 00:00:00
+
+Investigating social interaction patterns with depression severity across different personality traits using digital phenotyping, 0, 2023-09-10 00:00:00
+
+Modeling Messaging Metadata to Identify Digital Disagreements among Non-incarcerated Adolescents in the Juvenile Justice System, 0, 2023-09-10 00:00:00
+
+Topological Data Analysis of Electroencephalogram Signals for Pediatric Obstructive Sleep Apnea, 1, 2023-04-28 00:00:00
+
+Machine learning assisted satellite based positioning, 1, 2022-09-05 00:00:00
+
+Machine learning assisted satellite based positioning, 1, 2022-09-05 00:00:00
+
+Measuring the effects of sleep on epileptogenicity with multifrequency entropy, 6, 2021-06-11 00:00:00
+
+Measuring real-time medication effects from electroencephalography, 1, 2020-12-07 00:00:00
+
+Nonlinear Analysis of Visually Normal EEGs to Differentiate Benign Childhood Epilepsy with Centrotemporal Spikes, 12, 2020-05-21 00:00:00
+
+Benchmark on a large cohort for sleep-wake classification with machine learning techniques, 69, 2019-06-07 00:00:00
+
+Computational sleep science: Machine learning for the detection, diagnosis, and treatment of sleep problems from wearable device data, 1, 2017-12-01 00:00:00
+
+The science of sweet dreams: predicting sleep efficiency from wearable device data, 30, 2017-03-01 00:00:00
+
+Sleep quality prediction from wearable data using deep learning, 180, 2016-07-24 00:00:00
+
+Robust automated human activity recognition and its application to sleep research, 17, 2016-07-02 00:00:00
+
+Clinical decision making: A framework for predicting rx response, 5, 2014-12-01 00:00:00
+
+Impact of physical activity on sleep: A deep learning based exploration, -1, 
+
+Exploring Sleep Disturbance in Central Nervous System Disorders: Proceedings of a Workshop, -1, 
+

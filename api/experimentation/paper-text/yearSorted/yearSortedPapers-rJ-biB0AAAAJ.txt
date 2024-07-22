@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+On the degrees of freedom of X channel with delayed CSIT, 109, None
+
+X-MIMO systems with multi-transmitters and multi-receivers, 0, 2024-04-23 00:00:00
+
+Communication over X channel: Signalling and multiplexing gain, 0, 2021-10-20 00:00:00
+
+Multi-server coded caching, 211, 2015-03-01 00:00:00
+
+On the capacity of the half-duplex diamond channel, 53, 2014-04-22 00:00:00
+
+Information theory of DNA shotgun sequencing, 108, 2012-03-28 00:00:00
+
+Interference alignment for the MIMO interference channel with delayed local CSIT, 142, 2011-02-28 00:00:00
+
+Relay-aided interference alignment for the quasi-static interference channel, 51, 2010-06-13 00:00:00
+
+Signal space cooperative communication, 51, 2010-04-01 00:00:00
+
+On the secure degrees-of-freedom of the multiple-access-channel, 47, 2010-03-03 00:00:00
+
+Interference alignment for the K user MIMO interference channel, 149, 2009-09-25 00:00:00
+
+Real interference alignment: Exploiting the potential of single antenna systems, 302, 2009-08-17 00:00:00
+
+Forming pseudo-mimo by embedding infinite rational dimensions along a single real line: Removing barriers in achieving the dofs of single antenna systems, 29, 2009-08-17 00:00:00
+
+Relay-aided interference alignment for the quasi-static X channel, 45, 2009-06-28 00:00:00
+
+The secrecy capacity region of the Gaussian MIMO broadcast channel, 49, 2009-03-19 00:00:00
+
+Secure broadcasting: The secrecy rate region, 39, 2008-09-01 00:00:00
+
+Communication over MIMO X channels: Interference alignment, decomposition, and performance analysis, 1000, 2008-08-01 00:00:00
+
+The secrecy rate region of the broadcast channel, 33, 2008-06-25 00:00:00
+
+Capacity bounds for the Gaussian interference channel, 461, 2008-01-08 00:00:00
+
+Signaling over MIMO multi-base systems: Combination of multi-access and broadcast schemes, 225, 2006-07-09 00:00:00
+

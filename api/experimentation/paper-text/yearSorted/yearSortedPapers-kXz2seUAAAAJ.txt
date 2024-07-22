@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors, 39, 2023-06-29 00:00:00
+
+Generating High-Precision Feedback for Programming Syntax Errors using Large Language Models, 27, 2023-01-24 00:00:00
+
+Policy Teaching via Environment Poisoning: Training-time Adversarial Attacks against Reinforcement Learning, 111, 2020-03-28 00:00:00
+
+Adaptive Reward-Poisoning Attacks against Reinforcement Learning, 110, 2020-03-27 00:00:00
+
+Interactive Teaching Algorithms for Inverse Reinforcement Learning, 62, 2019-05-28 00:00:00
+
+On the fairness of time-critical influence maximization in social networks, 35, 2019-05-16 00:00:00
+
+Teaching inverse reinforcement learners via features and demonstrations, 49, 2018-10-21 00:00:00
+
+A Unified Approach to Quantifying Algorithmic Unfairness: Measuring Individual & Group Unfairness via Inequality Indices, 233, 2018-07-02 00:00:00
+
+An Overview of Machine Teaching, 162, 2018-01-18 00:00:00
+
+Fake News Detection in Social Networks via Crowd Signals, 213, 2017-11-24 00:00:00
+
+Selecting Sequences of Items via Submodular Maximization., 49, 2017-02-04 00:00:00
+
+Noisy Submodular Maximization via Adaptive Sampling with Applications to Crowdsourced Image Collection Summarization., 60, 2015-11-23 00:00:00
+
+Incentivizing Users for Balancing Bike Sharing Systems., 198, 2015-01-25 00:00:00
+
+Quantifying web-search privacy, 53, 2014-11-03 00:00:00
+
+Mechanism design for crowdsourcing markets with heterogeneous tasks, 58, 2014-09-05 00:00:00
+
+Allocating tasks to workers with matching constraints: truthful mechanisms for crowdsourcing markets, 51, 2014-04-07 00:00:00
+
+Near-Optimally Teaching the Crowd to Classify., 121, 2014-02-10 00:00:00
+
+Incentives for privacy tradeoff in community sensing, 74, 2013-08-19 00:00:00
+
+Truthful incentives in crowdsourcing tasks using regret minimization mechanisms, 292, 2013-05-13 00:00:00
+
+Studying trailfinding algorithms for enhanced web search, 61, 2010-07-19 00:00:00
+

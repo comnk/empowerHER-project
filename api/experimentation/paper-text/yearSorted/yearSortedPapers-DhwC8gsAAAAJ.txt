@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Dilated convolution and feature fusion SSD network for small object detection in remote sensing images, 33, None
+
+Wildland fire detection and monitoring using a drone-collected RGB/IR image dataset, 41, 2022-10-11 00:00:00
+
+A review of AI-enabled routing protocols for UAV networks: Trends, challenges, and future outlook, 95, 2021-04-03 00:00:00
+
+Fully-echoed Q-routing with simulated annealing inference for flying adhoc networks, 28, 2021-03-23 00:00:00
+
+Aerial imagery pile burn detection using deep learning: The FLAME dataset, 148, 2020-12-28 00:00:00
+
+Deep DIH: single-shot digital in-line holography reconstruction by deep learning, 23, 2020-04-25 00:00:00
+
+Transfer learning for wildfire identification in UAV imagery, 30, 2020-03-01 00:00:00
+
+Optimizing the age of information for blockchain technology with applications to IoT sensors, 36, 2020-01-01 00:00:00
+
+An autonomous spectrum management scheme for unmanned aerial vehicle networks in disaster relief operations, 39, 2019-11-26 00:00:00
+
+Fire frontline monitoring by enabling uav-based virtual reality with adaptive imaging rate, 24, 2019-11-01 00:00:00
+
+Smart heart monitoring: Early prediction of heart problems through predictive analysis of ECG signals, 40, 2019-08-27 00:00:00
+
+Wildfire monitoring in remote areas using autonomous unmanned aerial vehicles, 54, 2019-04-01 00:00:00
+
+An energy efficient framework for UAV-assisted millimeter wave 5G heterogeneous cellular networks, 81, 2019-01-10 00:00:00
+
+ECGNET: Learning where to attend for detection of atrial fibrillation with deep visual attention, 45, 2018-12-09 00:00:00
+
+Distributed cooperative spectrum sharing in UAV networks using multi-agent reinforcement learning, 67, 2018-11-13 00:00:00
+
+A unified framework for joint mobility prediction and object profiling of drones in UAV networks, 37, 2018-07-31 00:00:00
+
+A coalition formation approach to coordinated task allocation in heterogeneous UAV networks, 26, 2017-11-01 00:00:00
+
+Predictive routing for dynamic UAV networks, 36, 2017-10-01 00:00:00
+
+Maximizing energy efficiency of cognitive wireless sensor networks with constrained age of information, 56, 2017-09-05 00:00:00
+
+Content delivery networks: State of the art, trends, and future roadmap, -1, 
+

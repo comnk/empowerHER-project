@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Automated requirements extraction for scientific software, 32, None
+
+User feedback in the app store: a cross-cultural study, 35, 2018-05-27 00:00:00
+
+How do developers discuss rationale?, 52, 2018-03-20 00:00:00
+
+React: An approach for capturing rationale in chat messages, 25, 2017-11-09 00:00:00
+
+A little bird told me: Mining tweets for requirements and software evolution, 100, 2017-09-01 00:00:00
+
+Which feature is unusable? Detecting usability and user experience issues from user reviews, 42, 2017-09-01 00:00:00
+
+An exploratory study of twitter messages about software applications, 51, 2017-07-15 00:00:00
+
+Prioritizing user feedback from twitter: A survey report, 21, 2017-05-20 00:00:00
+
+Rationale in development chat messages: an exploratory study, 62, 2017-04-27 00:00:00
+
+The crowd in requirements engineering: The landscape and challenges, 68, 2017-03-01 00:00:00
+
+Ardoc: App reviews development oriented classifier, 98, 2016-11-01 00:00:00
+
+A needle in a haystack: What do twitter users say about software?, 110, 2016-09-01 00:00:00
+
+Ensemble methods for app review classification: An approach for software evolution (n), 130, 2015-11-09 00:00:00
+
+Retrieving diverse opinions from app reviews, 36, 2015-11-09 00:00:00
+
+How can i improve my app? classifying user reviews for software maintenance and evolution, 411, 2015-09-29 00:00:00
+
+How do users like this feature? a fine grained sentiment analysis of app reviews, 569, 2014-09-29 00:00:00
+
+Fave: Visualizing user feedback for software evolution, 21, 2014-09-29 00:00:00
+
+Sentiment analysis of commit comments in GitHub: an empirical study, 230, 2014-05-31 00:00:00
+
+Visualizing emotions in software development projects, 28, 2013-10-31 00:00:00
+
+Towards emotional awareness in software development teams, 112, 2013-08-18 00:00:00
+

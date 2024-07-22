@@ -1,4 +1,42 @@
-Trust in e-commerce
-Counting and sampling triangles from a graph stream
-This paper presents a new space-efficient algorithm for counting and sampling triangles--and more generally, constant-sized cliques--in a massive graph whose edges arrive as a stream. Compared to prior work, our algorithm yields significant improvements in the space and time complexity for these fundamental problems. Our algorithm is simple to implement and has very good practical performance on large graphs.
+Paper Name, Citations, Publication Date
+Trust in e-commerce, 205, 2018-02-01 00:00:00
 
+Counting and sampling triangles from a graph stream, 189, 2013-09-01 00:00:00
+
+On the hardness of permanent, 71, 1999-03-04 00:00:00
+
+Parallel triangle counting in massive streaming graphs, 50, 2013-08-09 00:00:00
+
+Extracting Kolmogorov complexity with applications to dimension zero-one laws, 40, 2006-07-10 00:00:00
+
+On the NP-completeness of the minimum circuit size problem, 34, None
+
+Autoreducibility, mitoticity, and immunity, 34, 2005-08-29 00:00:00
+
+Range-efficient counting of distinct elements in a massive data stream, 31, 2007-05-01 00:00:00
+
+Space-efficient estimation of statistics over sub-sampled streams, 26, 2012-05-21 00:00:00
+
+Range-efficient computation of F/sub 0/over massive data streams, 26, None
+
+Separation of NP-completeness notions, 24, 2001-06-18 00:00:00
+
+Proving SAT does not have small circuits with an application to the two queries problem, 23, 2003-07-07 00:00:00
+
+New time-space upperbounds for directed reachability in high-genus and h-minor-free graphs, 22, None
+
+An O (n½+?)-Space and Polynomial-Time Algorithm for Directed Planar Reachability, 21, 2013-05-10 00:00:00
+
+Hardness hypotheses, derandomization, and circuit complexity, 19, 2004-12-16 00:00:00
+
+Polylogarithmic-round interactive proofs for coNP collapse the exponential hierarchy, 17, 2004-06-21 00:00:00
+
+Comparing reductions to NP-complete sets, 16, 2006-07-10 00:00:00
+
+Kolmogorov complexity in randomness extraction, 12, 2011-08-01 00:00:00
+
+Properties of NP-complete sets, 10, 2004-06-21 00:00:00
+
+On the power of unambiguity in logspace, -1, 
+
+DONE

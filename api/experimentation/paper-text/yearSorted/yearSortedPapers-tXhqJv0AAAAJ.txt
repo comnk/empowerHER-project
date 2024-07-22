@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Pixelflex2: A comprehensive, automatic, casually-aligned multi-projector display, 73, None
+
+Perceptual photometric seamlessness in projection-based tiled displays, 106, None
+
+Using patterns to encode color information for dichromats, 44, None
+
+Method to smooth photometric variations across multi-projector displays, 1, 2023-05-18 00:00:00
+
+Content‐Independent Multi‐Spectral Display Using Superimposed Projections, 17, 2015-05-01 00:00:00
+
+Fast high-resolution appearance editing using superimposed projections, 79, 2012-04-01 00:00:00
+
+Auto-calibration of cylindrical multi-projector systems, 49, 2010-03-20 00:00:00
+
+Color seamlessness in multi-projector displays using constrained gamut morphing, 60, 2009-11-01 00:00:00
+
+Markerless view-independent registration of multiple distorted projectors on extruded surfaces using an uncalibrated camera, 50, 2009-11-01 00:00:00
+
+Perception-based contrast enhancement of images, 69, 2007-11-01 00:00:00
+
+Registration techniques for using imperfect and par tially calibrated devices in planar multi-projector displays, 46, 2007-11-01 00:00:00
+
+Practical multi-projector display design, 67, 2007-09-06 00:00:00
+
+Asynchronous distributed calibration for scalable and reconfigurable multi-projector displays, 53, 2006-09-01 00:00:00
+
+Contrast enhancement of images using human contrast sensitivity, 35, 2006-07-28 00:00:00
+
+Camera-based calibration techniques for seamless multiprojector displays, 241, 2005-03-01 00:00:00
+
+Color nonuniformity in projection-based displays: Analysis and solutions, 117, 2004-03-01 00:00:00
+
+LAM: Luminance attenuation map for photometric uniformity in projection based displays, 85, 2002-11-11 00:00:00
+
+Hardware accelerated real time charcoal rendering, 50, 2002-06-03 00:00:00
+
+Achieving color uniformity across multi-projector displays, 129, 2000-10-01 00:00:00
+
+Immersive teleconferencing: a new algorithm to generate seamless panoramic video imagery, 59, 1999-10-30 00:00:00
+

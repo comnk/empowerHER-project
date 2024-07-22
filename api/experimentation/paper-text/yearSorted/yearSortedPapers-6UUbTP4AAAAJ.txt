@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Dynamic partial self-reconfiguration on spartan-iii fpgas via a parallel configuration access port (pcap), 32, None
+
+Fractions in the canonical-signed-digit number system, 15, None
+
+Fast and efficient algorithm for the multiplierless realisation of linear DSP transforms, 16, None
+
+Approximate CPU design for IoT end-devices with learning capabilities, 12, 2020-01-09 00:00:00
+
+Designing a Blockchain-based IoT with Ethereum, swarm, and LoRa: the software solution to create high availability with minimal security risks, 111, 2018-09-20 00:00:00
+
+IDMoB: IoT data marketplace on blockchain, 99, 2018-06-01 00:00:00
+
+Integrating low-power IoT devices to a blockchain-based infrastructure: work-in-progress, 64, 2017-10-15 00:00:00
+
+AxleDB: A novel programmable query processing platform on FPGA, 29, 2017-06-01 00:00:00
+
+An efficient mapping algorithm on 2-d mesh network-on-chip with reconfigurable switches, 6, 2016-04-12 00:00:00
+
+High level synthesis based hardware accelerator design for processing SQL queries, 15, 2015-09-08 00:00:00
+
+Application specific multi-port memory customization in FPGAs, 17, 2014-10-20 00:00:00
+
+An efficient heterogeneous register file implementation for FPGAs, 10, 2014-05-19 00:00:00
+
+Efficient implementations of multi-pumped multi-port register files in FPGAs, 26, 2013-09-04 00:00:00
+
+A heterogeneous simulation and modeling framework for automation systems, 7, 2012-11-01 00:00:00
+
+A self-reconfigurable platform for general purpose image processing systems on low-cost spartan-6 FPGAs, 11, 2011-06-20 00:00:00
+
+Introducing hardware-in-loop concept to the hardware/software co-design of real-time embedded systems, 13, 2010-06-29 00:00:00
+
+Self-reconfiguration on Spartan-III FPGAs with compressed partial bitstreams via a parallel configuration access port (cPCAP) core, 33, 2008-08-12 00:00:00
+
+An algorithm for the design of low-power hardware-efficient FIR filters, 123, 2008-02-07 00:00:00
+
+Multiplierless implementation of 2-D FIR filters, 8, 2005-04-01 00:00:00
+
+Multiplierless realization of linear DSP transforms by using common two-term expressions, 37, 1999-09-01 00:00:00
+

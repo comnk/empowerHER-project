@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Multi-objective optimization and decision making approaches to cricket team selection, 90, None
+
+Towards Automated Energy Debugging on Smartphones, 0, None
+
+Reactive Dataflow for Inflight Error Handling in ML Workflows, 0, 2024-06-09 00:00:00
+
+Systems and methods of detecting power bugs, 4, 2022-06-21 00:00:00
+
+Systems and methods of detecting power bugs, 4, 2022-06-21 00:00:00
+
+Experience: developing a usable battery drain testing and diagnostic tool for the mobile industry, 4, 2021-10-25 00:00:00
+
+An Empirical Study on the Impact of Deep Parameters on Mobile App Energy Usage, 1, 2020-09-22 00:00:00
+
+App Parameter Energy Profiling: Optimizing App Energy Drain by Finding Tunable App Parameters, 1, 2020-09-22 00:00:00
+
+Differential resource profiling with actionable diagnostics, 42, 2019-02-01 00:00:00
+
+Differential energy profiling: energy optimization via diffing similar apps, 10, 2018-10-08 00:00:00
+
+Unsafe time handling in smartphones, 2, 2016-06-22 00:00:00
+
+Smartphone Background Activities in the Wild: Origin, Energy Drain, and Optimization, 80, 2015-09-07 00:00:00
+
+Energy and Performance of Smartphone Radio Bundling in Outdoor Environments, 59, 2015-05-18 00:00:00
+
+How much energy can we save from prefetching ads? Energy drain analysis of top 100 apps, 17, 2013-11-03 00:00:00
+
+On death, taxes, and sleep disorder bugs in smartphones, 13, 2013-11-03 00:00:00
+
+Hypnos: understanding and treating sleep conflicts in smartphones, 40, 2013-04-15 00:00:00
+
+What is keeping my phone awake?: characterizing and detecting no-sleep energy bugs in smartphone apps, 286, 2012-06-25 00:00:00
+
+Cricket team selection using evolutionary multi-objective optimization, 30, 2011-12-19 00:00:00
+
+Colour image compression by grey to colour conversion, 3, 2011-02-10 00:00:00
+
+Smartphone energy drain in the wild: Analysis and implications, -1, 
+

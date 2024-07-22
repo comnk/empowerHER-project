@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Phone power monitoring with battor, 16, None
+
+Evaluating physical-layer BLE location tracking attacks on mobile devices, 33, 2022-05-01 00:00:00
+
+Trufflehunter: cache snooping rare domains at large public DNS resolvers, 25, 2020-10-27 00:00:00
+
+Residential links under the weather, 40, 2019-08-19 00:00:00
+
+Detecting if LTE is the bottleneck with bursttracker, 26, 2019-08-05 00:00:00
+
+{SweepSense}: Sensing 5 {GHz} in 5 Milliseconds with Low-cost Radios, 23, 2019-02-26 00:00:00
+
+An end-to-end measurement of certificate revocation in the web's PKI, 147, 2015-10-28 00:00:00
+
+Timeouts: Beware surprisingly high delay, 25, 2015-10-28 00:00:00
+
+Atomix: A framework for deploying signal processing applications on wireless infrastructure, 32, 2015-05-04 00:00:00
+
+{PowerSpy}: Location Tracking Using Mobile Device Power Analysis, 174, 2015-02-10 00:00:00
+
+Analysis of SSL certificate reissues and revocations in the wake of Heartbleed, 100, 2014-11-05 00:00:00
+
+RevCast: Fast, private certificate revocation over FM radio, 31, 2014-11-03 00:00:00
+
+Scheduling communications in a mobile device, 0, 2014-02-18 00:00:00
+
+Pingin' in the rain, 89, 2011-11-02 00:00:00
+
+Bartendr: a practical approach to energy-aware cellular data scheduling, 281, 2010-09-20 00:00:00
+
+Stratus: Energy-efficient mobile communication using cloud support, 55, 2010-08-16 00:00:00
+
+Maranello: Practical Partial Packet Recovery for 802.11., 103, 2010-04-28 00:00:00
+
+Visualizing real-time network resource usage, 26, 2008-09-15 00:00:00
+
+On the fidelity of 802.11 packet traces, 32, 2008-04-29 00:00:00
+
+CRAWDAD data set umd/sigcomm2008, -1, 
+

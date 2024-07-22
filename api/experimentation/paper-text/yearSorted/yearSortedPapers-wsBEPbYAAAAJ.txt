@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Advanced scatter search for the max-cut problem, 101, None
+
+A branch and bound algorithm for the maximum diversity problem, 86, None
+
+Multiobjective GRASP with path relinking, 71, None
+
+Segmentation algorithms for thermal images, 63, None
+
+Advanced multi-start methods, 54, None
+
+Metaheurísticas, 0, 2023-01-16 00:00:00
+
+Variable neighborhood descent, 14, 2023-01-01 00:00:00
+
+General variable neighborhood search for the order batching and sequencing problem, 66, 2017-11-16 00:00:00
+
+Variable neighborhood search strategies for the order batching problem, 68, 2017-02-01 00:00:00
+
+Greedy randomized adaptive search procedure with exterior path relinking for differential dispersion minimization, 60, 2015-03-01 00:00:00
+
+GRASP with path relinking for the orienteering problem, 81, 2014-12-01 00:00:00
+
+Multi-objective variable neighborhood search: an application to combinatorial optimization problems, 82, 2014-06-25 00:00:00
+
+Tabu search with strategic oscillation for the maximally diverse grouping problem, 73, 2013-05-01 00:00:00
+
+Variable formulation search for the cutwidth minimization problem, 64, 2013-05-01 00:00:00
+
+Heuristics and metaheuristics for the maximum diversity problem, 92, 2011-06-03 00:00:00
+
+A benchmark library and a comparison of heuristic methods for the linear ordering problem, 58, 2011-01-05 00:00:00
+
+GRASP and path relinking for the max–min diversity problem, 194, 2010-03-01 00:00:00
+
+Hybrid heuristics for the maximum diversity problem, 53, 2009-12-01 00:00:00
+
+Heuristics for the bi-objective path dissimilarity problem, 52, 2009-11-01 00:00:00
+
+Tabu search and GRASP for the maximum diversity problem, 118, 2007-04-01 00:00:00
+

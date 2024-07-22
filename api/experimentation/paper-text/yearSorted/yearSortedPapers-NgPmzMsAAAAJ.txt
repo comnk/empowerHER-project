@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+SPIDER2: a package to predict secondary structure, accessible surface area, and main-chain torsional angles by deep neural networks, 145, None
+
+Response of growth and yield of wheat to NPK fertilizer, 56, None
+
+Twin removal in genetic algorithms for protein structure prediction using low-resolution model, 54, None
+
+Neurological manifestations of COVID-19 (SARS-CoV-2): a review, 177, 2020-05-22 00:00:00
+
+A comparative study on network alignment techniques, 50, 2020-02-01 00:00:00
+
+Efficient toxicity prediction via simple features using shallow neural networks and decision trees, 49, 2019-01-23 00:00:00
+
+PSSM-Suc: Accurately predicting succinylation using position specific scoring matrix into bigram for feature extraction, 62, 2017-07-21 00:00:00
+
+SucStruct: prediction of succinylated lysine residues by using structural properties of amino acids, 57, 2017-06-15 00:00:00
+
+EASE-MM: sequence-based prediction of mutation-induced stability changes with feature-based multiple models, 105, 2016-03-27 00:00:00
+
+Highly accurate sequence-based prediction of half-sphere exposures of amino acid residues in proteins, 92, 2016-03-15 00:00:00
+
+Improving prediction of secondary structure, local backbone angles and solvent accessible surface area of proteins by iterative deep learning, 324, 2015-06-22 00:00:00
+
+Gram-positive and Gram-negative protein subcellular localization by incorporating evolutionary-based descriptors into Chou׳ s general PseAAC, 233, 2015-01-07 00:00:00
+
+Predicting backbone Cα angles and dihedrals from protein sequences by stacked sparse auto‐encoder deep neural network, 145, 2014-10-30 00:00:00
+
+NuMVC: An efficient local search algorithm for minimum vertex cover, 123, 2014-02-03 00:00:00
+
+A combination of feature extraction methods with an ensemble of different classifiers for protein structural class prediction problem, 56, 2013-05-01 00:00:00
+
+Local search with edge weighting and configuration checking heuristics for minimum vertex cover, 169, 2011-06-01 00:00:00
+
+Protein folding prediction in 3D FCC HP lattice model using genetic algorithm, 58, 2007-09-01 00:00:00
+
+Building Structure into Local Search for SAT., 48, 2007-01-06 00:00:00
+
+INDu: An Interval & Duration Network, 93, 1999-12-06 00:00:00
+
+Does hyaluronan have a role in endothelial cell proliferation of the synovium?, 49, 1992-08-01 00:00:00
+

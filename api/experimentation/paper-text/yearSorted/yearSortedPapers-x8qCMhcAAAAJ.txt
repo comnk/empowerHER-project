@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Performance comparison between Naïve Bayes, decision tree and k-nearest neighbor in searching alternative design in an energy simulation tool, 171, None
+
+Retrospective DOSAK study on carcinomas of the oral cavity: The prognostic relevance of various factors at the time of the first admission to the patient, 81, None
+
+Information and communication technologies in tourism 1999: Proceedings of the international conference in Innsbruck, Austria, 1999, 2, None
+
+The prognostic relevance of various factors at the time of the first admission of the patient*:: Retrospective DÖSAK study on carcinoma of the oral cavity, 81, None
+
+Digital transformation for sustainable development goals (sdgs)-a security, safety and privacy perspective on ai, 37, None
+
+Novel mediator architectures for grid information systems, 52, None
+
+Current advances, trends and challenges of machine learning and knowledge extraction: from machine learning to explainable AI, 166, 2018-08-27 00:00:00
+
+Sense & response service architecture (SARESA) an approach towards a real-time business intelligence solution and its use for a fraud detection application, 2918, 2018-02-01 00:00:00
+
+Information technology for sustainable supply chain management: a literature survey, 76, 2017-07-03 00:00:00
+
+The role of ICT to achieve the UN sustainable development goals (SDG), 79, 2016-09-12 00:00:00
+
+UbiqLog: a generic mobile phone-based life-log framework, 97, 2013-04-01 00:00:00
+
+A cloud repository and discovery framework based on a unified business and cloud service ontology, 52, 2012-06-24 00:00:00
+
+Ontology-based generation of bayesian networks, 51, 2009-03-16 00:00:00
+
+Retaining data control to the client in infrastructure clouds, 58, 2009-03-16 00:00:00
+
+Gridminer: An infrastructure for data mining on computational grids, 60, 2003-09-01 00:00:00
+
+Capturing delays and valid times in data warehouses—towards timely consistent analyses, 50, 2002-09-01 00:00:00
+
+An object oriented multidimensional data model for OLAP, 89, 2000-06-21 00:00:00
+
+A prototype model for data warehouse security based on metadata, 74, 1998-08-26 00:00:00
+
+A security concept for OLAP, 56, 1997-09-01 00:00:00
+
+Transformation of requirement specifications expressed in natural language into an EER model, 98, 1993-12-15 00:00:00
+

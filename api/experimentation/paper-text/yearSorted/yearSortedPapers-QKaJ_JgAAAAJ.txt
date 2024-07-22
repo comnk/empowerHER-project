@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Multi-criteria decision making based on trust and reputation in supply chain, 42, None
+
+Susceptibility of twelve soft wheat varieties (Triticum aestivum) to Sitophilus granarius (L.)(Coleoptera: Curculionidae), 44, None
+
+LSTM recurrent neural networks for cybersecurity named entity recognition, 38, None
+
+Blockchain-of-blockchains: An interoperable blockchain platform for ensuring IoT data integrity in smart city, 41, 2022-10-01 00:00:00
+
+Information extraction of cybersecurity concepts: An LSTM approach, 34, 2019-09-20 00:00:00
+
+A novel architecture for tamper proof electronic health record management system using blockchain wrapper, 41, 2019-07-02 00:00:00
+
+Jointly identifying opinion mining elements and fuzzy measurement of opinion intensity to analyze product features, 46, 2018-11-13 00:00:00
+
+Open IoT ecosystem for sporting event management, 50, 2017-02-10 00:00:00
+
+Sustainability performance measurement framework for supply chain management, 29, 2015-05-14 00:00:00
+
+A context-aware approach for long-term behavioural change detection and abnormality prediction in ambient assisted living, 182, 2015-03-01 00:00:00
+
+The airport gate assignment problem: a survey, 66, 2014-11-20 00:00:00
+
+A survey of clustering algorithms for big data: Taxonomy and empirical analysis, 917, 2014-06-12 00:00:00
+
+Integration between MES and product lifecycle management, 36, 2011-10-24 00:00:00
+
+Product lifecycle management–from its history to its new role, 307, 2010-11-04 00:00:00
+
+B2B relationship management: a framework to explore the impact of collaboration, 28, 2010-09-01 00:00:00
+
+Information sharing and exchange in the context of product lifecycle management: Role of standards, 163, 2008-07-01 00:00:00
+
+Supply chain management: a framework to characterize the collaborative strategies, 74, 2008-06-01 00:00:00
+
+ISO 10303, the STEP standard for product data exchange, and its PLM capabilities, 64, 2005-09-13 00:00:00
+
+Collaboration and integration through information technologies in supply chains, 52, 2004-09-01 00:00:00
+
+Morphological analysis for product design, 111, 2000-05-01 00:00:00
+

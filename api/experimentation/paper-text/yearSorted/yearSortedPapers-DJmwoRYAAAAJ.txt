@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+On the odd-minor variant of Hadwiger's conjecture, 74, None
+
+A priority-based model of routing, 45, None
+
+Randomized experimental design for causal graph discovery, 30, 2014-12-08 00:00:00
+
+A near-optimal mechanism for impartial selection, 29, 2014-07-31 00:00:00
+
+An approximation algorithm for the maximum leaf spanning arborescence problem, 32, 2010-06-01 00:00:00
+
+Simultaneous clustering of multiple gene expression and physical interaction datasets, 44, 2010-04-01 00:00:00
+
+An upper bound for the chromatic number of line graphs, 43, 2007-11-01 00:00:00
+
+Network design via iterative rounding of setpair relaxations, 12, 2006-06-01 00:00:00
+
+Sink equilibria and convergence, 236, 2005-10-23 00:00:00
+
+Nash equilibria in random games, 76, 2005-10-23 00:00:00
+
+Planar graph bipartization in linear time, 36, 2005-06-01 00:00:00
+
+Approximation algorithms for network design with metric costs, 44, 2005-05-22 00:00:00
+
+Convergence issues in competitive games, 105, 2004-08-22 00:00:00
+
+Finding odd cycle transversals, 384, 2004-07-01 00:00:00
+
+Nash equilibria in competitive societies, with applications to facility location, traffic routing and auctions, 367, 2002-11-16 00:00:00
+
+The demand-matching problem, 28, 2002-05-27 00:00:00
+
+Approximation algorithms for minimum-cost k-vertex connected subgraphs, 58, 2002-05-19 00:00:00
+
+Approximating the minimum strongly connected subgraph via a matching lower bound, 46, 2001-01-09 00:00:00
+
+On clusterings: Good, bad and spectral, 1227, 2000-11-12 00:00:00
+
+Factor 4/3 approximations for minimum 2-connected subgraphs, 58, 2000-09-05 00:00:00
+

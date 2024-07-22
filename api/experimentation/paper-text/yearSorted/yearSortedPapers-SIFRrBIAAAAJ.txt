@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Definitional issues in functional encryption, 267, None
+
+Provably-secure schemes for basic query support in outsourced databases, 87, None
+
+Dual form signatures: An approach for proving security from static assumptions, 28, None
+
+Reducing the leakage in practical order-revealing encryption, 31, None
+
+Accessing data while preserving privacy, 32, 2017-06-05 00:00:00
+
+Generic attacks on secure outsourced databases, 267, 2016-10-24 00:00:00
+
+Modular order-preserving encryption, revisited, 73, 2015-05-27 00:00:00
+
+Semantically-secure functional encryption: Possibility results, impossibility results and the quest for a general definition, 56, 2013-11-20 00:00:00
+
+On the achievability of simulation-based security for functional encryption, 97, 2013-08-18 00:00:00
+
+A unified approach to deterministic encryption: New constructions and a connection to computational entropy, 87, 2012-03-19 00:00:00
+
+Order-preserving encryption revisited: Improved security analysis and alternative solutions, 515, 2011-08-14 00:00:00
+
+Bi-deniable public-key encryption, 116, 2011-08-14 00:00:00
+
+Correlated-input secure hash functions, 95, 2011-03-28 00:00:00
+
+Instantiability of RSA-OAEP under chosen-plaintext attack, 70, 2010-08-15 00:00:00
+
+Adaptive trapdoor functions and chosen-ciphertext security, 85, 2010-05-30 00:00:00
+
+Order-preserving symmetric encryption, 890, 2009-04-16 00:00:00
+
+On notions of security for deterministic encryption, and efficient constructions without random oracles, 205, 2008-08-17 00:00:00
+
+Deterministic encryption: Definitional equivalences and constructions without random oracles, 153, 2008-08-17 00:00:00
+
+Ordered multisignatures and identity-based sequential aggregate signatures, with applications to secure routing, 185, 2007-10-28 00:00:00
+
+Deterministic and efficiently searchable encryption, 826, 2007-08-19 00:00:00
+

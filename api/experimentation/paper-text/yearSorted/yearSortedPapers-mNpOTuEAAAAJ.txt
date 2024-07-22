@@ -1,0 +1,31 @@
+Paper Name, Citations, Publication Date
+Primal infon logic: derivability in polynomial time, 3, None
+
+Dolev-Yao theories with distributive encryption, 0, None
+
+A Protocol for Intelligible Interaction Between Agents That Learn and Explain, 1, 2023-01-04 00:00:00
+
+Composition of relational features with an application to explaining black-box predictors, 0, 2022-06-01 00:00:00
+
+Learning explanations for biological feedback with delays using an event calculus, 1, 2021-08-18 00:00:00
+
+Inclusion of domain-knowledge into gnns using mode-directed inverse entailment, 11, 2021-05-22 00:00:00
+
+Discrete stochastic search and its application to feature-selection for deep relational machines, 11, 2019-09-17 00:00:00
+
+Dolev-Yao theory with associative blindpair operators, 1, 2019-07-22 00:00:00
+
+A safe restriction for receipt-freeness, 1, 2015-10-01 00:00:00
+
+A dexptime-Complete Dolev-Yao Theory with Distributive Encryption, 10, 2010-08-23 00:00:00
+
+A-complete Dolev-Yao theory with distributive encryption, 10, 2010-08-23 00:00:00
+
+A dolev-yao model for zero knowledge, 4, 2009-12-14 00:00:00
+
+Knowledge-based modelling of voting protocols, 55, 2007-06-25 00:00:00
+
+A Dolev-Yao theory with interacting operators: decidability, -1, 
+
+Partial secrecy in the Dolev-Yao model, -1, 
+

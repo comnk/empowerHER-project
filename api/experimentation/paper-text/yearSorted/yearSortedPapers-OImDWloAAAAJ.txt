@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Exact discovery of time series motifs, 426, None
+
+Time series joins, motifs, discords and shapelets: a unifying view that exploits the matrix profile, 107, None
+
+The UCR time series classification archive, 295, 2018-10-31 00:00:00
+
+The UCR time series classification archive, 295, 2018-10-31 00:00:00
+
+Matrix profile I: all pairs similarity joins for time series: a unifying view that includes motifs, discords and shapelets, 497, 2016-12-01 00:00:00
+
+Debot: Twitter bot detection via warped correlation., 242, 2016-12-01 00:00:00
+
+Matrix profile ii: Exploiting a novel algorithm and gpus to break the one hundred million barrier for time series motifs and joins, 192, 2016-12-01 00:00:00
+
+Logmine: Fast pattern recognition for log analytics, 173, 2016-10-24 00:00:00
+
+Extracting optimal performance from dynamic time warping, 150, 2016-08-13 00:00:00
+
+Analyzing the Great Firewall of China over space and time, 99, 2015-04-01 00:00:00
+
+Enumeration of time series motifs of all lengths, 110, 2013-12-01 00:00:00
+
+Addressing big data time series: Mining trillions of time series subsequences under dynamic time warping, 216, 2013-09-01 00:00:00
+
+Clustering time series using unsupervised-shapelets, 193, 2012-12-10 00:00:00
+
+Searching and mining trillions of time series subsequences under dynamic time warping, 973, 2012-08-01 00:00:00
+
+Curse of dimensionality., 4486, 2012-07-16 00:00:00
+
+Logical-shapelets: an expressive primitive for time series classification, 321, 2011-08-21 00:00:00
+
+Accelerating dynamic time warping subsequence search with GPUs and FPGAs, 134, 2010-12-13 00:00:00
+
+Experimental comparison of representation methods and distance measures for time series data, 819, 2010-12-09 00:00:00
+
+Online discovery and maintenance of time series motifs, 132, 2010-07-25 00:00:00
+
+Fast approximate correlation for massive time-series data, 147, 2010-06-06 00:00:00
+

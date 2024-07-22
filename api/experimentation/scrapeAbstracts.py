@@ -63,6 +63,7 @@ if __name__=="__main__":
         continue
     filename = os.fsdecode(file)
     profID = filename[8:-5] # remove scholar- and .html from filename
+    
     # print(profID)
     processes.append((profID, pool.apply_async(scrape_professor, (profID,))))
     print(f"Appending {ind} / {len(os.listdir(directory))} to pool")

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+pGCL: Formal reasoning for random algorithms, 77, None
+
+Results on the quantitative μ-calculus qMμ, 55, None
+
+The Science of Quantitative Information Flow, 50, 2020-07-11 00:00:00
+
+Generalised differential privacy for text document processing, 82, 2018-11-26 00:00:00
+
+A new proof rule for almost-sure termination, 76, 2017-11-09 00:00:00
+
+Additive and multiplicative notions of leakage, and their capacities, 81, 2014-07-19 00:00:00
+
+Abstract channels and their robust information-leakage ordering, 64, 2014-04-05 00:00:00
+
+Operational versus weakest pre-expectation semantics for the probabilistic guarded command language, 65, 2014-03-01 00:00:00
+
+A process algebra for wireless mesh networks, 71, 2012-03-24 00:00:00
+
+Automated analysis of AODV using UPPAAL, 69, 2012-03-24 00:00:00
+
+Linear-invariant generation for probabilistic programs: Automated support for proof-based methods, 87, 2010-09-14 00:00:00
+
+Compositional closure for Bayes risk in probabilistic noninterference, 70, 2010-07-06 00:00:00
+
+Probabilistic guarded commands mechanized in HOL, 98, 2005-11-23 00:00:00
+
+Abstraction, refinement and proof for probabilistic systems, 410, 2004-11-19 00:00:00
+
+Games, Probability, and the Quantitative μ-Calculus qMμ, 52, 2002-10-14 00:00:00
+
+Partial correctness for probabilistic demonic programs, 53, 2001-09-06 00:00:00
+
+Probabilistic models for the guarded command language, 180, 1997-04-01 00:00:00
+
+Refinement-oriented probability for CSP, 69, 1996-11-01 00:00:00
+
+Probabilistic predicate transformers, 336, 1996-05-01 00:00:00
+
+Enumerating finite groups, 52, 1987-12-01 00:00:00
+

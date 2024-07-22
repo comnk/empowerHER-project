@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Hierarchical memory networks, 8, 2023-07-03 00:00:00
+
+An empirical investigation of the role of pre-training in lifelong learning, 95, 2021-12-16 00:00:00
+
+Post-hoc interpretability for neural nlp: A survey, 151, 2021-08-10 00:00:00
+
+A survey of data augmentation approaches for NLP, 621, 2021-05-07 00:00:00
+
+Patchup: A feature-space block-level regularization technique for convolutional neural networks, 16, 2020-06-14 00:00:00
+
+Learning to navigate the synthetically accessible chemical space using reinforcement learning, 90, 2020-04-26 00:00:00
+
+Toward training recurrent neural networks for lifelong learning, 84, 2019-11-08 00:00:00
+
+Do neural dialog systems use the conversation history effectively? an empirical study, 118, 2019-06-04 00:00:00
+
+The hanabi challenge: A new frontier for ai research, 301, 2019-02-02 00:00:00
+
+Towards non-saturating recurrent units for modelling long-term dependencies, 55, 2019-01-22 00:00:00
+
+Dynamic neural turing machine with continuous and discrete addressing schemes, 48, 2018-03-20 00:00:00
+
+Complex sequential question answering: Towards learning to converse over linked question answer pairs with a knowledge graph, 178, 2018-01-31 00:00:00
+
+A deep reinforcement learning chatbot, 229, 2017-09-07 00:00:00
+
+Memory augmented neural networks with wormhole connections, 60, 2017-01-30 00:00:00
+
+Guesswhat?! visual object discovery through multi-modal dialogue, 406, 2016-11-23 00:00:00
+
+Generating factoid questions with recurrent neural networks: The 30m factoid question-answer corpus, 277, 2016-03-22 00:00:00
+
+Bridge correlational neural networks for multilingual multimodal representation learning, 52, 2015-10-13 00:00:00
+
+Clustering is efficient for approximate maximum inner product search, 40, 2015-07-21 00:00:00
+
+Correlational neural networks, 139, 2015-04-27 00:00:00
+
+An autoencoder approach to learning bilingual word representations, 334, 2014-02-06 00:00:00
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+How Can Large Language Models Help Humans in Design and Manufacturing?, 19, 2023-07-25 00:00:00
+
+Neurosymbolic models for computer graphics, 16, 2023-04-20 00:00:00
+
+Self-supervised representation learning for cad, 9, 2022-10-19 00:00:00
+
+Computational design of knit templates, 13, 2021-12-06 00:00:00
+
+Differentiable 3d cad programs for bidirectional editing, 27, 2021-10-04 00:00:00
+
+Rewrite rule inference using equality saturation, 31, 2021-08-23 00:00:00
+
+Compressive sensing, 490, 2020-03-01 00:00:00
+
+Carpentry compiler, 36, 2019-11-08 00:00:00
+
+Interactive exploration of design trade-offs, 38, 2018-07-30 00:00:00
+
+Robot assisted carpentry for mass customization, 13, 2018-05-21 00:00:00
+
+Interactive robogami: An end-to-end system for design of robots with ground locomotion, 49, 2017-08-13 00:00:00
+
+Interactive design space exploration and optimization for CAD models, 73, 2017-07-20 00:00:00
+
+Retrieval on parametric shape collections, 32, 2017-01-26 00:00:00
+
+Computational multicopter design, 64, 2016-11-11 00:00:00
+
+Design and fabrication by example, 96, 2014-07-27 00:00:00
+
+On the empirical rate-distortion performance of compressive sensing, 38, 2009-11-07 00:00:00
+
+Inversecsg: Automatic conversion of 3d models to csg trees, -1, 
+
+Learning to fly: computational controller design for hybrid uavs with reinforcement learning, -1, 
+
+Automate: A dataset and learning approach for automatic mating of cad assemblies, -1, 
+
+VDAC: volume decompose-and-carve for subtractive manufacturing, -1, 
+

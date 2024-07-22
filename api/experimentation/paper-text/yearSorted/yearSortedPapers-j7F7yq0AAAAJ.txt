@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+If your version control system could talk, 137, None
+
+Understanding the sources of variation in software inspections, 181, None
+
+Using symbolic evaluation to understand behavior in configurable software systems, 114, 2010-05-01 00:00:00
+
+Covering arrays for efficient fault characterization in complex configuration spaces, 336, 2004-07-11 00:00:00
+
+Covering arrays for efficient fault characterization in complex configuration spaces, 336, 2004-07-11 00:00:00
+
+Skoll: Distributed continuous quality assurance, 117, 2004-05-23 00:00:00
+
+A history-based test prioritization technique for regression testing in resource constrained environments, 448, 2002-05-19 00:00:00
+
+An empirical study of regression test selection techniques, 404, 2001-04-01 00:00:00
+
+An empirical study of regression test application frequency, 97, 2000-06-01 00:00:00
+
+Empirical studies of software engineering: a roadmap, 454, 2000-05-01 00:00:00
+
+Comparing detection methods for software requirements inspections: A replication using professional subjects, 178, 1998-12-01 00:00:00
+
+Anywhere, anytime code inspections: Using the web to remove inspection bottlenecks in large-scale software development, 71, 1997-05-01 00:00:00
+
+Assessing software review meetings: Results of a comparative analysis of two experimental studies, 141, 1997-03-01 00:00:00
+
+An experiment to assess the cost-benefits of code inspections in large scale software development, 36, 1995-10-01 00:00:00
+
+A review of software inspections, 61, 1995-10-01 00:00:00
+
+Comparing detection methods for software requirements inspections: A replicated experiment, 478, 1995-06-01 00:00:00
+
+An experiment to assess different defect detection methods for software requirements inspections, 134, 1994-05-21 00:00:00
+
+Metric-driven analysis and feedback systems for enabling empirically guided software development, 103, 1991-05-01 00:00:00
+
+Empirically guided software development using metric-based classification trees, 287, 1990-03-01 00:00:00
+
+Learning from examples: generation and evaluation of decision trees for software resource analysis, 272, 1988-12-01 00:00:00
+

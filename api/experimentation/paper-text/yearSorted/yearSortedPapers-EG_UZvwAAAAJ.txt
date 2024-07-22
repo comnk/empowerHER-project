@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+AvatarMe: Realistically Renderable 3D Facial Reconstruction" in-the-wild", 127, 2020-03-30 00:00:00
+
+Neural BTF compression and interpolation, 77, 2019-05-01 00:00:00
+
+Polarization imaging reflectometry in the wild, 50, 2017-11-20 00:00:00
+
+Fine-grained material classification using micro-geometry and reflectance, 46, 2016-10-08 00:00:00
+
+BRDF representation and acquisition, 166, 2016-05-01 00:00:00
+
+Mobile surface reflectometry, 62, 2014-07-27 00:00:00
+
+Acquiring reflectance and shape from continuous spherical harmonic illumination, 117, 2013-07-21 00:00:00
+
+Multiview face capture using polarized spherical gradient illumination, 248, 2011-12-01 00:00:00
+
+Effect of illumination on automatic expression recognition: a novel 3D relightable facial database, 72, 2011-03-21 00:00:00
+
+Circularly polarized spherical illumination reflectometry, 88, 2010-12-01 00:00:00
+
+A basis illumination approach to BRDF measurement, 56, 2010-11-01 00:00:00
+
+Temporal upsampling of performance geometry using photometric alignment, 63, 2010-03-01 00:00:00
+
+Estimating specular roughness and anisotropy from second order spherical gradient illumination, 99, 2009-06-29 00:00:00
+
+Compressive light transport sensing, 167, 2009-02-09 00:00:00
+
+Practical modeling and acquisition of layered facial reflectance, 128, 2008-12-01 00:00:00
+
+BRDF acquisition with basis illumination, 86, 2007-12-26 00:00:00
+
+Active preference learning with discrete choice data, 191, 2007-12-03 00:00:00
+
+Bidirectional Importance Sampling for Direct Illumination., 91, 2005-06-29 00:00:00
+
+High dynamic range display systems, 620, 2004-08-01 00:00:00
+
+Illumination sphere with intelligent LED lighting units in scalable daisy chain with interchangeable filters, -1, 
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Variational Inference via  Upper Bound Minimization, 117, None
+
+DMLR: Data-centric Machine Learning Research--Past, Present and Future, 5, 2023-11-21 00:00:00
+
+Llm-prop: Predicting physical and electronic properties of crystalline solids from their text descriptions, 18, 2023-10-21 00:00:00
+
+Vendi sampling for molecular simulations: Diversity as a force for faster convergence and better exploration, 6, 2023-10-12 00:00:00
+
+The vendi score: A diversity evaluation metric for machine learning, 50, 2022-10-05 00:00:00
+
+Markov chain score ascent: A unifying framework of variational inference with markovian gradients, 6, 2022-06-13 00:00:00
+
+Consistency regularization for variational auto-encoders, 55, 2021-05-31 00:00:00
+
+Quantitative nanoinfrared spectroscopy of anisotropic van der Waals materials, 13, 2020-09-16 00:00:00
+
+Prescribed generative adversarial networks, 59, 2019-10-09 00:00:00
+
+The dynamic embedded topic model, 76, 2019-07-12 00:00:00
+
+Topic modeling in embedding spaces, 471, 2019-07-08 00:00:00
+
+Reweighted Expectation Maximization, 17, 2019-06-13 00:00:00
+
+Avoiding Latent Variable Collapse with Generative Skip Models, 162, 2018-07-12 00:00:00
+
+Noisin: Unbiased Regularization for Recurrent Neural Networks, 20, 2018-05-03 00:00:00
+
+Readmission prediction via deep contextual embedding of clinical concepts, 103, 2018-04-09 00:00:00
+
+Augment and Reduce: Stochastic Inference for Large Categorical Distributions, 21, 2018-02-12 00:00:00
+
+Topicrnn: A recurrent neural network with long-range semantic dependency, 225, 2016-11-04 00:00:00
+
+Edward: A library for probabilistic modeling, inference, and criticism, 292, 2016-10-31 00:00:00
+
+Edward: A library for probabilistic modeling, inference, and criticism. arXiv 2016, 292, 2016-10-31 00:00:00
+
+Edward: A library for probabilistic modeling, inference, and criticism, 2016, -1, 
+

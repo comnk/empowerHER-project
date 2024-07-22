@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Neurobench: Advancing neuromorphic computing through collaborative, fair and representative benchmarking, 18, None
+
+Multiscale models in MOOSE: interoperability and standardization, 2, None
+
+Prediction error signals in anterior cingulate cortex drive task-switching, 3, 2024-04-18 00:00:00
+
+BunDLe-Net: Neuronal Manifold Learning Meets Behaviour, 1, 2024-04-15 00:00:00
+
+Measuring Exploration in Reinforcement Learning via Optimal Transport in Policy Space, 1, 2024-02-14 00:00:00
+
+A delay system reservoir based on a nano-ionic Solid Electrolyte FET*, 0, 2023-10-22 00:00:00
+
+Reservoir Computing based on a Solid Electrolyte ZnO TFT: An attractive platform for flexible edge computing, 0, 2023-08-13 00:00:00
+
+NeuroBench: A Framework for Benchmarking Neuromorphic Computing Algorithms and Systems, 0, 2023-04-10 00:00:00
+
+Reservoir computing for temporal data classification using a dynamic solid electrolyte ZnO thin film transistor, 7, 2022-04-11 00:00:00
+
+Modelling novelty detection in the thalamocortical loop, 1, 2021-11-08 00:00:00
+
+Dynamical learning of dynamics, 30, 2019-02-07 00:00:00
+
+Thalamic regulation of switching between cortical representations enables cognitive flexibility, 183, 2018-10-04 00:00:00
+
+Non-linear motor control by local learning in spiking neural networks, 10, 2017-12-29 00:00:00
+
+Multi-Timescale memory dynamics extend task repertoire in a reinforcement learning network with Attention-Gated memory, 4, 2017-12-29 00:00:00
+
+Predicting non-linear dynamics by stable local learning in a recurrent spiking neural network, 72, 2017-02-21 00:00:00
+
+Bulbar microcircuit model predicts connectivity and roles of interneurons in odor coding, 15, 2015-05-05 00:00:00
+
+Biophysical model of odor representation and processing in the rat olfactory bulb, 0, 2010-07-20 00:00:00
+
+Is there a dynamical cause of the spin-statistics connection?, 0, 2009-09-28 00:00:00
+
+Quantum phases due to cosmic gravity and the spin-statistics connection, 0, 2009-06-01 00:00:00
+
+New tests and clarification of some conceptual issues in the superposition of monochromatic light fields [6664-19], 2, 2007-08-26 00:00:00
+

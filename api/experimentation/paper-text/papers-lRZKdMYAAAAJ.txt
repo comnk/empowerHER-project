@@ -1,43 +1,42 @@
-Knowledge Engineering and Management. The CommonKADS methodology
-The book covers in an integrated fashion the complete route from corporate knowledge management, through knowledge analysis andengineering, to the design and implementation of knowledge-intensiveinformation systems. The disciplines of knowledge engineering and knowledge management are closely tied. Knowledge engineering deals with the development of information systems in which knowledge and reasoning play pivotal roles. Knowledge management, a newly developed field at the intersection of computer science and management, deals with knowledge as a key resource in modern organizations. Managing knowledge within an organization is inconceivable without the use of advanced information systems; the design and implementation of such systems pose great organization as well as technical challenges. The book covers in an integrated fashion the complete route from corporate knowledge management, through knowledge analysis and engineering, to the design and implementation of knowledge-intensive information systems. The CommonKADS methodology, developed over the last decade by an industry-university consortium led by the authors, is used throughout the book. CommonKADS makes as much use as possible of the new UML notation standard. Beyond information systems applications, all software engineering and computer systems projects in which knowledge plays an important role stand to benefit from the CommonKADS methodology.
+Paper Name, Citations, Publication Date
+Knowledge Engineering and Management. The CommonKADS methodology, 1847, 1999-12-09 00:00:00
 
-OWL: Web Ontology Language Reference. W3C Recommendartion
-Using explicit ontologies in KBS development
-Abstract This article presents a number of ways in which ontologies-schematic descriptions of the contents of domain knowledge-can be constructed and can be used to improve the knowledge engineering process. The main message is that early in the knowledge engineering process an application-specific ontology should be constructed. To facilitate this, the article presents some principles for organizing a library of reusable ontological theories which can be configured into an application ontology. This application ontology is then exploited to organize the knowledge acquisition process and to support computational design. The process is illustrated with a knowledge engineering scenario in the domain of treating acute radiation syndrome.
+OWL: Web Ontology Language Reference. W3C Recommendartion, 1217, None
 
-KADS: A Modelling Approach to Knowledge Engineering
-CommonKADS: A comprehensive methodology for KBS development
-The aim of CommonKADS is to fill the need for a structured methodology for KBS projects by constructing a set of engineering models built with the organization and the application in mind. We give a brief overview of the CommonKADS methodology, paying special attention to the expertise modeling-an aspect of KBS development that distinguishes it from other types of software development. We illustrate the CommonKADS approach by showing how aspects of the VT system for elevator design would be modeled.<<ETX>>
+Using explicit ontologies in KBS development, 916, 1997-03-01 00:00:00
 
-KADS: A principled approach to knowledge-based system development
-Introduction and Overview. Theoretical Basis. Modeling Expertise. Modleing System: User Cooperation in KADS. A KADS Domain Description Language. Model Construction. Operationalizing Models of Expertise. KADS and Conventional Software Engineering. Languages and Tools. A Formal Language for KADS Models of Expertise. MODEL-K: Making KADS Run. Using OMOS to Represent KADS Conceptual Models. Shelley-Computer Aided Knowledge Engineering. Applications. The Paint Advisor: A Communicative Expert System. Managing and Maintaining an Operational KADS System. Rational Reconstruction of Diagnostic Expertise. Qualitative Prediction of Behavior. A KADS Conceptual Model of the ONOCIN Task. Applying KADS to the Sisyphus Domain. Using KADS to Analyze Problem-Solving Methods. Bibliography. Name Index. Subject Index.
+KADS: A Modelling Approach to Knowledge Engineering, 810, 1992-03-01 00:00:00
 
-Ontology-based photo annotation
-While technology enables the storage and distribution of photographic images on an unprecedented scale, finding what you want can be like finding the proverbial needle in a haystack. The authors describe their approach and the tool they developed to make annotating photos and searching for specific images more intelligent.
+CommonKADS: A comprehensive methodology for KBS development, 562, 1994-12-01 00:00:00
 
-Design and use of the Simple Event Model (SEM)
-Semantic annotation of image collections
-In this paper we discuss a tool for semantic annotation and search in a collection of art images. Multiple existing ontologies are used to support this process, including the Art and Architecture Thesaurus, WordNet, ULAN and Iconclass. We discuss knowledge-engineering aspect such as the annotation structure and links between the ontologies. The annotation and search process is illustrated with an application scenario.
+KADS: A principled approach to knowledge-based system development, 480, None
 
-Adding semantics to detectors for video retrieval
-In this paper, we propose an automatic video retrieval method based on high-level concept detectors. Research in video analysis has reached the point where over 100 concept detectors can be learned in a generic fashion, albeit with mixed performance. Such a set of detectors is very small still compared to ontologies aiming to capture the full vocabulary a user has. We aim to throw a bridge between the two fields by building a multimedia thesaurus, i.e., a set of machine learned concept detectors that is enriched with semantic descriptions and semantic structure obtained from WordNet. Given a multimodal user query, we identify three strategies to select a relevant detector from this thesaurus, namely: text matching, ontology querying, and semantic visual querying. We evaluate the methods against the automatic search task of the TRECVID 2005 video retrieval benchmark, using a news video archive of 85 h in combination with a thesaurus of 363 machine learned concept detectors. We assess the influence of thesaurus size on video search performance, evaluate and compare the multimodal selection strategies for concept detectors, and finally discuss their combined potential using oracle fusion. The set of queries in the TRECVID 2005 corpus is too small for us to be definite in our conclusions, but the results suggest promising new lines of research.
+Ontology-based photo annotation, 349, 2001-05-01 00:00:00
 
-Configuration-design problem solving
-Configuration design spans many problem types that require varying types of knowledge and problem-solving methods. This article investigates the different types of knowledge that are active in configuration design and identifies some of the applicable problem-solving methods. The result is not a full theory of configuration design, but we make some steps in that direction. To clarify configuration design problem solving, the authors provide a useful classification of the field and discuss configuration task variants and some of the major knowledge categories involved.
+Design and use of the Simple Event Model (SEM), 341, 2011-07-01 00:00:00
 
-The KACTUS view on the ‘O’word
-Classification of user image descriptions
-CML: The CommonKADS conceptual modelling language
-From thesaurus to ontology
-Thesauri such as the Art and Architecture Thesaurus (AAT) provide structured vocabularies for describing art objects. However, if we want to create a knowledge-rich description of an (image of an) art object, such as required by the "semantic web", thesauri turn out to provide only part of the knowledge needed. In this paper we look at problems related to capturing background knowledge for art resources. We describe a case study in which we attempt to construct an ontology for a subset of art-object descriptions, namely antique furniture, using AAT as well as metadata standards as input. We discuss the representation requirements for such an ontology as well as representational problems for our sample ontology with respect to the emerging web standards for knowledge representation (RDF, RDFS, OIL).
+Semantic annotation of image collections, 225, None
 
-The unified problem-solving method development language UPML
-Problem-solving methods provide reusable architectures and components for implementing the reasoning part of knowledge-based systems. The Unified Problem-Solving Method Description Language (UPML) has been developed to describe and implement such architectures and components to facilitate their semi-automatic reuse and adaptation. In a nutshell, UPML is a framework for developing knowledge-intensive reasoning systems based on libraries of generic problem-solving components. The paper describes the components and adapters, architectural constraints, development guidelines, and tools provided by UPML. UPML is developed as part of the IBROW project, which provides an Internet-based brokering service for reusing problem-solving methods.
+Adding semantics to detectors for video retrieval, 223, 2007-08-01 00:00:00
 
-Domain ontologies in software engineering: use of Protege with the EON architecture
-Abstract Domain ontologies are formal descriptions of the classes of concepts and the relationships among those concepts that describe an application area. The Protege software-engineering methodology provides a clear division between domain ontologies and domain-independent problemsolvers that, when mapped to domain ontologies, can solve application tasks. The Protege approach allows domain ontologies to inform the total software-engineering process, and for ontologies to be shared among a variety of problem-solving components. We illustrate the approach by describing the development of EON, a set of middleware components that automate various aspects of protocol-directed therapy. Our work illustrates the organizing effect that domain ontologies can have on the software-development process. Ontologies, like all formal representations, have limitations in their ability to capture the semantics of application areas. Nevertheless, the capability of ontologies to encode clinical distinctions not usually captured by controlled medical terminologies provides significant advantages for developers and maintainers of clinical software applications.
+RDF 1.1 Primer, 218, None
 
-A method to convert thesauri to SKOS
-RDF 1.1 Primer
-Semantic annotation and search of cultural-heritage collections: The MultimediaN E-Culture demonstrator
+Domain ontologies in software engineering: use of Protege with the EON architecture, 180, 1998-10-01 00:00:00
+
+Configuration-design problem solving, 175, 1997-03-01 00:00:00
+
+The unified problem-solving method development language UPML, 167, 2003-03-01 00:00:00
+
+A method to convert thesauri to SKOS, 167, 2006-06-11 00:00:00
+
+CML: The CommonKADS conceptual modelling language, 162, 1994-09-26 00:00:00
+
+Classification of user image descriptions, 161, 2004-11-01 00:00:00
+
+From thesaurus to ontology, 143, 2001-10-22 00:00:00
+
+Semantic annotation and search of cultural-heritage collections: The MultimediaN E-Culture demonstrator, 137, 2008-11-01 00:00:00
+
+The KACTUS view on the ‘O’word, -1, 
+
 DONE

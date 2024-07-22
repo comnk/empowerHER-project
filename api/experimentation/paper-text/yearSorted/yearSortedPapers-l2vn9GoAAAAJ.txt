@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Identifying breakthrough scientific papers, 13, 2022-11-01 00:00:00
+
+Survey of post-OCR processing approaches, 103, 2021-07-01 00:00:00
+
+Neural machine translation with BERT for post-OCR error detection and correction, 35, 2020-08-01 00:00:00
+
+Citation recommendation: approaches and datasets, 84, 2020-02-17 00:00:00
+
+YAKE! Keyword extraction from single documents using multiple local features, 476, 2020-01-01 00:00:00
+
+Deep statistical analysis of OCR errors for effective post-OCR processing, 51, 2019-06-01 00:00:00
+
+Survey of computational approaches to lexical semantic change, 148, 2018-11-15 00:00:00
+
+Survey of computational approaches to lexical semantic change detection, 148, 2018-11-15 00:00:00
+
+Survey of computational approaches to diachronic conceptual change, 55, 2018-11-15 00:00:00
+
+Yake! collection-independent automatic keyword extractor, 171, 2018-03-26 00:00:00
+
+A text feature based automatic keyword extraction method for single documents, 96, 2018-03-26 00:00:00
+
+The Past is Not a Foreign Country: Detecting Semantically Similar Terms across Time, 42, 2016-10-01 00:00:00
+
+Omnia mutantur, nihil interit: Connecting past with present by finding corresponding terms across time, 38, 2015-07-01 00:00:00
+
+A framework for analyzing semantic change of words across time, 118, 2014-09-08 00:00:00
+
+Survey of temporal information retrieval and related applications, 221, 2014-08-25 00:00:00
+
+Estimating document focus time, 52, 2013-10-27 00:00:00
+
+Studying how the past is remembered: towards computational history through large scale text mining, 83, 2011-10-24 00:00:00
+
+Extracting collective expectations about the future from large text collections, 54, 2011-10-24 00:00:00
+
+Trustworthiness analysis of web search results, 77, 2007-09-16 00:00:00
+
+Can social bookmarking enhance search in the web?, 219, 2007-06-18 00:00:00
+

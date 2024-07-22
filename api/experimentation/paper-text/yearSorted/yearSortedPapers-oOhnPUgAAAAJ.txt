@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Climax: A foundation model for weather and climate, 142, 2023-01-24 00:00:00
+
+Transformer Neural Processes: Uncertainty-Aware Meta Learning Via Sequence Modeling, 64, 2022-07-09 00:00:00
+
+Cyclip: Cyclic contrastive language-image pretraining, 97, 2022-05-28 00:00:00
+
+Online decision transformer, 148, 2022-02-11 00:00:00
+
+Frame averaging for invariant and equivariant network design, 85, 2021-10-07 00:00:00
+
+Decision transformer: Reinforcement learning via sequence modeling, 1114, 2021-06-02 00:00:00
+
+Pretrained transformers as universal computation engines, 203, 2021-03-09 00:00:00
+
+Permutation invariant graph generation via score-based generative modeling, 183, 2020-03-02 00:00:00
+
+Closed-loop optimization of fast-charging protocols for batteries with machine learning, 516, 2020-02-01 00:00:00
+
+Fair generative modeling via weak supervision, 119, 2019-10-26 00:00:00
+
+Bias Correction of Learned Generative Models using Likelihood-Free Importance Weighting, 116, 2019-03-27 00:00:00
+
+Stochastic optimization of sorting networks via continuous relaxations, 150, 2019-03-01 00:00:00
+
+Learning controllable fair representations, 164, 2018-12-11 00:00:00
+
+Neural joint source-channel coding, 92, 2018-11-19 00:00:00
+
+Modeling sparse deviations for compressed sensing using generative models, 75, 2018-07-03 00:00:00
+
+Learning policy representations in multiagent systems, 111, 2018-06-17 00:00:00
+
+Graphite: Iterative generative modeling of graphs, 270, 2018-03-28 00:00:00
+
+Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models, 194, 2017-05-24 00:00:00
+
+node2vec: Scalable feature learning for networks, 9503, 2016-07-03 00:00:00
+
+A deep hybrid model for weather forecasting, 236, 2015-08-10 00:00:00
+

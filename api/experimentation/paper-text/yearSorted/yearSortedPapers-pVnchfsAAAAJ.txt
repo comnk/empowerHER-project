@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Unsupervised and Zero-Shot Learning for Open-Domain Natural Language Processing, 3, None
+
+Model-Agnostic Zero-Shot Intent Detection via Contrastive Transfer Learning., 1, 2023-12-15 00:00:00
+
+FS3: Few-Shot and Self-Supervised Framework for Efficient Intrusion Detection in Internet of Things Networks, 2, 2023-12-04 00:00:00
+
+A deep learning approach for intrusion detection in Internet of Things using focal loss function, 36, 2023-07-01 00:00:00
+
+MobileRec: A large scale dataset for mobile apps recommendation, 2, 2023-03-12 00:00:00
+
+Robust zero-shot intent detection via contrastive transfer learning, 1, 2023-02-01 00:00:00
+
+Proactive prioritization of app issues via contrastive learning, 3, 2022-12-17 00:00:00
+
+Personalizing task-oriented dialog systems via zero-shot generalizable reward function, 11, 2022-10-17 00:00:00
+
+Effect of balancing data using synthetic data on the performance of machine learning classifiers for intrusion detection in computer networks, 28, 2022-04-01 00:00:00
+
+Zero-label anaphora resolution for off-script user queries in goal-oriented dialog systems, 5, 2022-01-01 00:00:00
+
+Generating predictable and adaptive dialog policies in single-and multi-domain goal-oriented dialog systems, 3, 2021-12-01 00:00:00
+
+Beast: Scalable exploratory analytics on spatio-temporal data, 19, 2021-10-26 00:00:00
+
+Generalized zero-shot intent detection via commonsense knowledge, 27, 2021-02-04 00:00:00
+
+Linguistically-enriched and context-awarezero-shot slot filling, 21, 2021-01-16 00:00:00
+
+Predictable and adaptive goal-oriented dialog policy generation, 4, 2021-01-01 00:00:00
+
+App-aware response synthesis for user reviews, 12, 2020-07-31 00:00:00
+
+Unsupervised paraphrasing via deep reinforcement learning, 52, 2020-07-05 00:00:00
+
+Euler++: Improved selectivity estimation for rectangular spatial records, 7, 2019-12-01 00:00:00
+
+Comparing synopsis techniques for approximate spatial data analysis, 12, 2019-07-01 00:00:00
+
+Experimental evaluation of sketching techniques for big spatial data, 7, 2018-10-11 00:00:00
+

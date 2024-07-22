@@ -1,55 +1,42 @@
-The hyperbolic smoothing clustering method
-Optimal covering of plane domains by circles via hyperbolic smoothing
-Hyperbolic penalty: a new method for nonlinear programming with inequalities
-This work intends to present and to analyze a new penalty method that purposes to solve the general nonlinear programming problem subject to inequality constraints. The proposed method has the important feature of being completely differentiable and combines features of both exterior and interior penalty methods. Numerical results for some problems are commented on.
+Paper Name, Citations, Publication Date
+The hyperbolic smoothing clustering method, 60, 2010-03-01 00:00:00
 
-Solving the minimum sum-of-squares clustering problem by hyperbolic smoothing and partition into boundary and gravitational regions
-Penalização hiperbólica: Um novo método para resolução de problemas de otimização
-Recentemente, tem crescido, na literatura, o interesse em resolver problemas de otimizacao global continua
- utilizando metaheuristicas. A Greedy Randomized Adaptive Search Procedure (GRASP) pertence a esse grupo
- de metaheuristicas. Recentemente, Hirsch et al. (2007) desenvolveram a primeira, e ate entao unica, adaptacao
- da metaheuristica GRASP para o dominio continuo, denominada C-GRASP (Continuous-GRASP). Posteriormente,
- Hirsch et al. (2008) desenvolveram um novo artigo, onde algumas melhorias no C-GRASP foram
- propostas. Nesse trabalho, introduziu-se o metodo EC-GRASP (Enhanced Continuous-GRASP), uma versao
- hibrida da metaheuristica C-GRASP com o metodo de busca direcionado, Busca por Padroes Adaptativos
- (Adaptive Pattern Search - APS) para resolucao de problemas de otimizacao global continua. O EC-GRASP
- e um metodo simples que nao utiliza calculos de derivadas, tornando-o uma boa aproximacao para resolucao
- de problemas de otimizacao global continua. A eficiencia e robustez do metodo sao avaliadas atraves da
- comparacao do metodo EC-GRASP com a metaheuristica C-GRASP proposta por Hirsch et al.(2007 e 2008).
- Para isso, um conjunto funcoes de testes multi-modal com minimo global conhecido e utilizado. Os resultados
- computacionais atestam a eficiencia e robustez do metodo.
- 
- Palavras-chave: C-GRASP; Metodo de busca por padroes adaptativos; Otimizacao global continua.
+Hyperbolic penalty: a new method for nonlinear programming with inequalities, 46, 2001-11-01 00:00:00
 
-An incremental clustering algorithm based on hyperbolic smoothing
-The Euclidean Steiner tree problem in Rn: A mathematical programming formulation
-Hyperbolic smoothing and penalty techniques applied to molecular structure determination
-Flying elephants: a general method for solving non-differentiable problems
-A model for the data extrapolation of greenhouse gas emissions in the Brazilian hydroelectric system
-Hydropower reservoirs are artificial water systems and comprise a small proportion of the Earth’s continental territory. However, they play an important role in the aquatic biogeochemistry and may affect the environment negatively. Since the 90s, as a result of research on organic matter decay in manmade flooded areas, some reports have associated greenhouse gas emissions with dam construction. Pioneering work carried out in the early period challenged the view that hydroelectric plants generate completely clean energy. Those estimates suggested that GHG emissions into the atmosphere from some hydroelectric dams may be significant when measured per unit of energy generated and should be compared to GHG emissions from fossil fuels used for power generation. The contribution to global warming of greenhouse gases emitted by hydropower reservoirs is currently the subject of various international discussions and debates. One of the most controversial issues is the extrapolation of data from different sites. In this study, the extrapolation from a site sample where measurements were made to the complete set of 251 reservoirs in Brazil, comprising a total flooded area of 32 485 square kilometers, was derived from the theory of self-organized criticality. We employed a power law for its statistical representation. The present article reviews the data generated at that time in order to demonstrate how, with the help of mathematical tools, we can extrapolate values from one reservoir to another without compromising the reliability of the results.
+Optimal covering of plane domains by circles via hyperbolic smoothing, 43, 2005-03-01 00:00:00
 
-Penalizaçao hiperbolica
-Neste trabalho apresentamos um metodo de Galerkin descontinuo para as equacoes de Navier-Stokes incompressiveis, bidimensionais em regime permanente. Usando a formulacao da funcao corrente, o problema se reduz para uma equacao biharmonica nao-linear que e linearizada com o metodo de iteracao de Picard. Para a equacao biharmonica linear, apresentamos uma formulacao com penalizacao interior do metodo de elementos finitos de Galerkin descontinuo. Esta formulacao e o resultado da combinacao de outras duas formulacoes, uma para a parte eliptica e outra para parte hiperbolica do problema. Sao apresentados resultados numericos que confirmam a eficiencia do metodo na resolucao numerica das equacoes de Navier-Stokes para uma ampla escala do numero de Reynolds.
+Solving the minimum sum-of-squares clustering problem by hyperbolic smoothing and partition into boundary and gravitational regions, 39, None
 
-Solving the continuous multiple allocation p-hub median problem by the hyperbolic smoothing approach
-Hub-and-spoke (HS) networks constitute an important approach for designing transportation and telecommunications systems. The continuous multiple allocation -hub median problem consists in finding the least expensive HS network, locating a given number of hubs in planar space and assigning traffic to them, given the demands between each origin-destination pair and the respective transportation costs, where each demand centre can receive and send flow through more than one hub. The specification of the problem corresponds to a strongly non-differentiable min-sum-min formulation. The proposed method overcomes this difficulty with the hyperbolic smoothing strategy, which has been proven able to solve large instances of clustering problems quite efficiently. The solution is ultimately obtained by solving a sequence of differentiable unconstrained low-dimension optimization subproblems. The consistency of the method is shown through a set of computational experiments with large hub-and-spoke problems in continuous space with up to 1000 cities.
+An incremental clustering algorithm based on hyperbolic smoothing, 27, 2014-10-30 00:00:00
 
-Optimal covering of solid bodies by spheres via the hyperbolic smoothing technique
-We consider the problem of optimally covering solid bodies by a given number of spheres. The mathematical modelling of this problem leads to a min–max–min formulation which, in addition to its intrinsic multi-level nature, has the significant characteristic of being non-differentiable. The use of the hyperbolic smoothing technique engenders a simple one-level nonlinear programming problem and allows overcoming the main difficulties presented by the original one. To illustrate the performance of the method we present computational results for two large test covering problems with up to 1,200,000 voxels. The first problem is the covering of a ring torus whose optimal solution is known whenever the number of covering spheres is small, and the second problem is a generic test problem.
+The Euclidean Steiner tree problem in Rn: A mathematical programming formulation, 25, 2000-11-01 00:00:00
 
-A hyperbolic smoothing approach to the Multisource Weber problem
-Adhesives having microreplicated topography and methods of making and using same
-Adhesives with smiles replicated topography is made by contacting the micro-embossed pattern in the layer of adhesive. When the adhesion interface is established between the adhesive layer and the supporting substrate, the topography of the adhesive surface controls the performance of the adhesion interface. Also discloses having the advantage of providing the micro-channel for outflow of the fluid during the active period, the article having a fine replicated adhesive surface. The multiple embossed pattern creates a fine replicated adhesive surface with a peg for both the micro channel and improved adhesion properties for the outflow of the fluid.
+Hyperbolic smoothing and penalty techniques applied to molecular structure determination, 22, 2011-11-01 00:00:00
 
-Accelerated hyperbolic smoothing method for solving the multisource Fermat–Weber and k-Median problems
-A geometric perspective of the Weiszfeld algorithm for solving the Fermat− Weber problem
-The Fermat−Weber problem is a classical location problem that has the Weiszfeld algorithm as its main iterative solution method. This article presents a geometric interpretation of its local convergence for the particular case of three points, with the solution constrained to be an interior point, which is fundamental to the present geometric interpretation. This constraint, on the other hand, implies that the weights associated to each point must obey triangle inequalities. The eigenvalues analysis is developed considering that all weights have the same value, which simplifies calculation and explanation, but the generalization of this analysis is straightforward, as commented in the text. Step-size scaling is also considered for accelerating the convergence rate. The accompanying eigenvalues analysis determines step-size multiplier ranges that ensure convergence. Moreover, the eigenvalues depend on a parameter that is computed based on the sample points configuration.
+Flying elephants: a general method for solving non-differentiable problems, 10, 2016-08-01 00:00:00
 
-Otimização do algoritmo de Backpropagation pelo uso da função de ativação bi-hiperbólica
-Neural Networks have been applied for time series prediction with good experimental results that indicate the high capacity to approximate functions with good precision. Most neural models used in these applications use activation functions with fixed parameters. However, it is known that the choice of activation function strongly influences the complexity and performance of the neural network and that a limited number of activation functions have been used. In this work, we propose the use of a family of free parameter asymmetric activation functions for neural networks and show that this family of defined activation functions satisfies the requirements of the universal approximation theorem. A methodology for the global optimization of this family of activation functions with free parameter and the weights of the connections between the processing units of the neural network is used. The central idea of the proposed methodology is to simultaneously optimize the weights and the activation function used in a multilayer perceptron network (MLP), through an approach that combines the advantages of simulated annealing, tabu search and a local learning algorithm, with the purpose of improving performance in the adjustment and forecasting of time series. We chose two learning algorithms: backpropagation with the term momentum (BPM) and LevenbergMarquardt (LM). I. INTRODUÇÃO Modelos não-lineares de redes neurais artificiais (RNA) fazem parte de uma importante classe de modelos que tem atraído atenção considerável em muitas aplicações. O uso desses modelos em muitos trabalhos aplicados é, muitas vezes, motivado por resultados empíricos indicando que, sob condições de regularidade, modelos relativamente simples de RNAs são capazes de aproximar qualquer função mensurável de Borel a qualquer grau de decisão [1]. Redes neurais com uma simples camada escondida usando funções sigmóides são aproximadores universais de funções, ou seja, estes modelos podem aproximar funções contínuas arbitrárias dado um número suficiente de neurônios [1], [2], [3], [4]. Mapeamentos de entrada-saída podem ser representados por redes neurais através da combinação de conexões ponderadas entre os neurônios da rede [4]. Funahashi [3] provou que qualquer mapeamento contínuo pode ser realizado por uma rede multilayer perceptron (MLP) com funções de ativação diferenciáveis e monotonicamente crescentes, em seu trabalho foi usado funções sigmóides na camada escondida e na camada de sáıda funções lineares. No problema de previsão de séries temporais, há várias décadas, muitos autores vêm utilizando diferentes métodos estatísticos para modelagem e previsão que variam de médias móveis e alisamento exponencial a regressões lineares ou nãolineares. Box e Jenkins [5] desenvolveram os modelos autorregressivos integrados médias móveis (ARIMA) para prever séries temporais. Para melhorar previsões de séries temporais com características não-lineares, vários pesquisadores desenvolveram métodos alternativos que modelam essas aproximações, por exemplo, modelos autorregressivos heteroscedásticos (ARCH) [6]. Apesar destes métodos mostrarem melhorias significativas sobre os modelos lineares, eles tendem a ser específicos para determinadas aplicações. Como os modelos de RNAs são usados como aproximadores universais de funções [1], muitos pesquisadores os vêm utilizando para prever diversos eventos não-lineares de séries temporais para avaliar a eficácia do desempenho desses modelos em relação aos modelos tradicionais de previsão [7], [8], [9], [10]. Em geral, o desempenho de RNAs depende do número de camadas escondidas, do número de neurônios escondidos, do algoritmo de aprendizagem e da função de ativação de cada neurônio. Entretanto, a maioria dos trabalhos relacionados com redes neurais está associada com os algoritmos de aprendizagem e seleção de arquitetura, negligenciando a importância das funções de ativação. A escolha da função de
+Solving the continuous multiple allocation p-hub median problem by the hyperbolic smoothing approach, 10, 2015-12-02 00:00:00
 
-Uma Funçao Ativaçao para Redes Neurais Artificiais Mais Flexıvel e Poderosa e Mais Rápida
-An evaluation of the bihyperbolic function in the optimization of the backpropagation algorithm
-The backpropagation algorithm is one of the most used tools for training artificial neural networks. However, this tool may be very slow in some practical applications. Many techniques have been discussed to speed up the performance of this algorithm and allow its use in an even broader range of applications. Although the backpropagation algorithm has been used for decades, we present here a set of computational results that suggest that by replacing bihyperbolic functions the backpropagation algorithm performs better than the traditional sigmoid functions. To the best of our knowledge, this finding was never previously published in the open literature. The efficiency and discrimination capacity of the proposed methodology are shown through a set of computational experiments, and compared with the traditional problems of the literature.
+A hyperbolic smoothing approach to the Multisource Weber problem, 9, 2014-09-01 00:00:00
+
+A model for the data extrapolation of greenhouse gas emissions in the Brazilian hydroelectric system, 8, 2016-06-13 00:00:00
+
+Optimal covering of solid bodies by spheres via the hyperbolic smoothing technique, 7, 2015-03-01 00:00:00
+
+A geometric perspective of the Weiszfeld algorithm for solving the Fermat− Weber problem, 5, None
+
+Accelerated hyperbolic smoothing method for solving the multisource Fermat–Weber and k-Median problems, 4, 2020-03-05 00:00:00
+
+An evaluation of the bihyperbolic function in the optimization of the backpropagation algorithm, 4, 2014-09-01 00:00:00
+
+Penalização hiperbólica: Um novo método para resolução de problemas de otimização, 3, 2008-12-01 00:00:00
+
+Adhesives having microreplicated topography and methods of making and using same, 1, 1997-05-30 00:00:00
+
+Penalizaçao hiperbolica, 0, 2005-06-01 00:00:00
+
+Otimização do algoritmo de Backpropagation pelo uso da função de ativação bi-hiperbólica, 0, 2021-07-29 00:00:00
+
+Uma Funçao Ativaçao para Redes Neurais Artificiais Mais Flexıvel e Poderosa e Mais Rápida, 0, None
 
 DONE

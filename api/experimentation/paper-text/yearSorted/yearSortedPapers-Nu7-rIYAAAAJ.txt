@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Multicriteria and multiobjective models for risk, reliability and maintenance decision analysis, 184, None
+
+Auto loan fraud detection using dominance-based rough set approach versus machine learning methods, 75, None
+
+Preference disaggregation on TOPSIS for sorting applied to an economic freedom assessment, 15, 2022-11-01 00:00:00
+
+A supply chain risk management maturity model and a multi-criteria classification approach, 8, 2021-03-01 00:00:00
+
+A new preference disaggregation TOPSIS approach applied to sort corporate bonds based on financial statements and expert's assessment, 37, 2020-08-15 00:00:00
+
+Financial modelling with multiple criteria decision making: A systematic literature review, 33, 2020-06-22 00:00:00
+
+Sorting with TOPSIS through boundary and characteristic profiles, 73, 2020-03-01 00:00:00
+
+A systematic airport runway maintenance and inspection policy based on a delay time modeling approach, 25, 2020-02-01 00:00:00
+
+A new PROMETHEE-based approach applied within a framework for conflict analysis in Evidence Theory integrating three conflict measures, 25, 2018-12-01 00:00:00
+
+Sovereign credit risk assessment with multiple criteria using an outranking method, 18, 2018-09-23 00:00:00
+
+A fuzzy hybrid integrated framework for portfolio optimization in private banking, 35, 2018-02-01 00:00:00
+
+Preference modeling experiments with surrogate weighting procedures for the PROMETHEE method, 43, 2018-01-16 00:00:00
+
+A flexible elicitation procedure for additive model scale constants, 27, 2017-05-11 00:00:00
+
+A multicriteria approach for analysis of conflicts in evidence theory, 68, 2016-06-10 00:00:00
+
+A multicriteria approach using MAUT to assist the maintenance of a water supply system located in a low-income community, 22, 2016-04-30 00:00:00
+
+Allocation of power-quality monitors using the P-median to identify nontechnical losses, 21, 2016-04-20 00:00:00
+
+A new method for elicitation of criteria weights in additive models: Flexible and interactive tradeoff, 204, 2016-04-01 00:00:00
+
+Optimizing the collections process in consumer credit, 25, 2010-11-01 00:00:00
+
+Multi-criteria decision model for selecting repair contracts by applying utility theory and variable interdependent parameters, 31, 2010-10-01 00:00:00
+
+A decision model for portfolio selection, 13, 2009-08-01 00:00:00
+

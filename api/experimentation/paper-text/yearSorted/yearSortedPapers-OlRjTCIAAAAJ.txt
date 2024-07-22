@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Energy efficient thermal management of data centers, 159, None
+
+Autonomic computing: concepts, infrastructure, and applications, 133, None
+
+High-performance hypervisor architectures: Virtualization in hpc systems, 105, None
+
+Towards IoT-DDoS prevention using edge computing, 75, None
+
+The edge-to-cloud continuum, 43, 2020-10-22 00:00:00
+
+Couper: Dnn model slicing for visual analytics containers at the edge, 46, 2019-11-07 00:00:00
+
+Kleio: A hybrid memory page scheduler with machine intelligence, 51, 2019-06-17 00:00:00
+
+Redesigning {LSMs} for Nonvolatile Memory with {NoveLSM}, 145, 2018-07-11 00:00:00
+
+Contemporary high performance computing, 173, 2017-11-23 00:00:00
+
+HeteroOS: OS Design for Heterogeneous Memory Management in Datacenter, 107, 2017-06-24 00:00:00
+
+Fast, scalable and secure onloading of edge functions using airbox, 65, 2016-10-01 00:00:00
+
+pVM: persistent virtual memory for efficient capacity scaling and object storage, 65, 2016-04-18 00:00:00
+
+S-NFV: Securing NFV states by using SGX, 109, 2016-03-11 00:00:00
+
+Merlin: Application-and platform-aware resource allocation in consolidated server systems, 42, 2014-11-03 00:00:00
+
+Optimizing Checkpoints Using NVM as Virtual Memory, 89, 2013-05-20 00:00:00
+
+VM power metering: feasibility and challenges, 68, 2011-01-03 00:00:00
+
+Differential virtual time (DVT): rethinking I/O service differentiation for virtual machines, 52, 2010-06-10 00:00:00
+
+On disk I/O scheduling in virtual machines, 49, 2010-03-13 00:00:00
+
+GViM: GPU-accelerated virtual machines, 257, 2009-03-31 00:00:00
+
+Performance implications of virtualizing multicore cluster machines, 61, 2008-03-31 00:00:00
+

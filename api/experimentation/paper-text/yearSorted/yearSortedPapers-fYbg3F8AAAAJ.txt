@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+A distribution-free theory of nonparametric regression, 2064, None
+
+Piecewise linear skeletonization using principal curves, 1, None
+
+Nonparametric regression based on hierarchical interaction models, 78, 2017-03-01 00:00:00
+
+Computer-aided breast cancer diagnosis based on the analysis of cytological images of fine needle biopsies, 207, 2013-07-30 00:00:00
+
+White blood cell differential counts using convolutional neural networks for low resolution images, 66, 2013-06-09 00:00:00
+
+Pricing of High‐Dimensional American Options by Neural Networks, 93, 2010-07-01 00:00:00
+
+Classification of breast cancer malignancy using cytological images of fine needle aspiration biopsies, 113, 2008-03-01 00:00:00
+
+Fast SVM training algorithm with decomposition on very large data sets, 243, 2005-04-01 00:00:00
+
+Image denoising using neighbouring wavelet coefficients, 185, 2004-05-17 00:00:00
+
+Contour-based handwritten numeral recognition using multiwavelets and neural networks, 63, 2003-07-01 00:00:00
+
+Learning and design of principal curves, 371, 2000-03-01 00:00:00
+
+Radial basis function networks and complexity regularization in function learning, 14, 1998-03-01 00:00:00
+
+Nonparametric estimation and classification using radial basis function nets and empirical risk minimization, 92, 1996-03-01 00:00:00
+
+On the strong universal consistency of nearest neighbor regression function estimates, 331, 1994-09-01 00:00:00
+
+Robust estimation for range image segmentation and reconstruction, 126, 1994-05-01 00:00:00
+
+On radial basis function nets and kernel regression: Statistical consistency, convergence rates, and receptive field size, 153, 1994-04-01 00:00:00
+
+Segmentation of handwritten digits using contour features, 77, 1993-10-20 00:00:00
+
+Rival penalized competitive learning for clustering analysis, RBF net, and curve detection, 654, 1993-07-01 00:00:00
+
+Methods of combining multiple classifiers and their applications to handwriting recognition, 2458, 1992-05-01 00:00:00
+
+Distribution-free pointwise consistency of kernel regression estimate, 127, 1984-12-01 00:00:00
+

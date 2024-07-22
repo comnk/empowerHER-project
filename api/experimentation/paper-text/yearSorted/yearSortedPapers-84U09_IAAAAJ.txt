@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Is it better to combine predictions?, 45, None
+
+Connected-UNets: a deep learning architecture for breast mass segmentation, 65, 2021-12-01 00:00:00
+
+IoT in smart cities: A survey of technologies, practices and challenges, 199, 2021-03-30 00:00:00
+
+Deep Learning Techniques for Speech Emotion Recognition, from Databases to Models, 160, 2021-02-01 00:00:00
+
+Ensemble deep learning models for heart disease classification: A case study from Mexico, 83, 2020-04-14 00:00:00
+
+A personalized autism diagnosis CAD system using a fusion of structural MRI and resting-state functional MRI data, 50, 2019-07-04 00:00:00
+
+A generalized deep learning-based diagnostic system for early diagnosis of various types of pulmonary nodules, 55, 2018-09-24 00:00:00
+
+Tissue classification and segmentation of pressure injuries using convolutional neural networks, 64, 2018-06-01 00:00:00
+
+Deep learning role in early diagnosis of prostate cancer, 77, 2018-05-27 00:00:00
+
+A new framework for incorporating appearance and shape features of lung nodules for precise diagnosis of lung cancer, 35, 2017-09-01 00:00:00
+
+3D Kidney Segmentation from Abdominal Images Using Spatial‐Appearance Models, 38, 2017-02-09 00:00:00
+
+Kidney segmentation from CT images using a 3D NMF-guided active contour model, 26, 2016-04-13 00:00:00
+
+Cyber security challenges in Smart Cities: Safety, security and privacy, 410, 2014-03-05 00:00:00
+
+Myocardial borders segmentation from cine MR images using bidirectional coupled parametric deformable models, 31, 2013-09-01 00:00:00
+
+Graph cut optimization for the Mumford-Shah model, 62, 2007-08-09 00:00:00
+
+A concentric morphology model for the detection of masses in mammography, 180, 2007-05-29 00:00:00
+
+A swarm approach for emission sources localization, 69, 2004-11-15 00:00:00
+
+A swarm-based fuzzy logic control mobile sensor network for hazardous contaminants localization, 101, 2004-10-25 00:00:00
+
+An approach to multimodal biomedical image registration utilizing particle swarm optimization, 414, 2004-06-01 00:00:00
+
+A NEW SEGMENTATION-BASED TRACKING FRAMEWORK FOR EXTRACTING THE LEFT VENTRICLE CAVITY FROM CINE CARDIAC MRI, -1, 
+

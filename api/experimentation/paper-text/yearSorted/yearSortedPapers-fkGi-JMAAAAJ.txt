@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Private convex empirical risk minimization and high-dimensional regression, 329, None
+
+Distributed differential privacy via shuffling, 305, 2018-08-04 00:00:00
+
+Algorithmic stability for adaptive data analysis, 255, 2015-11-08 00:00:00
+
+Local, private, efficient protocols for succinct histograms, 403, 2015-04-17 00:00:00
+
+Private empirical risk minimization: Efficient algorithms and tight error bounds, 568, 2014-10-18 00:00:00
+
+Analyzing graphs with node differential privacy, 342, 2013-03-03 00:00:00
+
+Private analysis of graph structure, 258, 2011-08-01 00:00:00
+
+Privacy-preserving statistical estimation with optimal convergence rates, 303, 2011-06-06 00:00:00
+
+Discovering frequent patterns in sensitive data, 266, 2010-07-25 00:00:00
+
+Differential privacy for statistics: What we know and what we want to learn, 300, 2010-04-01 00:00:00
+
+Leftover hashing against quantum side information, 247, 2010-02-12 00:00:00
+
+What can we learn privately?, 1295, 2008-03-06 00:00:00
+
+Composition attacks and auxiliary information in data privacy, 412, 2008-02-29 00:00:00
+
+Smooth sensitivity and sampling in private data analysis, 1101, 2007-06-11 00:00:00
+
+Robust fuzzy extractors and authenticated key agreement from close secrets, 219, 2006-08-20 00:00:00
+
+Calibrating noise to sensitivity in private data analysis, 7425, 2006-03-04 00:00:00
+
+Secure remote authentication using biometric data, 262, 2005-05-22 00:00:00
+
+Toward privacy in public databases, 316, 2005-02-10 00:00:00
+
+Fuzzy extractors: How to generate strong keys from biometrics and other noisy data, 2938, 2004-05-02 00:00:00
+
+Authentication of quantum messages, 292, 2001-11-01 00:00:00
+

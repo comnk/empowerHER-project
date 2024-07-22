@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Introduction to privacy-preserving data publishing: Concepts and techniques, 156, 2010-08-02 00:00:00
+
+K-isomorphism: privacy preserving network publication against structural attacks, 373, 2010-06-06 00:00:00
+
+Anonymizing transaction databases for publication, 220, 2008-08-24 00:00:00
+
+Minimality attack in privacy preserving data publishing, 324, 2007-09-23 00:00:00
+
+Utility-based anonymization using local recoding, 460, 2006-08-20 00:00:00
+
+(α, k)-anonymity: an enhanced k-anonymity model for privacy preserving data publishing, 716, 2006-08-20 00:00:00
+
+Hot sax: Efficiently finding the most unusual time series subsequence, 790, 2005-11-27 00:00:00
+
+Scaling and time warping in time series querying, 229, 2005-08-30 00:00:00
+
+Approximations to magic: Finding unusual medical time series, 140, 2005-06-23 00:00:00
+
+Haar wavelets for efficient similarity search of time-series: with and without time warping, 253, 2003-03-01 00:00:00
+
+Enhancing effectiveness of outlier detections for low density patterns, 553, 2002-05-06 00:00:00
+
+Discovering temporal patterns for interval-based events, 224, 2000-09-04 00:00:00
+
+Dynamic vp-tree indexing for n-nearest neighbor search given pair-wise distances, 147, 2000-07-01 00:00:00
+
+Entropy-based subspace clustering for mining numerical data, 614, 1999-08-01 00:00:00
+
+Efficient time series matching by wavelets, 1218, 1999-03-23 00:00:00
+
+Enhanced nearest neighbour search on the R-tree, 184, 1998-09-01 00:00:00
+
+Mining association rules with weighted items, 492, 1998-07-08 00:00:00
+
+Mining fuzzy association rules in databases, 551, 1998-03-01 00:00:00
+
+A fast distributed algorithm for mining association rules, 538, 1996-12-01 00:00:00
+
+Efficient mining of association rules in distributed databases, 416, 1996-12-01 00:00:00
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Objectformer for image manipulation detection and localization, 61, 2022-03-28 00:00:00
+
+Nerv: Neural representations for videos, 143, 2021-10-26 00:00:00
+
+Curriculum Manager for Source Selection in Multi-Source Domain Adaptation, 97, 2020-07-02 00:00:00
+
+Layouttransformer: Layout generation and completion with self-attention, 92, 2020-06-25 00:00:00
+
+Quantization Guided JPEG Artifact Correction, 85, 2020-04-17 00:00:00
+
+Detecting human-object interactions via functional generalization, 88, 2019-04-05 00:00:00
+
+Generate, Segment and Refine: Towards Generic Manipulation Segmentation, 79, 2018-11-24 00:00:00
+
+Actor-centric relation network, 200, 2018-07-28 00:00:00
+
+Tracking emerges by colorizing videos, 355, 2018-06-25 00:00:00
+
+Revisiting unreasonable effectiveness of data in deep learning era, 2116, 2017-07-10 00:00:00
+
+A-fast-rcnn: Hard positive generation via adversary for object detection, 550, 2017-04-11 00:00:00
+
+Beyond Skip Connections: Top-Down Modulation for Object Detection, 316, 2016-12-20 00:00:00
+
+Contextual Priming and Feedback for Faster R-CNN., 150, 2016-10-08 00:00:00
+
+Training region-based object detectors with online hard example mining, 2255, 2016-04-12 00:00:00
+
+Cross-stitch Networks for Multi-task Learning, 1191, 2016-04-12 00:00:00
+
+Watch and Learn: Semi-Supervised Learning of Object Detectors from Videos, 123, 2015-05-21 00:00:00
+
+Enriching Visual Knowledge Bases via Object Discovery and Segmentation, 123, 2014-06-23 00:00:00
+
+NEIL: Extracting Visual Knowledge from Web Data, 475, 2013-12-01 00:00:00
+
+Constrained semi-supervised learning using attributes and comparative attributes, 94, 2012-10-07 00:00:00
+
+Data-driven visual similarity for cross-domain image matching, 294, 2011-12-01 00:00:00
+

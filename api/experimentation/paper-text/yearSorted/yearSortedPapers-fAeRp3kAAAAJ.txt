@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Generating test data from state‐based specifications, 387, None
+
+MuJava: a mutation system for Java, 198, 2006-05-28 00:00:00
+
+Introduction to software testing, 1117, 2006-02-01 00:00:00
+
+Combination testing strategies: a survey, 467, 2005-09-01 00:00:00
+
+Testing web applications by modeling with FSMs, 390, 2005-07-01 00:00:00
+
+MuJava: an automated class mutation system, 656, 2005-06-01 00:00:00
+
+Generating test cases for web services using data perturbation, 206, 2004-09-01 00:00:00
+
+Inter-class mutation operators for Java, 240, 2002-11-12 00:00:00
+
+Quality attributes of web software applications, 383, 2002-03-01 00:00:00
+
+Mutation 2000: Uniting the orthogonal, 375, 2001-05-01 00:00:00
+
+Using UML collaboration diagrams for static checking and test generation, 274, 2000-10-02 00:00:00
+
+Generating tests from UML specifications, 474, 1999-10-28 00:00:00
+
+Automatically detecting equivalent mutants and infeasible paths, 311, 1997-09-01 00:00:00
+
+Mutation testing using mutant schemata, 3, 1997-04-02 00:00:00
+
+An Experimental Determination of Sufficient Mutant Operators, 683, 1996-04-01 00:00:00
+
+An experimental evaluation of selective mutation, 320, 1993-05-21 00:00:00
+
+Investigations of the software testing coupling effect, 420, 1992-01-02 00:00:00
+
+Constraint-based automatic test data generation, 889, 1991-09-01 00:00:00
+
+A fortran language system for mutation‐based software testing, 426, 1991-06-01 00:00:00
+
+An extended overview of the Mothra software testing environment, 300, 1988-07-19 00:00:00
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Mechanical design and performance specifications of anthropomorphic prosthetic hands: a review, 559, None
+
+Yale-CMU-Berkeley dataset for robotic manipulation research, 315, 2017-03-01 00:00:00
+
+The grasp taxonomy of human grasp types, 671, 2016-02-01 00:00:00
+
+Benchmarking in manipulation research: Using the Yale-CMU-Berkeley object and model set, 439, 2015-09-10 00:00:00
+
+The ycb object and model set: Towards common benchmarks for manipulation research, 683, 2015-07-01 00:00:00
+
+Analysis of human grasping behavior: Object characteristics and grasp type, 157, 2014-05-29 00:00:00
+
+Grasp frequency and usage in daily household and machine shop tasks, 199, 2013-07-01 00:00:00
+
+A modular, open-source 3D printed underactuated hand, 219, 2013-05-06 00:00:00
+
+A hand-centric classification of human and robot dexterous manipulation, 178, 2013-04-01 00:00:00
+
+Estimation of quasi-stiffness and propulsive work of the human ankle in the stance phase of walking, 141, 2013-03-21 00:00:00
+
+A compliant, underactuated hand for robust manipulation, 505, 2013-01-16 00:00:00
+
+Stability of small-scale UAV helicopters and quadrotors with added payload mass under PID control, 288, 2012-08-01 00:00:00
+
+Biomechanical considerations in the design of lower limb exoskeletons, 119, 2011-08-12 00:00:00
+
+Performance characteristics of anthropomorphic prosthetic hands, 139, 2011-08-12 00:00:00
+
+On dexterity and dexterous manipulation, 145, 2011-06-20 00:00:00
+
+Grasping from the air: Hovering capture and load stability, 318, 2011-05-09 00:00:00
+
+An investigation of grasp type and frequency in daily household and machine shop tasks, 163, 2011-05-09 00:00:00
+
+The highly adaptive SDM hand: Design and performance evaluation, 480, 2010-04-01 00:00:00
+
+Lower extremity exoskeletons and active orthoses: Challenges and state-of-the-art, 1256, 2008-02-01 00:00:00
+
+A robust compliant grasper via shape deposition manufacturing, 221, 2006-04-10 00:00:00
+

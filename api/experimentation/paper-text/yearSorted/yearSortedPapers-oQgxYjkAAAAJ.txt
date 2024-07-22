@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Analysis of synfire chains, 132, None
+
+Genetic drift in genetic algorithm selection schemes, 130, None
+
+Benefits of a population: Five mechanisms that advantage population-based algorithms, 78, None
+
+Fmix: Enhancing mixed sample data augmentation, 125, 2020-02-27 00:00:00
+
+Fspool: Learning set representations with featurewise sort pooling, 69, 2019-06-06 00:00:00
+
+Learning to count objects in natural images for visual question answering, 197, 2018-02-15 00:00:00
+
+SVM parameter optimization using grid search and genetic algorithm to improve classification performance, 320, 2016-12-01 00:00:00
+
+Novel centroid selection approaches for KMeans-clustering based recommender systems, 189, 2015-11-01 00:00:00
+
+Leveraging clustering approaches to solve the gray-sheep users problem in recommender systems, 122, 2014-06-01 00:00:00
+
+Application of bagging, boosting and stacking to intrusion detection, 120, 2012-07-13 00:00:00
+
+Unsupervised clustering approach for network anomaly detection, 179, 2012-04-24 00:00:00
+
+An improved switching hybrid recommender system using naive bayes classifier and collaborative filtering, 75, 2010-04-20 00:00:00
+
+A scalable, accurate hybrid recommender system, 147, 2010-01-09 00:00:00
+
+An analysis of the feasibility of short read sequencing, 140, 2005-11-07 00:00:00
+
+Training HMM structure with genetic algorithm for biological sequence analysis, 60, 2004-12-12 00:00:00
+
+Automatic gait recognition using area-based metrics, 167, 2003-10-01 00:00:00
+
+Modelling the dynamics of a steady-state genetic algorithm, 73, 1999-09-01 00:00:00
+
+The dynamics of a genetic algorithm for simple random Ising systems, 108, 1997-05-01 00:00:00
+
+Modelling evolving populations, 77, 1997-03-07 00:00:00
+
+Analysis of genetic algorithms using statistical mechanics, 231, 1994-02-28 00:00:00
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Shenango: Achieving high {CPU} efficiency for latency-sensitive datacenter workloads, 244, None
+
+AIFM: High-Performance, Application-Integrated Far Memory, 132, None
+
+Caladan: Mitigating interference at microsecond timescales, 120, None
+
+Overload control for {µs-scale}{RPCs} with breakwater, 38, None
+
+Efficiently mitigating transient execution attacks using the unmapped speculation contract, 13, None
+
+Nu: Achieving Microsecond-Scale Resource Fungibility with Logical Processes, 15, None
+
+Treehouse: A case for carbon-aware datacenter software, 38, 2022-01-06 00:00:00
+
+Hacking blind, 40, 2020-10-30 00:00:00
+
+Notary: A device for secure transaction approval, 23, 2019-10-27 00:00:00
+
+Shinjuku: Preemptive Scheduling for {μsecond-scale} Tail Latency, 154, 2019-02-26 00:00:00
+
+The IX operating system: Combining low latency, high throughput, and efficiency in a protected dataplane, 31, 2017-12-29 00:00:00
+
+Energy proportionality and workload consolidation for latency-critical applications, 68, 2015-08-27 00:00:00
+
+IX: a protected dataplane operating system for high throughput and low latency, 413, 2014-10-06 00:00:00
+
+Migrating virtual machines configured with pass-through devices, 0, 2013-09-30 00:00:00
+
+Dune: Safe user-level access to privileged {CPU} features, 280, 2012-10-08 00:00:00
+
+An operating system for multicore and clouds: Mechanisms and implementation, 112, 2010-06-10 00:00:00
+
+A unified operating system for clouds and manycore: fos, 38, 2009-11-20 00:00:00
+
+cpuidle: Do nothing, efficiently, 13, 1986-03-01 00:00:00
+
+Live migration of virtual machine during direct access to storage over SR IOV adapter, -1, 
+
+Live migration of virtual machine during direct access to storage over SR IOV adapter, -1, 
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+The role of veridicality and factivity in clause selection, 43, None
+
+An experimental investigation of partial control, 14, None
+
+Discovering classes of attitude verbs using subcategorization frame distributions, 0, None
+
+Everything is all it takes: A multipronged strategy for zero-shot cross-lingual information extraction, 28, 2021-09-14 00:00:00
+
+On believing and hoping whether, 9, 2021-06-04 00:00:00
+
+Gradual fine-tuning for low-resource domain adaptation, 31, 2021-03-03 00:00:00
+
+LOME: Large ontology multilingual extraction, 36, 2021-01-28 00:00:00
+
+Temporal reasoning in natural language inference, 41, 2020-11-01 00:00:00
+
+Reading the manual: Event extraction as definition comprehension, 57, 2019-12-03 00:00:00
+
+The universal decompositional semantics dataset and decomp toolkit, 19, 2019-09-30 00:00:00
+
+Fine-grained temporal relation extraction, 56, 2019-02-04 00:00:00
+
+Decomposing generalization: Models of generic, habitual, and episodic statements, 20, 2019-01-31 00:00:00
+
+Lexicosyntactic inference in neural models, 35, 2018-08-19 00:00:00
+
+Collecting diverse natural language inference problems for sentence representation evaluation, 1, 2018-04-23 00:00:00
+
+Neural models of factuality, 78, 2018-04-06 00:00:00
+
+Semantic information and the syntax of propositional attitude verbs, 24, 2018-03-01 00:00:00
+
+Inference is everything: Recasting semantic resources into a unified evaluation framework, 84, 2017-11-01 00:00:00
+
+The role of incremental parsing in syntactically conditioned word learning, 31, 2017-09-01 00:00:00
+
+Universal Decompositional Semantics on Universal Dependencies, 152, 2016-11-01 00:00:00
+
+A computational model of S-selection, 28, 2016-10-15 00:00:00
+

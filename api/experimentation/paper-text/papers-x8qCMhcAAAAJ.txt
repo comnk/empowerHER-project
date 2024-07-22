@@ -1,39 +1,42 @@
-Current advances, trends and challenges of machine learning and knowledge extraction: from machine learning to explainable AI
-Performance comparison between Naïve Bayes, decision tree and k-nearest neighbor in searching alternative design in an energy simulation tool
-Energy simulation tool is a tool to simulate energy use by a building prior to the erection of the building. Commonly it has a feature providing alternative designs that are better than the user's design. In this paper, we propose a novel method in searching alternative design that is by using classification method. The classifiers we use are Naive Bayes, Decision Tree, and k-Nearest Neighbor. Our experiments hows that Decision Tree has the fastest classification time followed by Naive Bayes and k-Nearest Neighbor. The differences between classification time of Decision Tree and Naive Bayes also between Naive Bayes and k-NN are about an order of magnitude. Based on Percision, Recall, F- measure, Accuracy, and AUC, the performance of Naive Bayes is the best. It outperforms Decision Tree and k-Nearest Neighbor on all parameters but precision. Energy simulation tool is a tool to simulate energy use by a building prior to the erection of the building. The output of such simulation is a value in kWh/m 2 called energy performance. The calculation of the building energy performance must be carried out by developers as part of requirements to get permit to build the building. The building can only be built if the energy performance is below the allowable standard. In order to get building energy performance below the standard, architects must revise the design several times. And in order to ease the design work of the architects, an energy simulation tool must have a feature that suggests a better alternative design. Since the alternative design search is actually a classification problem, hence in this paper we propose a novel method to search alternative design by using classification method. The classification methods used in here are Decision Tree, Naive Bayes, and k-Nearest Neighbor. We will then compare the performance of these three methods in searching alternative design in an energy simulation tools.
+Paper Name, Citations, Publication Date
+Sense & response service architecture (SARESA) an approach towards a real-time business intelligence solution and its use for a fraud detection application, 2918, 2018-02-01 00:00:00
 
-Retrospective DOSAK study on carcinomas of the oral cavity: The prognostic relevance of various factors at the time of the first admission to the patient
-The role of ICT to achieve the UN sustainable development goals (SDG)
-Information and communication technologies in tourism 1999: Proceedings of the international conference in Innsbruck, Austria, 1999
-UbiqLog: a generic mobile phone-based life-log framework
-A prototype model for data warehouse security based on metadata
-Gives an overview of security relevant aspects of existing OLAP/Data Warehouse solutions, an area which has seen rather little interest from product developers and is only beginning to be discussed in the research community. Following this description of the current situation, a metadata driven approach implemented as part of the WWW-EIS-DWH project is presented in detail. The prototype focuses on the technical realisation and is intended not to be open for use in different security policies.
+Performance comparison between Naïve Bayes, decision tree and k-nearest neighbor in searching alternative design in an energy simulation tool, 171, None
 
-The prognostic relevance of various factors at the time of the first admission of the patient*:: Retrospective DÖSAK study on carcinoma of the oral cavity
-An object oriented multidimensional data model for OLAP
-Transformation of requirement specifications expressed in natural language into an EER model
-Information technology for sustainable supply chain management: a literature survey
-ABSTRACT In supply chain management (SCM), two topics have gained importance over the last years. On the one hand, sustainable SCM (SSCM) has become increasingly relevant and many publications have contributed to the topic. On the other hand, information technology (IT) is being progressively considered as a key enabler for efficiency in supply chains. Several research efforts have contributed to the field of IT for SSCM. However, this paper is the first recent attempt to summarise the current state of the art of how IT can affect SSCM in any structured way and to compare it with IT for ‘general’ SCM to give guidance for future research. This paper surveys 55 peer-reviewed articles that were retrieved through keyword searches (until May 2014). The analysis identifies research deficits as well as a lack of scientific discourse employing empirical techniques and a lack of investigations on the social sustainability. Additionally, possible topics for further research were derived by comparing the survey’s results with the current research on IT for ‘general’ SCM following the analysis of 631 articles. Six fields could be identified, namely output/effects of IT, machine communication and multiagents, inputs and IT-supported processing, IT-enabled interorganisational exchange, quantitative IT approaches and a sector focus.
+Current advances, trends and challenges of machine learning and knowledge extraction: from machine learning to explainable AI, 166, 2018-08-27 00:00:00
 
-A security concept for OLAP
-A data warehouse collects and integrates data from multiple, autonomous, heterogeneous sources with the purpose of efficiently implementing decision support or OLAP queries. Much working data warehousing has been performed on view materialization and data integration, we focus on access and security management in OLAP and N-dimensional cube. Since data in data warehouse are valuable and an important cooperate resource, we define a security model for data warehouses which describes security constrains for roles in the data warehouse. Each user in the data warehouse has a role and each role has a security constrain list that builds the security profile of the role. According these role profile the user is authorized to query data from the data warehouse.
+Transformation of requirement specifications expressed in natural language into an EER model, 98, 1993-12-15 00:00:00
 
-Sense & response service architecture (SARESA) an approach towards a real-time business intelligence solution and its use for a fraud detection application
-We identify obfuscated gradients, a kind of gradient masking, as a phenomenon that leads to a false sense of security in defenses against adversarial examples. While defenses that cause obfuscated gradients appear to defeat iterative optimization-based attacks, we find defenses relying on this effect can be circumvented. We describe characteristic behaviors of defenses exhibiting the effect, and for each of the three types of obfuscated gradients we discover, we develop attack techniques to overcome it. In a case study, examining non-certified white-box-secure defenses at ICLR 2018, we find obfuscated gradients are a common occurrence, with 7 of 9 defenses relying on obfuscated gradients. Our new attacks successfully circumvent 6 completely, and 1 partially, in the original threat model each paper considers.
+UbiqLog: a generic mobile phone-based life-log framework, 97, 2013-04-01 00:00:00
 
-Digital transformation for sustainable development goals (sdgs)-a security, safety and privacy perspective on ai
-Gridminer: An infrastructure for data mining on computational grids
-Knowledge discovery in datasets integrated into Grids is a challenging research task. These large datasets are being collected and accumulated across a wide variety of fields, at a dramatical pace. They are often heterogeneous and geographically distributed and globally used by large user communities. There are major challenges involved in the efficient and reliable storage, fast processing, integration and extracting descriptive and predictive knowledge from this great mass of data. In this paper, we describe design principles and a service based software architecture of a novel infrastructure called the GridMiner for distributed data mining and data integration in Grid environments. This architecture is being implemented on top of the Globus 3.0 toolkit, using OGSA-DAI for access to Grid Data Sources.
+An object oriented multidimensional data model for OLAP, 89, 2000-06-21 00:00:00
 
-Novel mediator architectures for grid information systems
-A cloud repository and discovery framework based on a unified business and cloud service ontology
-Cloud computing introduces a fundamental shift in service delivery. A market registry, flexibility, exchangeability and integration of services are important issues for its success. In this work we introduce a unified Cloud and business service ontology with querying capabilities. Our framework addresses two aspects: on the one hand it gives answer to leading question how we can structure the term Cloud computing (as a question of basic research) and how we can enable a matching between offered Cloud services and demand. It closes the gap how we can summarize and describe Cloud services in a standardized way. On the other hand, it particularly addresses the demand for flexibility and exchangeability by the Cloud Computing paradigm and can serves as a repository of services.
+Retrospective DOSAK study on carcinomas of the oral cavity: The prognostic relevance of various factors at the time of the first admission to the patient, 81, None
 
-Ontology-based generation of bayesian networks
-Bayesian networks are indispensable for determining the probability of events which are influenced by various components. Bayesian probabilities encode degrees of belief about certain events and a dynamic knowledge body is used to strengthen, update, or weaken these assumptions. The creation of Bayesian networks requires at least three challenging tasks: (i) the determination of relevant influence factors, (ii) the determination of relationships between the identified influence factors, and (iii) the calculation of the conditional probability tables for each node in the Bayesian network.Based on existing domain ontologies, we propose a method for the ontology-based generation of Bayesian networks. The ontology is used to provide the necessary knowledge about relevant influence factors, their relationships, their weights, and the scale which represents potential states of the identified influence factors.The developed method enables, based on existing ontologies, the semi-automatic generation and alternation of Bayesian networks.
+The prognostic relevance of various factors at the time of the first admission of the patient*:: Retrospective DÖSAK study on carcinoma of the oral cavity, 81, None
 
-Capturing delays and valid times in data warehouses—towards timely consistent analyses
-Retaining data control to the client in infrastructure clouds
-Cloud computing allows delivering information technology power on demand. Be it either the hosting of a certain web application or the outsourcing of an entire server or data center by means of virtualization. Applying these techniques however goes along with handing over the ultimate control of data to a third party. This paper investigates the application of Nimbus as a cloud resource and shows an example implementation for retaining data control to the user based on virtual machine images encrypted on the client side. This means that the procedures involved for verifying validity and accessing the virtual machine have to be entirely provided by the user. We provide a sample implementation of a secure virtual machine consisting of an encrypted partition, containing the data to be hosted, and a boot system, containing the logic to verify and access the encrypted partition. Further details of the implementation are described and applied on a cloud resource available within the AustrianGrid project. The methods presented in this paper form the basis for subsequent research on single point of access grid resp. cloud resources. The results will be applied in the AustrianGrid Phase 2 research project "Grid-supported Breath Gas Analysis of Molecular Oriented Diseases".
+The role of ICT to achieve the UN sustainable development goals (SDG), 79, 2016-09-12 00:00:00
+
+Information technology for sustainable supply chain management: a literature survey, 76, 2017-07-03 00:00:00
+
+A prototype model for data warehouse security based on metadata, 74, 1998-08-26 00:00:00
+
+Gridminer: An infrastructure for data mining on computational grids, 60, 2003-09-01 00:00:00
+
+Retaining data control to the client in infrastructure clouds, 58, 2009-03-16 00:00:00
+
+A security concept for OLAP, 56, 1997-09-01 00:00:00
+
+Novel mediator architectures for grid information systems, 52, None
+
+A cloud repository and discovery framework based on a unified business and cloud service ontology, 52, 2012-06-24 00:00:00
+
+Ontology-based generation of bayesian networks, 51, 2009-03-16 00:00:00
+
+Capturing delays and valid times in data warehouses—towards timely consistent analyses, 50, 2002-09-01 00:00:00
+
+Digital transformation for sustainable development goals (sdgs)-a security, safety and privacy perspective on ai, 37, None
+
+Information and communication technologies in tourism 1999: Proceedings of the international conference in Innsbruck, Austria, 1999, 2, None
 
 DONE

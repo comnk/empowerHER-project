@@ -1,0 +1,33 @@
+Paper Name, Citations, Publication Date
+Enhancing smartphone malware detection performance by applying machine learning hybrid classifiers, 9, None
+
+Interdisciplinary Cybersecurity Projects Experience: Developing a Market-ready Workforce, 0, None
+
+MACHINE LEARNING METHOD FOR CYBER SECURITY INTRUSION DETECTION FOR INDUSTRIAL CONTROL SYSTEMS (ICSS), 7, 2023-02-05 00:00:00
+
+Using machine learning for raspberry pi network intrusion detection, 2, 2022-09-23 00:00:00
+
+Performance Evaluation of Machine-Learning Models for Self-Healing in 5G Networks, 0, 2022-01-01 00:00:00
+
+A compute and wait in pow (cw-pow) consensus algorithm for preserving energy consumption, 14, 2021-07-22 00:00:00
+
+Using a distributed deep learning algorithm for analyzing big data in smart cities, 8, 2020-04-13 00:00:00
+
+Development of undergraduate interdisciplinary cybersecurity program: A literature survey, 3, 2018-06-23 00:00:00
+
+Reconfigurable underwater embedded systems architectures, 12, 2017-07-01 00:00:00
+
+Generative versus discriminative classifiers for android anomaly‐based detection system using system calls filtering and abstraction process, 14, 2016-11-10 00:00:00
+
+Anomaly detection system using system calls for android smartphone system, 1, 2015-05-21 00:00:00
+
+Enhancing malware detection for Android systems using a system call filtering and abstraction process, 11, 2015-05-10 00:00:00
+
+Impact of dataset representation on smartphone malware detection performance, 4, 2013-06-03 00:00:00
+
+Performance evaluation of multi-pattern matching algorithms on smartphone, 5, 2012-11-12 00:00:00
+
+Smartphone malware detection: From a survey towards taxonomy, 46, 2012-10-16 00:00:00
+
+Security and Usability Testing of Smartphone Security (S2) Lab, -1, 
+

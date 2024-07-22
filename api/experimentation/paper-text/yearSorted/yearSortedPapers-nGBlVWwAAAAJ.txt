@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Cyber–physical system security for the electric power grid, 1033, None
+
+Operational technology and information technology in industrial control systems, 40, None
+
+Guide to operational technology (ot) security, 19, None
+
+Intrusion detection for cybersecurity of smart meters, 67, 2021-01-01 00:00:00
+
+CP-SAM: Cyber-physical security assessment metric for monitoring microgrid resiliency, 59, 2020-03-01 00:00:00
+
+Cyber physical security analytics for transactive energy systems, 54, 2020-03-01 00:00:00
+
+Measuring and enhancing microgrid resiliency against cyber threats, 36, 2019-07-15 00:00:00
+
+Energy crowdsourcing and peer-to-peer energy trading in blockchain-enabled smart grids, 267, 2019-01-03 00:00:00
+
+Cyber physical security analytics for anomalies in transmission protection systems, 49, 2018-09-01 00:00:00
+
+Cyber security of a power grid: State-of-the-art, 347, 2018-07-01 00:00:00
+
+A diversity-based substation cyber defense strategy utilizing coloring games, 31, 2018-02-07 00:00:00
+
+Smart contract-based campus demonstration of decentralized transactive energy auctions, 133, 2017-04-23 00:00:00
+
+Cybersecurity for distributed energy resources and smart inverters, 161, 2016-12-01 00:00:00
+
+Real-time co-simulation testbed for microgrid cyber-physical analysis, 36, 2016-04-11 00:00:00
+
+A multi-layered and kill-chain based security analysis framework for cyber-physical systems, 74, 2015-12-01 00:00:00
+
+Guide to industrial control systems (ICS) security, 1499, 2015-06-03 00:00:00
+
+Cyber-physical security of wide-area monitoring, protection and control in a smart grid environment, 99, 2013-12-27 00:00:00
+
+Cyber-physical security testbeds: Architecture, application, and evaluation for smart grid, 368, 2013-03-07 00:00:00
+
+Cyber attack exposure evaluation framework for the smart grid, 147, 2011-09-23 00:00:00
+
+Development of the PowerCyber SCADA security testbed, 71, 2010-04-21 00:00:00
+

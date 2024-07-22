@@ -1,39 +1,42 @@
-Towards an analysis of dynamic environments
-Although the interest in nature-inspired optimization of dynamic problems has been growing constantly over the past decade, very little has been done to analyze and characterize a changing fitness landscape. However, it would be very helpful for algorithm development to have a better understanding of the nature of fitness changes in dynamic real-world problems. In this paper, we propose a number of measures that can be used to analyze and characterize the dynamism in a problem changing over time. Additionally, we introduce a new dynamic multi-dimensional knapsack problem as a close-to-real-world test problem.
+Paper Name, Citations, Publication Date
+A new population based adaptive domination change mechanism for diploid genetic algorithms in dynamic environments, 81, 2005-11-01 00:00:00
 
-A new population based adaptive domination change mechanism for diploid genetic algorithms in dynamic environments
-Memetic algorithms and hyperhill-climbers
-Memetic algorithms (MAs) are meta-heuristics that join genetic algorithms with hill climbing. MAs have recognized success in solving difficult search and optimization problems. Hyperheuristics are proposed as an alternative to meta-heuristics. A hyperheuristic is a mechanism that chooses a heuristic from a set of heuristics, applies it to a candidate solution, and then makes a decision for accepting or rejecting the new solution. In a traditional MA, a single hill climbing method is utilized during the search process. In the presence of multiple hill climbers, the hyperheuristic mechanisms can be adapted for the MAs and employed to exploit the strength of each hill climber better without changing the framework of the MAs. In this study, a set of such mechanisms referred to as hyperhill-climbers is investigated for solving exam timetabling problems.
+Towards an analysis of dynamic environments, 80, 2005-06-25 00:00:00
 
-Traffic sign recognition using scale invariant feature transform and color classification
-In this paper, we propose a traffic sign detection and recognition technique by augmenting the scale invariant feature transform (SIFT) with new features related to the color of local regions. SIFT finds local invariant features in a given image and matches these features to the features of images that exist in the training set. Recognition is performed by finding out the training image that gives the maximum number of matches. In this study, performance of SIFT in traffic sign detection and recognition issue is investigated. Afterwards, new features which increase the performance are added. Those are color inspection by using proposed color classification method and inspecting the orientations of SIFT features. These features check the accuracy of matches which are found by SIFT. Color classification method finds out true colors of the pixels by applying some classification rules. It is observed that adding color and orientation inspections raises the recognition performance of SIFT significantly. Obtained results are very good and satisfying even for the images containing traffic signs which are rotated, have undergone affine transformations, have been damaged, occluded, overshadowed, had alteration in color, pictured in different weather conditions and different illumination conditions.
+Social Networks: analysis and case studies, 52, None
 
-Selection hyper-heuristics in dynamic environments
-Multiobjective evolutionary clustering of web user sessions: a case study in web page recommendation
-Evolutionary algorithms for the unit commitment problem
-This paper compares three evolutionary computation techniques, namely Steady-State Genetic Al- gorithms, Evolutionary Strategies and Differential Evolution for the Unit Commitment Problem. The comparison is based on a set of experiments conducted on benchmark datasets as well as on real-world data obtained from the Turkish Interconnected Power System. The results of two state-of-the-art evolu- tionary approaches, namely a Generational Genetic Algorithm and a Memetic Algorithm for the same benchmark datasets are also included in the paper for comparison. The tests show that Differential Evo- lution is the best performer among all approaches on the test data used in the paper. The performances of the other two evolutionary algorithms are also comparable to Differential Evolution and the results of the algorithms taken from literature showing that all EA approaches tested here are applicable to the Unit Commitment Problem. The results of this experimental study are very promising and promote further study.
+Traffic sign recognition using scale invariant feature transform and color classification, 46, 2008-12-16 00:00:00
 
-An efficient community detection method using parallel clique-finding ants
-Attractiveness of social network analysis as a research topic in many different disciplines is growing in parallel to the continuous growth of the Internet, which allows people to share and collaborate more. Nowadays, detection of community structures, which may be established on social networks, is a popular topic in Computer Science. High computational costs and non-scalability on large-scale social networks are the biggest drawbacks of popular community detection methods. The main aim of this study is to reduce the original network graph to a maintainable size so that computational costs decrease without loss of solution quality, thus increasing scalability on such networks. In this study, we focus on Ant Colony Optimization techniques to find quasi-cliques in the network and assign these quasi-cliques as nodes in a reduced graph to use with community detection algorithms. Experiments are performed on commonly used social networks with the addition of several large-scale networks. Based on the experimental results on various sized social networks, we may say that the execution times of the community detection methods are decreased while the overall quality of the solution is preserved.
+A novel differential evolution application to short-term electrical power generation scheduling, 41, 2011-07-01 00:00:00
 
-Graph-based sequence clustering through multiobjective evolutionary algorithms for web recommender systems
-In web recommender systems, clustering is done offline to extract usage patterns and a successful recommendation highly depends on the quality of this clustering solution. In these types of applications, data to be clustered is in the form of user sessions which are sequences of web pages visited by the user. Sequence clustering is one of the important tools to work with this type of data. One way to represent sequence data is through weighted, undirected graphs where each sequence is a vertex and the pairwise similarities between the user sessions are the edges. Through this representation, the problem becomes equivalent to graph partitioning which is NP-complete and is best approached using multiple objectives. Hence it is suitable to use multiobjective evolutionary algorithms (MOEA) to solve it. The main focus of this paper is to determine an effective MOEA to cluster sequence data. Several existing approaches in literature are compared on sample data sets and the most suitable approach is determined.
+Multiobjective evolutionary clustering of web user sessions: a case study in web page recommendation, 39, 2010-01-11 00:00:00
 
-The role of representations in dynamic knapsack problems
-A novel differential evolution application to short-term electrical power generation scheduling
-Active appearance model-based facial composite generation with interactive nature-inspired heuristics
-Application of a multi-objective genetic algorithm to the modified diet problem
-Evolutionary Multi-Objective Optimization is becoming a hot research area and quite a few papers regarding these algorithms have been published. However the role of local search techniques has not been expanded adequately. This paper studies the role of a local search technique called 2-opt for the Multi-Objective Travelling Salesman Problem (MOTSP). A new mutation operator called Jumping Gene (JG) is also used. Since 2-opt operator was intended for the single objective TSP, its domain has been expanded to MOTSP in this paper. This new technique is applied to the list of KroAB100 cities.
+Selection hyper-heuristics in dynamic environments, 37, 2013-12-01 00:00:00
 
-The memory indexing evolutionary algorithm for dynamic environments
-A hybrid multi-population framework for dynamic environments combining online and offline learning
-Generalizing hyper-heuristics via apprenticeship learning
-Social Networks: analysis and case studies
-A gene based adaptive mutation strategy for genetic algorithms
-Community Detection Using Ant Colony Optimization Techniques
-Parallel to the continuous growth of the Internet, which allows people to share and collaborate more, social networks have become more attractive as a research topic in many different disciplines. Community structures are established upon interactions between people. Detection of these communities has become a popular topic in computer science. Currently, community detection is commonly performed using Social Network Analysis (SNA) algorithms based on clustering. The main disadvantage of these methods is their high computational costs and non-scalability on large-scale social networks. Our main aim is to reduce these computational costs without loss on solution quality. In this study, we focus on Ant Colony Optimization techniques to find cliques in the network and assign these cliques as nodes in a reduced graph to use with SNA algorithms.
+Evolutionary algorithms for the unit commitment problem, 37, 2008-03-01 00:00:00
 
-A greedy hyper-heuristic in dynamic environments
-If an optimisation algorithm performs a search in an environment that changes over time, it should be able to follow these changes and adapt itself for handling them in order to achieve good results. Different types of dynamics in a changing environment require the use of different approaches. Hyper-heuristics represent a class of methodologies that are high level heuristics performing search over a set of low level heuristics. Due to the generality of hyper-heuristic frameworks, they are expected to be adaptive. Hence, a hyper-heuristic can be used in a dynamic environment to determine the approach to apply, adapting itself accordingly at each change. This study presents an initial investigation of hyper-heuristics in dynamic environments. A greedy hyper-heuristic is tested over a set of benchmark functions.
+The role of representations in dynamic knapsack problems, 36, 2006-04-10 00:00:00
+
+An efficient community detection method using parallel clique-finding ants, 32, 2010-07-18 00:00:00
+
+Memetic algorithms and hyperhill-climbers, 29, None
+
+Graph-based sequence clustering through multiobjective evolutionary algorithms for web recommender systems, 27, 2007-07-07 00:00:00
+
+The memory indexing evolutionary algorithm for dynamic environments, 25, 2005-03-30 00:00:00
+
+Active appearance model-based facial composite generation with interactive nature-inspired heuristics, 22, 2006-09-11 00:00:00
+
+Generalizing hyper-heuristics via apprenticeship learning, 22, 2013-04-03 00:00:00
+
+A gene based adaptive mutation strategy for genetic algorithms, 22, 2004-06-26 00:00:00
+
+A hybrid multi-population framework for dynamic environments combining online and offline learning, 21, 2013-08-11 00:00:00
+
+A greedy hyper-heuristic in dynamic environments, 16, 2009-07-08 00:00:00
+
+Community Detection Using Ant Colony Optimization Techniques, 13, None
+
+Application of a multi-objective genetic algorithm to the modified diet problem, 2, 2011-09-06 00:00:00
 
 DONE

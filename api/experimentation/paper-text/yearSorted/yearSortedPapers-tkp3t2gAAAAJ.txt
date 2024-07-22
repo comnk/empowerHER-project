@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Benchmark Models for the Analysis and Control of Small-Signal Oscillatory Dynamics in Power Systems, 220, None
+
+Power System Dynamic State and Parameter Estimation - Transition to Power Electronics-Dominated Clean Energy Systems - IEEE PES Taskforce on Power System Dynamic State and …, 6, None
+
+Robust Observer Based Methodology for Frequency and Rate of Change of Frequency Estimation in Power Systems, 9, 2021-05-03 00:00:00
+
+Dynamic State Estimation for Power System Control and Protection, 60, 2020-12-29 00:00:00
+
+Roles of dynamic state estimation in power system modeling, monitoring and operation, 114, 2020-05-11 00:00:00
+
+Rate of Change of Frequency Estimation for Power Systems using Interpolated DFT and Kalman Filter, 30, 2019-01-31 00:00:00
+
+Power system dynamic state estimation: Motivations, definitions, methodologies, and future work, 392, 2019-01-23 00:00:00
+
+Dynamic Estimation and Control of Power Systems, 27, 2018-10-22 00:00:00
+
+Decentralized nonlinear control for power systems using normal forms and detailed models, 22, 2018-08-01 00:00:00
+
+Estimation of Inherent Governor Dead-Band and Regulation Using Unscented Kalman Filter, 29, 2018-07-01 00:00:00
+
+Decentralized Robust Dynamic State Estimation in Power Systems using Instrument Transformers, 23, 2018-03-15 00:00:00
+
+An extended linear quadratic regulator for LTI systems with exogenous inputs, 33, 2017-02-01 00:00:00
+
+Decentralized Control of Oscillatory Dynamics in Power Systems Using an Extended LQR, 67, 2016-07-17 00:00:00
+
+An extended linear quadratic regulator and its application for control of power system dynamics, 3, 2016-01-08 00:00:00
+
+Benchmark Systems for Small Signal Stability Analysis and Control, 117, 2015-08-01 00:00:00
+
+Stability Analysis of Networked Control in Smart Grids, 139, 2015-07-26 00:00:00
+
+Estimating Dynamic Model Parameters for Adaptive Protection and Control in Power System, 58, 2015-07-01 00:00:00
+
+Decentralized Dynamic State Estimation in Power Systems Using Unscented Transformation, 248, 2014-07-01 00:00:00
+
+Report on the 68-bus, 16-machine, 5-area system, 98, 2013-12-03 00:00:00
+
+An Abandoned Object Detection System Based on Dual Background Segmentation, 72, 2009-09-02 00:00:00
+

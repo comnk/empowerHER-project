@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Multi-Agent systems: Simulation and applications, 2, None
+
+Grand challenges for modeling and simulation, 74, None
+
+Agents in discrete event simulation, 39, None
+
+Discrete event multi-level models for systems biology, 55, None
+
+SESSL: A domain-specific language for simulation experiments, 1, 2021-12-10 00:00:00
+
+Spatio-temporal model of endogenous ROS and raft-dependent WNT/beta-catenin signaling driving cell fate commitment in human neural progenitor cells, 52, 2015-03-01 00:00:00
+
+Rule-based multi-level modeling of cell biological systems, 169, 2011-10-17 00:00:00
+
+Flexible experimentation in the modeling and simulation framework JAMES II—implications for computational systems biology, 45, 2010-05-01 00:00:00
+
+Experiments with single core, multi-core, and GPU based computation of cellular automata, 48, 2009-09-20 00:00:00
+
+A flexible and scalable experimentation layer, 38, 2008-12-07 00:00:00
+
+Combining micro and macro-modeling in devs for computational biology, 55, 2007-12-09 00:00:00
+
+Plug'n simulate, 153, 2007-03-26 00:00:00
+
+Modeling dynamic environments in multi-agent simulation, 108, 2007-02-01 00:00:00
+
+2‐DE proteome analysis of a proliferating and differentiating human neuronal stem cell line (ReNcell VM), 120, 2006-03-01 00:00:00
+
+Discrete event, multi-level simulation of metabolite channeling, 50, 2004-07-01 00:00:00
+
+Dynamic structures in modeling and simulation: a reflective approach, 158, 2001-04-01 00:00:00
+
+Planning agents in JAMES, 56, 2001-02-01 00:00:00
+
+Modeling and simulation of mobile agents, 47, 2000-10-01 00:00:00
+
+Distributed, parallel simulation of multiple, deliberative agents, 63, 2000-05-01 00:00:00
+
+A Spatial Extension to the π Calculus, -1, 
+

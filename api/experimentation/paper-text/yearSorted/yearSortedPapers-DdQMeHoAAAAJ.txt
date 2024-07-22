@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+A survey of malware detection techniques, 462, None
+
+Design of mutant operators for the C programming language, 251, None
+
+Proteum-A tool for the assessment of test adequacy for C programs: User’s guide, 154, None
+
+An empirical comparison of mutation and data flow based test adequacy criteria, 21, None
+
+A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems., 92, None
+
+TABOR: A graphical model-based approach for anomaly detection in industrial control systems, 124, 2018-05-29 00:00:00
+
+WADI: a water distribution testbed for research in the design of secure cyber physical systems, 272, 2017-04-21 00:00:00
+
+A dataset to support research in the design of secure water treatment systems, 405, 2016-10-10 00:00:00
+
+SWaT: A water treatment testbed for research and training on ICS security, 457, 2016-04-11 00:00:00
+
+An overview of software cybernetics, 100, 2003-09-19 00:00:00
+
+Comparison of architecture-based software reliability models, 110, 2001-11-27 00:00:00
+
+Interface mutation: An approach for integration testing, 247, 2001-03-01 00:00:00
+
+Generating test data for branch coverage, 146, 2000-09-11 00:00:00
+
+Automated test data generation using an iterative relaxation method, 206, 1998-11-01 00:00:00
+
+On the estimation of reliability of a software system using reliabilities of its components, 209, 1997-11-02 00:00:00
+
+Test set size minimization and fault detection effectiveness: A case study in a space application, 194, 1997-08-11 00:00:00
+
+Reducing the cost of mutation testing: An empirical study, 242, 1995-12-01 00:00:00
+
+Effect of test set minimization on fault detection effectiveness, 401, 1995-04-23 00:00:00
+
+Performance, effectiveness, and reliability issues in software testing, 168, 1991-09-11 00:00:00
+
+Foundations of Software Testing: For VTU, -1, 
+

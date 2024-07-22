@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Principality and decidable type inference for finite-rank intersection types, 103, None
+
+Definability by programs in first-order structures, 27, None
+
+A verification platform for SDN-enabled applications, 40, 2014-03-11 00:00:00
+
+Verifiably-safe software-defined networks for CPS, 44, 2013-04-09 00:00:00
+
+System E: Expansion variables for flexible typing with linear and non-linear types and intersection types, 41, 2004-03-29 00:00:00
+
+Principality and type inference for intersection types using expansion variables, 95, 2004-01-23 00:00:00
+
+What are polymorphically-typed ambients?, 36, 2001-04-02 00:00:00
+
+Relating typability and expressiveness in finite-rank intersection type systems, 19, 1999-09-01 00:00:00
+
+A linearization of the lambda-calculus and consequences, 84, 1996-08-19 00:00:00
+
+New notions of reduction and non-semantic proofs of strong/spl beta/-normalization in typed/spl lambda/-calculi, 11, 1995-06-26 00:00:00
+
+A direct algorithm for type inference in the rank-2 fragment of the second-order λ-calculus, 68, 1994-07-01 00:00:00
+
+An analysis of ML typability, 90, 1994-03-01 00:00:00
+
+Type reconstruction in the presence of polymorphic recursion, 111, 1993-04-01 00:00:00
+
+Type reconstruction in finite rank fragments of the second-order λ-calculus, 48, 1992-06-01 00:00:00
+
+The undecidability of the semi-unification problem, 119, 1990-04-01 00:00:00
+
+ML typability is DEXPTIME-complete, 125, 1989-12-01 00:00:00
+
+Computational consequences and partial solutions of a generalized unification problem, 32, 1989-06-05 00:00:00
+
+An introduction to formal language theory, 811, 1988-08-08 00:00:00
+
+A programming approach to computability, 84, 1982-08-31 00:00:00
+
+A basis for theoretical computer science, 27, 1981-09-30 00:00:00
+

@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Differential geometry and image processing, 0, None
+
+Interval-Based Least Squares for Uncertainty-Aware Learning in Human-Centric Multimedia Systems, 0, 2020-10-06 00:00:00
+
+Affine interpolation in a lie group framework, 3, 2019-07-12 00:00:00
+
+Affine Interpolation in a Lie Group Framework, 3, 2019-07-12 00:00:00
+
+Signal processing on graphs: structure preserving maps, 0, 2019-02-01 00:00:00
+
+Lie Bodies Based Deformation Transfer, 0, 2018-12-18 00:00:00
+
+Lie bodies based 3d shape morphing and interpolation, 3, 2018-12-13 00:00:00
+
+Analysis of Downsampling of DCT-Graphs, 1, 2018-07-01 00:00:00
+
+Downsampling on bipartite graphs: An algebraic perspective, 1, 2017-11-01 00:00:00
+
+Estimating graph topology from sparse graph signals with an application to image denoising, 1, 2017-10-01 00:00:00
+
+A graph downsampling technique based on graph fourier transform, 2, 2016-12-22 00:00:00
+
+Tangled Splines, 0, 2016-10-10 00:00:00
+
+A novel active contour model for texture segmentation, 10, 2013-06-27 00:00:00
+
+A Novel Active Contour Model for Texture Segmentation, 10, 2013-06-27 00:00:00
+
+Active contour models for manifold valued image segmentation, 5, 2013-06-26 00:00:00
+
+Exploring the representation capabilities of the HOG descriptor, 14, 2011-11-01 00:00:00
+
+On restricting planar curve evolution to finite dimensional implicit subspaces with non-euclidean metric, 2, 2010-11-01 00:00:00
+
+Bicycle chain shape models, 15, 2009-06-20 00:00:00
+
+Curve evolution in subspaces, 1, 2007-05-30 00:00:00
+
+Curve Evolution in Subspaces and Exploring the Metameric Class of Histogram of Gradient Orientation based Features using Nonlinear Projection Methods, -1, 
+

@@ -1,0 +1,23 @@
+Paper Name, Citations, Publication Date
+Deep Policy Optimization with Temporal Logic Constraints, 0, 2024-02-24 00:00:00
+
+Compositional policy learning in stochastic control systems with formal guarantees, 4, 2023-12-03 00:00:00
+
+Eventual discounting temporal logic counterfactual experience replay, 4, 2023-03-03 00:00:00
+
+Programmatic reinforcement learning, 8, 2023-01-30 00:00:00
+
+Neurosymbolic Reinforcement Learning with Formally Verified Exploration, 56, 2020-09-26 00:00:00
+
+Learning Differentiable Programs with Admissible Neural Heuristics, 39, 2020-07-23 00:00:00
+
+Verifiable and interpretable reinforcement learning through program synthesis, 7, 2019-07-17 00:00:00
+
+Imitation-projected programmatic reinforcement learning, 70, 2019-07-01 00:00:00
+
+Control regularization for reduced variance reinforcement learning, 70, 2019-05-14 00:00:00
+
+Representing formal languages: A comparison between finite automata and recurrent neural networks, 21, 2019-02-27 00:00:00
+
+Programmatically interpretable reinforcement learning, 302, 2018-04-06 00:00:00
+

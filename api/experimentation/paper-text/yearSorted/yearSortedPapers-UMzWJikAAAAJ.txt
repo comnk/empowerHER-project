@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+3d depth cameras in vision: Benefits and limitations of the hardware: With an emphasis on the first-and second-generation kinect models, 2, None
+
+Methods and apparatus for multi-frequency camera, 1, 2022-12-01 00:00:00
+
+Not just streaks: Towards ground truth for single image deraining, 28, 2022-06-22 00:00:00
+
+Synthetic generation of face videos with plethysmograph physiology, 31, 2022-06-01 00:00:00
+
+Achieving fairness in medical devices, 36, 2021-04-02 00:00:00
+
+Deep polarization cues for transparent object segmentation, 91, 2020-06-01 00:00:00
+
+Polarized non-line-of-sight imaging, 24, 2020-06-01 00:00:00
+
+Deep shape from polarization, 88, 2020-05-25 00:00:00
+
+Blending diverse physical priors with neural networks, 27, 2019-09-25 00:00:00
+
+Thermal non-line-of-sight imaging, 50, 2019-05-01 00:00:00
+
+Depth sensing using geometrically constrained polarization normals, 61, 2017-06-01 00:00:00
+
+Macroscopic interferometry: Rethinking depth estimation with frequency-domain time-of-flight, 31, 2016-06-01 00:00:00
+
+Occluded imaging with time-of-flight sensors, 113, 2016-03-15 00:00:00
+
+Polarized 3d: High-quality depth sensing with polarization cues, 174, 2015-12-07 00:00:00
+
+A light transport model for mitigating multipath interference in tof sensors, 14, 2015-01-20 00:00:00
+
+Active printed materials for complex self-evolving deformations, 449, 2014-12-17 00:00:00
+
+Resolving multipath interference in time-of-flight imaging via modulation frequency diversity and sparse regularization, 129, 2014-03-15 00:00:00
+
+Coded time of flight cameras: sparse deconvolution to address multipath interference and recover time profiles, 125, 2013-11-01 00:00:00
+
+Depth sensing using optical pulses and fixed coded aperature, -1, 
+
+Methods and apparatus for enhancing depth maps with polarization cues, -1, 
+

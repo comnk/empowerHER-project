@@ -1,33 +1,42 @@
-The future is big graphs: a community view on graph processing systems
-Driving innovation through big open linked data (BOLD): Exploring antecedents using interpretive structural modelling
-When are two workflows the same?
-In the area of workflow management, one is confronted with a large number of competing languages and the relations between them (e.g. relative expressiveness) are usually not clear. Moreover, even within the same language it is generally possible to express the same workflow in different ways, a feature known as variability. This paper aims at providing some of the formal groundwork for studying relative expressiveness and variability by defining notions of equivalence capturing different views on how workflow systems operate. Firstly, a notion of observational equivalence in the absence of silent steps is defined and related to classical bisimulation. Secondly, a number of equivalence notions in the presence of silent steps are defined. A distinction is made between the case where silent steps are visible (but not controllable) by the environment and the case where silent steps are not visible, i.e., there is an alternation between system events and environment interactions. It is shown that these notions of equivalence are different and do not coincide with classical notions of bisimulation with silent steps (e.g. weak and branching).
+Paper Name, Citations, Publication Date
+Driving innovation through big open linked data (BOLD): Exploring antecedents using interpretive structural modelling, 105, 2016-07-13 00:00:00
 
-In-memory database acceleration on FPGAs: a survey
-Satisfiability of XPath expressions
-Serimi-resource description similarity, rdf instance matching and interlinking
-The interlinking of datasets published in the Linked Data Cloud is a challenging problem and a key factor for the success of the Semantic Web. Manual rule-based methods are the most effective solution for the problem, but they require skilled human data publishers going through a laborious, error prone and time-consuming process for manually describing rules mapping instances between two datasets. Thus, an automatic approach for solving this problem is more than welcome. In this paper, we propose a novel interlinking method, SERIMI, for solving this problem automatically. SERIMI matches instances between a source and a target datasets, without prior knowledge of the data, domain or schema of these datasets. Experiments conducted with benchmark collections demonstrate that our approach considerably outperforms state-of-the-art automatic approaches for solving the interlinking problem on the Linked Data Cloud.
+Satisfiability of XPath expressions, 91, 2003-09-06 00:00:00
 
-A structural approach to indexing triples
-A transaction model for XML databases
-DFL: A dataflow language based on Petri nets and nested relational calculus
-A formal semantics for the Taverna 2 workflow model
-Typing graph-manipulation operations
-Pg-keys: Keys for property graphs
-We report on a community effort between industry and academia to shape the future of property graph constraints. The standardization for a property graph query language is currently underway through the ISO Graph Query Language (GQL) project. Our position is that this project should pay close attention to schemas and constraints, and should focus next on key constraints. The main purposes of keys are enforcing data integrity and allowing the referencing and identifying of objects. Motivated by use cases from our industry partners, we argue that key constraints should be able to have different modes, which are combinations of basic restriction that require the key to be exclusive, mandatory, and singleton. Moreover, keys should be applicable to nodes, edges, and properties since these all can represent valid real-life entities. Our result is PG-Keys, a flexible and powerful framework for defining key constraints, which fulfills the above goals. PG-Keys is a design by the Linked Data Benchmark Council's Property Graph Schema Working Group, consisting of members from industry, academia, and ISO GQL standards group, intending to bring the best of all worlds to property graph practitioners. PG-Keys aims to guide the evolution of the standardization efforts towards making systems more useful, powerful, and expressive.
+When are two workflows the same?, 87, None
 
-Storing and indexing massive RDF datasets
-PG-Schema: Schemas for property graphs
-Property graphs have reached a high level of maturity, witnessed by multiple robust graph database systems as well as the ongoing ISO standardization effort aiming at creating a new standard Graph Query Language (GQL). Yet, despite documented demand, schema support is limited both in existing systems and in the first version of the GQL Standard. It is anticipated that the second version of the GQL Standard will include a rich DDL. Aiming to inspire the development of GQL and enhance the capabilities of graph database systems, we propose PG-Schema, a simple yet powerful formalism for specifying property graph schemas. It features PG-Schema with flexible type definitions supporting multi-inheritance, as well as expressive constraints based on the recently proposed PG-Keys formalism. We provide the formal syntax and semantics of PG-Schema, which meet principled design requirements grounded in contemporary property graph management scenarios, and offer a detailed comparison of its features with those of existing schema languages and graph database systems.
+Serimi-resource description similarity, rdf instance matching and interlinking, 72, 2011-07-06 00:00:00
 
-A light but formal introduction to XQuery
-SERIMI: Class-based Disambiguation for Effective Instance Matching over Heterogeneous Web Data.
-matching has been studied with focus on the single- domain setting, while less attention is given to the hetero- geneous environment of the Web, where data comes from dierent domains and are associated with dierent schemas. For this heterogeneous setting, we propose an unsupervised schema-agnostic approach that focuses on the renement (disambiguation) of candidate instances (resulting from block- ing). Given instances of a source dataset that belong to a class, it computes candidates in the target datasets and re- nes them such that the remaining matches correspond to the source instances at the class level. However, no schema knowledge and explicit correspondences between classes in the source and target datasets are required for this. Rather, the disambiguation is performed based on an instance-based representation of classes computed online. We evaluated our work using experiments on large-scale real-world datasets provided by a benchmark. The proposed solution outper- formed two alternative approaches for instance matching in 70% of the cases, and in those cases we improved average F-measure by 10%.
+A structural approach to indexing triples, 62, 2012-05-27 00:00:00
 
-On the relationship between workflow models and document types
-Avoiding unnecessary ordering operations in XPath
-Path locks for XML document collaboration
-The hierarchical and semistructured nature of XML data can cause complicated update-behavior. The updates are not limited to entire document trees, but can involve subtrees and even individual elements. These document parts correspond to, e.g. sections in text documents or sub-diagrams in vector graphics files. Providing suitable locking mechanisms for semi-structured data can significantly improve collaboration systems that store their data as XML documents. We show that concurrency control mechanisms in CVS, relational, and object oriented database systems are inadequate for collaboration systems based on semistructured data. We therefore propose a new locking scheme of fine granularity based on path locks. We also show that our proposed mechanism avoids conflicts by ensuring serializability, supports both top-down and bottom-up query evaluation, and is relatively efficient.
+In-memory database acceleration on FPGAs: a survey, 60, 2019-10-26 00:00:00
 
-GOAL, A graph-based object and association language
+A formal semantics for the Taverna 2 workflow model, 53, 2010-09-01 00:00:00
+
+Typing graph-manipulation operations, 49, 2003-01-08 00:00:00
+
+Storing and indexing massive RDF datasets, 49, None
+
+DFL: A dataflow language based on Petri nets and nested relational calculus, 44, 2008-05-01 00:00:00
+
+A transaction model for XML databases, 42, 2004-03-01 00:00:00
+
+Pg-keys: Keys for property graphs, 35, 2021-06-09 00:00:00
+
+A light but formal introduction to XQuery, 34, 2004-08-29 00:00:00
+
+Path locks for XML document collaboration, 31, 2002-12-12 00:00:00
+
+Avoiding unnecessary ordering operations in XPath, 30, 2003-09-06 00:00:00
+
+GOAL, A graph-based object and association language, 28, None
+
+PG-Schema: Schemas for property graphs, 27, 2022-11-20 00:00:00
+
+SERIMI: Class-based Disambiguation for Effective Instance Matching over Heterogeneous Web Data., 26, None
+
+On the relationship between workflow models and document types, 24, 2009-03-01 00:00:00
+
+The future is big graphs: a community view on graph processing systems, -1, 
+
 DONE
