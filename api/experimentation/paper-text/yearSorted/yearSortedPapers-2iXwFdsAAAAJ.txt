@@ -1,0 +1,35 @@
+Paper Name, Citations, Publication Date
+A parallel algorithm for long-timescale simulation of concentrated vesicle suspensions in three dimensions, 9, None
+
+Dynamics Of Inextensible Vesicles Suspended In A Confined Two-Dimensional Stokes Flow, 0, None
+
+A robust solver for elliptic PDEs in 3D complex geometries, 11, 2020-02-11 00:00:00
+
+Scalable simulation of realistic volume fraction red blood cell flows through vascular networks, 15, 2019-09-23 00:00:00
+
+Parallel contact-aware simulations of deformable particles in 3D Stokes flow, 4, 2018-12-11 00:00:00
+
+Worst-case stress relief for microstructures, 57, 2017-07-20 00:00:00
+
+Contact-aware simulations of particulate Stokesian suspensions, 17, 2016-12-06 00:00:00
+
+Ubiquitous evaluation of layer potentials using Quadrature by Kernel-Independent Expansion, 22, 2016-12-03 00:00:00
+
+A fast platform for simulating semi-flexible fiber suspensions applied to cell mechanics, 73, 2016-02-18 00:00:00
+
+A tensor-train accelerated solver for integral equations in complex geometries, 30, 2015-11-19 00:00:00
+
+Cytoplasmic flows as signatures for the mechanics of mitotic positioning, 51, 2015-11-08 00:00:00
+
+Boundary integral method for the flow of vesicles with viscosity contrast in three dimensions, 35, 2015-10-01 00:00:00
+
+Parallel algorithms for direct blood flow simulations, 0, 2012-02-21 00:00:00
+
+A fast algorithm for simulating vesicle flows in three dimensions, 152, 2011-06-01 00:00:00
+
+Vesicle migration and spatial organization driven by flow line curvature, 35, 2011-01-10 00:00:00
+
+Petascale direct numerical simulation of blood flow on 200k cores and heterogeneous architectures, 161, 2010-11-13 00:00:00
+
+Dynamic simulation of locally inextensible vesicles suspended in an arbitrary two-dimensional domain, a boundary integral method, 13, 2010-09-01 00:00:00
+

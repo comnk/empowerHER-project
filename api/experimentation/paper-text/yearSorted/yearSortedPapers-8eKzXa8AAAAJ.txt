@@ -1,0 +1,41 @@
+Paper Name, Citations, Publication Date
+Implementation and experimental performance evaluation of a hybrid interrupt-handling scheme, 42, None
+
+Coscfair: Ensuring subgroup fairness through fair classification framework, 0, None
+
+Machine Learning—Evaluation (Cross-validation, Metrics, Importance Scores...), 0, 2024-04-09 00:00:00
+
+Prefixcdd: Effective online concept drift detection over event streams using prefix trees, 3, 2023-06-01 00:00:00
+
+Manipulation detection in cryptocurrency markets: An anomaly and change detection based approach, 3, 2022-04-25 00:00:00
+
+Pattern functional dependencies for data cleaning, 25, 2020-01-01 00:00:00
+
+ANMAT: automatic knowledge discovery and error detection through pattern functional dependencies, 7, 2019-06-25 00:00:00
+
+FAHES: A robust disguised missing values detector, 34, 2018-07-19 00:00:00
+
+Seeping semantics: Linking datasets using word embeddings for data discovery, 110, 2018-04-16 00:00:00
+
+Building data civilizer pipelines with an advanced workflow engine, 10, 2018-04-16 00:00:00
+
+FAHES: Detecting Disguised Missing Values., 8, 2018-04-16 00:00:00
+
+A demo of the data civilizer system, 33, 2017-05-09 00:00:00
+
+KDE-Track: An efficient dynamic density estimator for data streams, 28, 2017-03-01 00:00:00
+
+Minimizing User Involvement For Learning Human Mobility Patterns From Location Traces, 11, 2016-02-12 00:00:00
+
+A pca-based change detection framework for multidimensional data streams: Change detection in multidimensional data streams, 110, 2015-08-10 00:00:00
+
+A new study of two divergence metrics for change detection in data streams, 2, 2014-08-18 00:00:00
+
+Efficient estimation of dynamic density functions with an application to outlier detection, 10, 2012-10-29 00:00:00
+
+Improving snort performance under linux, 34, 2009-12-01 00:00:00
+
+Boosting throughput of Snort NIDS under Linux, 13, 2008-12-01 00:00:00
+
+Experimental performance evaluation of a hybrid packet reception scheme for Linux networking subsystem, 3, 2008-12-01 00:00:00
+
